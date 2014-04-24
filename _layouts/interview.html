@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<article class="interview">
+	{% assign selected = true %}
+	{% assign interview = page %}
+	{% include summary.html %}
+
+	<div id="answers">
+	{{content}}
+	</div>
+  
+</article>
