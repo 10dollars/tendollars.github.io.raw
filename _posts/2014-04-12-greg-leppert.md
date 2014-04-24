@@ -32,7 +32,7 @@ The HipChat integration was focused on helping a small team of people have that 
 
 I think presence is powerful. Content that is largely static, that was previously constructed, suddenly becomes living, even though it's not the author who is breathing life into it. In that regard, the web is much like architecture --- its pages are simply buildings that ask us to inhabit them. But much of the web wasn't constructed with that in mind, so we've been building tools to layer it on top.
 
-That's all a fancy way of saying its nice not to be alone when you're experiencing new things, however mundane they might be.
+That's all a fancy way of saying it's nice not to be alone when you're experiencing new things, however mundane they might be.
 
 #### What's the coolest use of Reading you've seen from someone? Have you seen any surprising workflows?
 
@@ -42,7 +42,7 @@ The thought of someone generating, and spreading, new ideas that use one of my c
 
 #### Do you find yourself clicking the extension to see who's on the page? Sometimes I try to see if I can predict when friends will be there when I do mark it.
 
-All the time! I love seeing the people I don't know as much as the people I do. Sometimes it's easy to trace how we all arrived there (via MetaFilter, for instance) but other times it feels like serendipity. When I see someone I've never met on a page I'm reading, I find myself thinking about the trillions of pages on the web and how we both ended up at the same place at the same time for no other reason than we find the same things compelling. Thats the foundation for a friendship, if I've ever seen one, and a perfect reason to say hello.
+All the time! I love seeing the people I don't know as much as the people I do. Sometimes it's easy to trace how we all arrived there (via MetaFilter, for instance) but other times it feels like serendipity. When I see someone I've never met on a page I'm reading, I find myself thinking about the trillions of pages on the web and how we both ended up at the same place at the same time for no other reason than we find the same things compelling. That's the foundation for a friendship, if I've ever seen one, and a perfect reason to say hello.
 
 #### Was that type of interaction something you tried to take into account when you were expanding Reading from a HipChat plugin for your office to something for a wider audience? Like, people starting to get a sense of one another from these reading lists. Piecing together an image of someone from all these tiny pieces of ambient information?
 
@@ -52,7 +52,7 @@ That's exactly it, and ambient information is a wonderful term for the output. E
 
 #### I was wondering if you had any theories you were trying to test out for finding a balance between intimate and global sharing, and what you think separates a Reading comments section from the default comments section taking place on the same page.
 
-This really stemmed from Reading being a somewhat small community and the web being a rather large place. There's a line of code thats been commented out in the Reading codebase with a note that says "uncomment when needed". That line would filter the list of readers and comments, limiting them to the people you follow. My hope, and why it was unfiltered by default, is that Reading will gather people around distinct ideas and interests rather than broad topics.
+This really stemmed from Reading being a somewhat small community and the web being a rather large place. There's a line of code that's been commented out in the Reading codebase with a note that says "uncomment when needed". That line would filter the list of readers and comments, limiting them to the people you follow. My hope, and why it was unfiltered by default, is that Reading will gather people around distinct ideas and interests rather than broad topics.
 
 I've often wondered if the breadth of the premise that brings people together correlates to the potential for conflict and noise. With Reading, you're seeing specific people and specific comments because you're all reading a specific piece of content. The next page you post to Reading might have an entirely new set of folks. Contrast this with a community where you're bound together by topics as broad as "videos" or "sports" where users will have a much greater challenge finding common ground.
 
