@@ -12,7 +12,7 @@ My name is [Greg Leppert](http://twitter.com/leppert) and I build [Reading.am](h
 
 #### Can you describe Reading really quick?
 
-Reading is push-button link sharing. When you sign up, Reading hands you two standard issue items - a bookmarklet for posting the current page youre visiting and a social feed for following what your friends are posting. The goal is to make it as easy as possible for you to get a feel for, and feed into, the zeitgeist of your community. Can I use the term zeitgeist with a straight face? Probably not. Assume that I winced there when I typed it.
+Reading is push-button link sharing. When you sign up, Reading hands you two standard issue items -- a bookmarklet for posting the current page youre visiting and a social feed for following what your friends are posting. The goal is to make it as easy as possible for you to get a feel for, and feed into, the zeitgeist of your community. Can I use the term zeitgeist with a straight face? Probably not. Assume that I winced there when I typed it.
 
 A better phrasing might be that Reading lets you show other people what you're thinking about without forcing you to have an opinion about it beforehand. I find freeform text boxes somewhat intimidating in that regard.
 
