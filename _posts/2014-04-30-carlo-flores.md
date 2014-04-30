@@ -3,7 +3,7 @@ layout: interview
 slug: carlo.flores
 title: Carlo Flores - EdgeCats.net
 summary: Big Dog at EdgeCast
-categories: [cats, gifs, ]
+categories: [cats, gifs]
 ---
 
 #### Who are you and what do you do?
@@ -20,7 +20,7 @@ It's really just a little [Node.js](http://nodejs.org) app using [Express.js](ht
 
 I don't keep a collection of gifs around on a harddrive, so storing them on a webserver was one of the wins of edgecats.  Gifs are contributed by the community via pull requests on github, or by excellent gifs linked to me in various chats and Reddit, of course.
 
-#### Any normal cat loving person can land on the site and get a cat gif right away, but there's actually a surprising amount of functionality built into edgecats. You can plug edgecats.net/auto to get a new cat every 60 seconds, or use /random to get a link for a random cat gif. You can even get a list of all cat gifs, or, if you're brave, can show all the cat gifs at once. Did you set out to make a resource for people building sites to be able to use cat gifs, like place http://placekitten.com/?
+#### Any normal cat loving person can land on the site and get a cat gif right away, but there's actually a surprising amount of functionality built into edgecats. You can plug edgecats.net/auto to get a new cat every 60 seconds, or use /random to get a link for a random cat gif. You can even get a list of all cat gifs, or, if you're brave, can show all the cat gifs at once. Did you set out to make a resource for people building sites to be able to use cat gifs, like [Place Kitten](http://placekitten.com/)?
 
 Yes!  When I first started at EdgeCast we built a testing framework to ensure our software worked as expected.  The first use case for edgecats was simple: if all tests pass, our dashboard featured cat gifs.  If any test did not pass, no cat gifs.  It was an effective motivator.
 
