@@ -12,9 +12,9 @@ My name is Carlo Flores and I try to do cool things with computers.  I help lead
 
 #### What is edgecats?
 
-[edgecats.net](htpp://edgecats.net) has cat-gifs-as-a-service, because, hey, who doesn't need more cat gifs?
+[edgecats.net](http://edgecats.net) has cat-gifs-as-a-service, because, hey, who doesn't need more cat gifs?
 
-It's really just a little [Node.js](http://nodejs.org) app using [Express.js](http://expressjs.org), which is a micro web framework for quickly building sites.  I had never built an Express app before but kept hearing great things about it and loved [one of the pieces of software](http://sinatrarb.com) that inspired it.  One of the best things has been that folks out there have actually forked the application and that [Matt Austin](https://github.com/matt-), an old teammate from an old shop, even showed me some bonehead mistakes that caused security on my servers to be compromised.  So I guess it's more than just a goofy service because it's also been an excuse to learn and try new things.
+It's really just a little [Node.js](http://nodejs.org) app using [Express.js](http://expressjs.com/), which is a micro web framework for quickly building sites.  I had never built an Express app before but kept hearing great things about it and loved [one of the pieces of software](http://sinatrarb.com) that inspired it.  One of the best things has been that folks out there have actually forked the application and that [Matt Austin](https://github.com/matt-), an old teammate from an old shop, even showed me some bonehead mistakes that caused security on my servers to be compromised.  So I guess it's more than just a goofy service because it's also been an excuse to learn and try new things.
 
 #### Where are all the EdgeCats gifs from? Do you have a collection of your own?
 
