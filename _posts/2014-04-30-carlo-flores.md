@@ -2,7 +2,7 @@
 layout: interview
 slug: carlo.flores
 title: Carlo Flores - EdgeCats.net
-summary: Big Dog at EdgeCast
+summary: Director of Engineering EdgeCast
 categories: [cats, gifs]
 ---
 
