@@ -36,10 +36,6 @@ One of our former designers [Tianhe Yang](https://twitter.com/tianheyang) put it
 
 netcat has been used for various parties in various places as well, since the -auto flag on a projector beats old timey hipster style black and white movies any day of the week, but twice on caturdays.
 
-#### Is this [subreddit](http://www.reddit.com/domain/moar.edgecats.net) related to your EdgeCats? I've never seen a subreddit set up like that. Did it come about because of Reddit's interest in EdgeCats, or is that something you set up and promoted?
-
-I think that's just a collection of Reddit posts that have used EdgeCats!  I do not think there is a dedicated EdgeCats subreddit, but you'll find the webservice makes an appearance at /cats, /catgifs, and /gifs fairly regularly.
-
 #### Are you a domain hoarder? What's the best domain you've got sitting idle right now?
 
 It's not totally idle, but I own http://dumbaas.com, which will probably totally be the next big Internetting as a Service.  You should send me angel funding now while you still can.  Or just please don't hack it too bad.
