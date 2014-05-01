@@ -28,13 +28,13 @@ Yes!  When I first started at EdgeCast we built a testing framework to ensure ou
 
 #### How did you decide what features to build in? Are there any new features you want to add in the future? Anything you're dying to fix?
 
-All the features have come in based on user need or to allow myself to use cats whenever possible on other projects.  A good one was when EdgeCats got quite a bit of Reddit and Twitter traffic which led to a HUGE amount of bandwidth use.  At that point I brought in EdgeCats.net/meow as a dirty trick to allow cached images and reduce the internet bill.
+All the features have come in based on user need or to allow myself to use cats whenever possible on other projects.  A good one was when EdgeCats got quite a bit of Reddit and Twitter traffic which led to a HUGE amount of bandwidth use.  At that point, I brought in EdgeCats.net/meow as a dirty trick to allow cached images and reduce the internet bill.
 
-#### Where did netcat come from?
+#### Where did [netcat](http://edgecats.net/netcat) come from?
 
-One of our former designers [Tianhe Yang](https://twitter.com/tianheyang) put it together over a day as an homage to Nyan Cat and terminal programs.  Try dragging him around the screen for a hidden feature!
+One of our former designers, [Tianhe Yang](https://twitter.com/tianheyang), put it together over a day as an homage to Nyan Cat and terminal programs. Try dragging him around the screen for a hidden feature!
 
-netcat has been used for various parties in various places as well, since the -auto flag on a projector beats old timey hipster style black and white movies any day of the week, but twice on caturdays.
+Netcat has been used for various parties in various places as well, since the -auto flag on a projector beats old timey hipster style black and white movies any day of the week, but twice on caturdays.
 
 #### Are you a domain hoarder? What's the best domain you've got sitting idle right now?
 
