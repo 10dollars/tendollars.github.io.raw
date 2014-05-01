@@ -2,7 +2,7 @@
 layout: interview
 slug: carlo.flores
 title: Carlo Flores - EdgeCats.net
-summary: Director of Engineering EdgeCast
+summary: Director of Engineering at EdgeCast
 categories: [cats, gifs]
 ---
 
