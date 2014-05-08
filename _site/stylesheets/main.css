@@ -99,6 +99,16 @@ margin: 0 0 10px 0;
 font-size: 100%;
 }
 
+blockquote {
+	border-left: 3px solid #F37930;
+	padding-left: 5px;
+	color: gray;
+}
+
+blockquote p {
+	text-color: #ccc;
+}
+
 img.portrait {
 margin: 0 0 10px 0;
 border: solid 1px #000;

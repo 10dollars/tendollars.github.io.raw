@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>I Had Ten Dollars / Jen Lowe - One Human Heartbeat</title>
+		<link href="/stylesheets/main.css" media="screen" rel="stylesheet" type="text/css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width;initial-scale=1">
+
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49962676-1', 'ihadtendollars.com');
+  ga('send', 'pageview');
+
+	</script>
+	</head>
+	<body>
+
+		<div id="wrapper">
+			<div id="stump">
+				<header>
+					<h1>I Had 10 Dollars</h1>
+					<p id="tagline">Because, why not?</p>
+				</header>
+
+				<nav id="main">
+					<ul>
+						<li><a href="/" title="The most recent interviews.">Home</a></li>
+						<li><a href="/interviews/" title="All the other interviews.">Interviews</a></li>
+						<li><a href="/about/" title="A little more info about the site.">About</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<div id="content">
+			<article class="interview">
+	
+	
+	<img src="/images/portraits/jen.lowe.jpg" width="500" height="335" class="portrait" alt="Jen Lowe - One Human Heartbeat">
+
+<h2 class="person">Jen Lowe - One Human Heartbeat</h2>
+<p class="summary">Data Scientist.</p>
+<p class="date">Posted <time datetime="2014-05-08">08 May 2014.</time></p>
+<p class="credits">Photo by <a href="https://www.flickr.com/photos/litherland/8377266447/sizes/l/" title="View more about Caren Litherland. Questionable cropping by me.">Caren Litherland. Questionable cropping by me</a>.</p>
+<ul class="categories">
+<li><a href="/interviews/quantified self" title="View all the 'quantified self' interviews.">quantified self</a></li><li><a href="/interviews/data visualation" title="View all the 'data visualation' interviews.">data visualation</a></li><li><a href="/interviews/art" title="View all the 'art' interviews.">art</a></li><li><a href="/interviews/mortality" title="View all the 'mortality' interviews.">mortality</a></li>
+</ul>
+
+
+	<div id="answers">
+	<h4>Who are you, and what do you do?</h4>
+
+<p>I&#8217;m <a href="http://twitter.com/datatelling">Jen Lowe</a>. I do different things. I&#8217;m a data scientist / data communicator, which means I search for surprising things in large data sets and then create useful ways of communicating those findings. I teach <a href="http://itp.nyu.edu/itp/">Math for Artists at ITP</a>. I speak about data in society. I also read, cook, and walk a lot.</p>
+
+<p>[Editors note: Jen also co-founded <a href="http://sfpc.io/">The School for Poetic Computation</a>, which is pretty neat.]</p>
+
+<h4>What is <a href="http://onehumanheartbeat.com">One Human Heartbeat</a>?</h4>
+
+<p>It&#8217;s a website that shows my heartbeat from 24 hours ago. It updates every minute. It also counts the number of days I&#8217;ve lived and the number of days I (statistically) have left to live.</p>
+
+<h4>How was it built?</h4>
+
+<p>I spent some time searching for the right tech that would keep track of my heartrate and allow me to access the data. It turns out it&#8217;s possible to <a href="https://github.com/btroia/basis-data-export">access the data from the Basis API</a>, so I bought the <a href="http://www.mybasis.com/">Basis watch</a> based on that. Then it was just a matter of fitting 29,646 days on a page. I made the days graphic in <a href="http://www.processing.org/">Processing</a>. The heartbeat is made by changing the opacity of a div using javascript. (I&#8217;m working on updating the equation to match an ECG of my own heart.) I upload my heart rate data to a database daily. The page grabs a day&#8217;s worth of data from the database and then updates the heartrate each minute.</p>
+
+<h4>Were you interested in tracking those metrics about your activity for their own sake/personal use, or did you buy your Basis watch with One Human Heartbeat in mind?</h4>
+
+<p>Both. I&#8217;ve been managing anxiety since going through some traumatic events in the past couple of years. I had a revelation this winter that I&#8217;d tapped out my ability to manage the anxiety with my brain, and instead I needed to start fixing the anxiety in my body. (Incidentally, if you&#8217;d like to have a revelation about your body, I recommend a 14 hour car ride across the Argentinian summer desert without air conditioning.) When I got back to New York, I noticed my heartrate was out of control and wondered if there might be a way to check it regularly and use it as a rough indicator of anxiety.</p>
+
+<p>That&#8217;s the personal side. On the web side, I&#8217;m a big fan of small gestures; putting a heartbeat online appealed to me as a very small way of measuring a life. The web project was the motivation for buying the watch - I wouldn&#8217;t have tracked my heart rate this long without the pressure of keeping the page up to date.</p>
+
+<h4>Do you watch the other data you get from the Basis?</h4>
+
+<p>Not really. I didn&#8217;t even remember it was a watch for about a month - I kept pulling out my phone to check the time! I notice if I&#8217;ve walked a really long distance, and I look at the sleep data daily, but mostly it just tells me what I already know.</p>
+
+<h4>Do you think putting this data online affects the nature of collecting it?</h4>
+
+<p>Absolutely. Putting the data online encourages me to keep up the habit of collecting it. I don&#8217;t want to die online.</p>
+
+<h4>It&#8217;s also important to note that this isn&#8217;t the same of as someone sharing their steps via a Fitbit, or their bike ride on Strava. It&#8217;s not a data dump. This is an experience you designed where you picked specific types of data to display and represent visually. What are the most important things you&#8217;re trying to communicate with the project?</h4>
+
+<p>I&#8217;m working on a book proposal and it&#8217;s a gnarly process. I picked up Annie Dillard&#8217;s The Writing Life for some inspiration, and the epigraph is Emerson:</p>
+
+<blockquote>
+  <p>No one suspects the days to be gods.</p>
+</blockquote>
+
+<p>That&#8217;s the most important thing I&#8217;m trying to communicate. I&#8217;m just being more obtuse and using a lot more tech.</p>
+
+<p>Besides that, I hope it acts as a provocation that a webpage can be anything you want it to be. Lots of people respond to One Human Heartbeat with: &#8220;I don&#8217;t know what this is&#8221; or &#8220;I don&#8217;t know what to call this.&#8221; That makes me happy. I&#8217;ve been blathering on for years about wanting to create new genres, so if there&#8217;s no name for what I&#8217;m making then maybe I&#8217;m on the right track.</p>
+
+<h4>I viewed the project as meditation on life and our relationship with time, as well as being an illustration of how technology can create intimate interactions from a distance. But I read your <a href="http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self">Fast Company interview</a>, and that was written from the perspective of access - Who is recording our data, what they&#8217;re recording, what rights individuals have to see it. Is it both? How do you think One Human Heartbeat fits into the debate on collecting and releasing data?</h4>
+
+<p>I think it&#8217;s both, but I don&#8217;t think people will experience it as being about data access and privacy. I didn&#8217;t build it to bring that up, it&#8217;s just a theme in my thinking and working that pervades what I make. I&#8217;m very aware of maintaining my privacy online, and I like the way this plays with intimacy and privacy - the heartbeat is an intimate measure, but I&#8217;m not giving up much privacy by sharing it.</p>
+
+<h4>I&#8217;m just curious, does the pulsing background actually change based on the BPM?</h4>
+
+<p>It does! It&#8217;s pretty accurate locally, and when I test the site from my machine. It won&#8217;t be accurate for everyone, but it does at least slow down and speed up based on the beats per minute.</p>
+
+	</div>
+  
+</article>
+
+			</div>
+
+		<footer>
+  <p>This is a site maintained by <a href="http://twitter.com/spladow">Thomas Dunlap</a>, although the guests do most of the hard work. Find fun stuff. Build fun stuff. Link me to fun stuff.</p>
+</footer>
+
+		</div>
+	</body>
+</html>
