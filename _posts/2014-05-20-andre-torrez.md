@@ -6,7 +6,11 @@ summary: Developer - Google Books. People wonder where he is.
 categories: [geolocation, status]
 ---
 
-This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over gchat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because Andre didn't want to talk about his project, mlkshk, so I'm going to talk about it a little instead.
+This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over gchat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because Andre didn't really want to talk about his project, MLKSHK, so I'm going to talk about it a little instead. 
+
+MLKSHK is a photo sharing community, which Rusty lumped in with MetaFilter in today's Tabs as being a touchstone to the early indie web. (Touchstone is the wrong word because mlkshk still has a vibrant community. Maybe bridge?) and Matthew Panzarino (@panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face." 
+
+Collaborative collections like "computers", "you had one job", "glorious hair", and "butts" allowed for themed image sharing trends that are really similar to submission based themed Tumblrs long before book deals started rolling in. (fact check some dates when you have internet, Thomas)
 
 #### How did you come to tech?
 My first real tech job was in the QA department of a startup in Los Angeles which I won’t name because it was started by Scientologists and it was all very creepy. We had creepy clothes we wore to conferences and they creepily tried to get us to go to a session at the Scientology Celebrity Centre in Los Angeles for an evaluation.
