@@ -6,13 +6,13 @@ summary: Fun Image Sharing Community
 categories: [community, image sharing]
 ---
 
-This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over gchat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because Andre didn't really want to talk about his project, MLKSHK, so I'm going to talk about it a little instead.
+This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over chat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because Andre didn't really want to talk about his project, MLKSHK, so I'm going to talk about it a little instead.
 
-MLKSHK is a photo sharing community, which Rusty lumped in with MetaFilter in today's Tabs as being a touchstone to the early indie web. (Touchstone is the wrong word because mlkshk still has a vibrant community. Maybe bridge?) and Matthew Panzarino (@panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face," in his [TechCrunch post](https://flic.kr/p/5ctLDt).  It was a beacon of tasteful restraint while still maintaining an exuberant style that could make me feel like I was having fun as soon as I landed on the page.
+MLKSHK is a photo sharing community, which [Rusty](http://twitter.com/rustyk5) mentioned alongside [MetaFilter](http://metafilter.com) in [today's Tabs](http://www.newsweek.com/today-tabs-semper-bracchia-duo-abscide-251535) as being a touchstone to the early indie web. (Touchstone is the wrong word because mlkshk still has a vibrant community. Maybe bridge?) and [Matthew Panzarino](http://twitter.com/panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face," in his [TechCrunch post](http://techcrunch.com/2014/05/07/beloved-image-sharing-site-mlkshk-saunters-off-into-the-sunset/). MLKSHK is a beacon of tasteful restraint while still maintaining an exuberant style that could make me feel like I was having fun as soon as I landed on the page.
 
-Collaborative collections like "computers", "you had one job", "glorious hair", and "butts" allowed for themed image sharing trends that are really similar to submission based themed Tumblrs long before book deals started rolling in. (fact check some dates when you have internet, Thomas)
+Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", "[glorious hair](http://mlkshk.com/glorioushair)", and "[butts](http://mlkshk.com/buttz)" allowed for themed image sharing trends that are really similar to submission based themed Tumblrs long before book deals started rolling in. (fact check some dates when you have internet, Thomas)
 
-community with its own conventions and in jokes (dickbutt)
+community with its own conventions and [in jokes](http://mlkshk.com/p/YR7S).
 
 
 #### How did you come to tech?
