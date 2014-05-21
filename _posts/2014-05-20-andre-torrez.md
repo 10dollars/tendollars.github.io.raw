@@ -28,7 +28,7 @@ I was kind of hooked on that lifestyle though. I wanted to work at places where 
 
 #### You mentioned getting hooked on the lifestyle and I've seen you mention being addicted to the feeling of passing your tests and shipping. What do you think makes that such a compelling feeling in a way that simply completing tasks isn't?
 
-I can answer this by describing how I work. I am not a zealot about any software development methodology. Like any productivity systems people come up with I think it’s important to take what is good about them and modify it so that it works for you. I am not a strict TDDer, but tests go hand-in-hand with writing code for me. It’s a cycle and I feel like I can hop on at any point of it and get going.
+I can answer this by describing how I work. I am not a zealot about any software development methodology. Like any productivity systems people come up with I think it’s important to take what is good about them and modify it so that it works for you. I am not a strict TDDer, but tests go hand-in-hand with writing code for me. It’s a cycle, and I feel like I can hop on at any point of it and get going.
 
 Some days I write a lot of code and then tests, other times I spec out a bunch of tests and just leave them there to prime me to start working on code. But this is just a long way to say that I have a compulsion to be confident in my code because I have clients I am handing code off to and the last thing I ever want is them doing is coming back frustrated and unhappy with what we wrote.
 
