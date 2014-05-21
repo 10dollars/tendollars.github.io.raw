@@ -18,7 +18,7 @@ community with its own conventions and [in jokes](http://mlkshk.com/p/YR7S).
 #### How did you come to tech?
 My first real tech job was in the QA department of a startup in Los Angeles which I won’t name because it was started by Scientologists and it was all very creepy. We had creepy clothes we wore to conferences and they creepily tried to get us to go to a session at the Scientology Celebrity Centre in Los Angeles for an evaluation.
 
-It was a startup though and so I had a chance to learn a ton of things and so I took advantage of that. I would hang out with the developers and ask them questions and I learned how to make gold masters and a little bit of C++. I taught myself how to make stuff with MFC and wrote some pretty awful automation tools for testing. I wasn’t good enough to join their engineering team but I knew I could fake it someplace until I got better.
+It was a startup though, so I had a chance to learn a ton of things and I took advantage of that. I would hang out with the developers and ask them questions and I learned how to make gold masters and a little bit of C++. I taught myself how to make stuff with MFC and wrote some pretty awful automation tools for testing. I wasn’t good enough to join their engineering team but I knew I could fake it someplace until I got better.
 
 But then one Thursday they told us to take the following day off and I was at home enjoying my day off when a co-worker called and reminded me that it was payday and no checks showed up in our bank accounts.
 
