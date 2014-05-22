@@ -12,7 +12,7 @@ MLKSHK is a photo sharing community, which [Rusty](http://twitter.com/rustyk5) m
 
 While MLKSHK opened to the public in late 2010/early 2011 and may not be early-internet old, I see it as a sort of bridge to an earlier web. The site was bootstrapped from the beginning, and has remained solely under the control of Andre and his partner [Amber Costley](https://twitter.com/amberdawn) for its entire existence. MLKSHK functions as a beacon of tasteful restraint while still managing to maintain an exuberant style that can make me feel like I'm having fun as soon as I land on the page.
 
-Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", "[glorious hair](http://mlkshk.com/glorioushair)", and the always popular "[butts](http://mlkshk.com/buttz)" allow for themed image sharing trends that are probably most easily described as being similar to submission-based themed Tumblrs.
+Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", and "[glorious hair](http://mlkshk.com/glorioushair)", allow for themed image sharing trends that are probably most easily described as being similar to submission-based themed Tumblrs.
 
 Okay, I'll let Andre talk now.
 
