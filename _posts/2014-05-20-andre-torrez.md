@@ -45,7 +45,7 @@ People look for safe places to hang out and be themselves and they will always d
 
 The second thing I want to say on this subject is that nobody does online chat right. I have been using chat apps since back when IRC was still king and nothing out there right now does it the way I want. I don’t include Slack in this because its focus is on businesses. It’s pretty damn close though.
 
-[Editor's Note: This kind of echoes something Choire Sicha said recently about all the [most exciting writing happening in different chat apps.](http://www.full-stop.net/2014/01/21/features/the-editors/tldr-choire-sicha/) Everybody knows that all the best writing is [actually happening in Venmo though](http://www.thewire.com/culture/2014/04/why-the-venmo-newsfeed-is-the-best-social-network-nobodys-talking-about/361342/).]
+[Editor's Note: This kind of echoes something [Choire Sicha](http://twitter.com/choire) said recently about all the [most exciting writing happening in different chat apps.](http://www.full-stop.net/2014/01/21/features/the-editors/tldr-choire-sicha/) Everybody knows that all the best writing is [actually happening in Venmo though](http://www.thewire.com/culture/2014/04/why-the-venmo-newsfeed-is-the-best-social-network-nobodys-talking-about/361342/).]
 
 #### You've spent a lot of time working on advertising; or, more generally, bringing in revenue to back content. You even helped found a company around it in 2005. What attracted you to that initially and what keeps bringing you back to it?
 
