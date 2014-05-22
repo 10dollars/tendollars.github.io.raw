@@ -65,7 +65,7 @@ I guess what I am saying is I like to see projects as something to complete. Lik
 
 I brush my teeth with the most boring looking toothbrush in the world. It’s made by GUM and has a flat handle and some soft bristles at one end. That’s what I want to build: boring-ass toothbrushes that help people do what they need or want to do.
 
-I also don’t apply time limits to myself about the stuff I make. I’ve been working on an idea for about 14 years off and on. I wrote it once in PHP, then again as OS X application, then again as a Python application. It’s on hold again and we’ll see if I ever actually finish it. [update: I started working on it again after I wrote this response!]
+I also don’t apply time limits to myself about the stuff I make. I’ve been working on an idea for about 14 years off and on. I wrote it once in PHP, then again as OS X application, then again as a Python application. It’s on hold again and we’ll see if I ever actually finish it. [Update: I started working on it again after I wrote this response!]
 
 #### I feel like you are constantly sharing ideas and tinkering on stuff like Muni-Bar or Tea Timer. How do you decide what's going to be an idea you share just to talk about and the ideas you want to try working on yourself? The bar utilities were probably pretty quick, but you also made your own CMS a little while ago. Like, you took a look at Jekyll and thought, "I'll just make my own static site generator"?
 
