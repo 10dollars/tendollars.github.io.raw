@@ -2,17 +2,17 @@
 layout: interview
 slug: andre.torrez
 title: Andre Torrez - MLKSHK
-summary: The other thing about communities is you have to show up every day and read as much as you can. You have to get to know every active member and store a little bit of info about them in your head. If that knowledge doesn't fit in your one brain then get another brain to help. Keep getting brains until you have enough.
+summary: An image sharing community :)
 categories: [community, image sharing]
 ---
 
-This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over chat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because [Andre](http://twitter.com/torrez) didn't really want to talk about his project, [MLKSHK](http://mlkshk.com/popular), so I'm going to talk about it a little instead.
+This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over chat, so it's the first interview I'll actually be editing in any significant way. That's boring to everyone besides Andre, who has to worry about me butchering his responses though. What really makes this interview different is that [Andre](http://twitter.com/torrez) didn't really want to talk about his project, [MLKSHK](http://mlkshk.com/popular), so I'm going to talk about it a little instead.
 
-MLKSHK is a photo sharing community, which [Rusty](http://twitter.com/rustyk5) mentioned alongside [MetaFilter](http://metafilter.com) in [today's Tabs](http://www.newsweek.com/today-tabs-semper-bracchia-duo-abscide-251535) as being, "a the product of another pioneer of an earlier web," and [Matthew Panzarino](http://twitter.com/panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face," in his [TechCrunch post](http://techcrunch.com/2014/05/07/beloved-image-sharing-site-mlkshk-saunters-off-into-the-sunset/).
+MLKSHK is a photo sharing community, which [Rusty](http://twitter.com/rustyk5) mentioned alongside [MetaFilter](http://metafilter.com) in [today's Tabs](http://www.newsweek.com/today-tabs-semper-bracchia-duo-abscide-251535) as being, "the product of another pioneer of an earlier web," and [Matthew Panzarino](http://twitter.com/panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face," in his [TechCrunch post](http://techcrunch.com/2014/05/07/beloved-image-sharing-site-mlkshk-saunters-off-into-the-sunset/).
 
-While MLKSHK opened to the public in late 2010/early 2011 and may not be early-internet old, I see it as a sort of bridge to an earlier web. The site was bootstrapped and has remained solely under the control of Andre and his partner [Amber Costley](https://twitter.com/amberdawn) for its entire existence.
+While MLKSHK opened to the public in late 2010/early 2011 and may not be early-internet old, I see it as a sort of bridge to an earlier web. The site was bootstrapped from the beginning, and has remained solely under the control of Andre and his partner [Amber Costley](https://twitter.com/amberdawn) for its entire existence. MLKSHK functions as a beacon of tasteful restraint while still managing to maintain an exuberant style that can make me feel like I'm having fun as soon as I land on the page.
 
-The site is a beacon of tasteful restraint while still maintaining an exuberant style that could make me feel like I was having fun as soon as I landed on the page. Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", "[glorious hair](http://mlkshk.com/glorioushair)", and the always popular "[butts](http://mlkshk.com/buttz)" allowed for themed image sharing trends that are most easily described as being similar to submission-based themed Tumblrs.
+Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", "[glorious hair](http://mlkshk.com/glorioushair)", and the always popular "[butts](http://mlkshk.com/buttz)" allow for themed image sharing trends that are probably most easily described as being similar to submission-based themed Tumblrs.
 
 Okay, I'll let Andre talk now.
 
@@ -45,7 +45,7 @@ People look for safe places to hang out and be themselves and they will always d
 
 The second thing I want to say on this subject is that nobody does online chat right. I have been using chat apps since back when IRC was still king and nothing out there right now does it the way I want. I don’t include Slack in this because its focus is on businesses. It’s pretty damn close though.
 
-[Editor's Note: This kind of echoes something Choire Sicha said recently about all the [most exciting writing happening in different chat apps.](http://www.full-stop.net/2014/01/21/features/the-editors/tldr-choire-sicha/) Everybody knows that all the best writing is actually happening in [Venmo though](http://www.thewire.com/culture/2014/04/why-the-venmo-newsfeed-is-the-best-social-network-nobodys-talking-about/361342/).]
+[Editor's Note: This kind of echoes something Choire Sicha said recently about all the [most exciting writing happening in different chat apps.](http://www.full-stop.net/2014/01/21/features/the-editors/tldr-choire-sicha/) Everybody knows that all the best writing is [actually happening in Venmo though](http://www.thewire.com/culture/2014/04/why-the-venmo-newsfeed-is-the-best-social-network-nobodys-talking-about/361342/).]
 
 #### You've spent a lot of time working on advertising; or, more generally, bringing in revenue to back content. You even helped found a company around it in 2005. What attracted you to that initially and what keeps bringing you back to it?
 
