@@ -92,7 +92,7 @@ Oh yeah, as I said above I am always building for myself. I think this is common
 
 #### How do you typically structure your time for working on side projects. An hour a day after work? Weekend sprints?
 
-Before we had kids I would spend my weekends hacking on ideas or staying up late after work. Now that we have kids I just think a lot about stuff. Sometimes I can bang something out in an hour or so in the 9-10pm hour before I have to go to sleep. I wish I could be more like Darius Kazemi. Here is how I wish I worked http://tinysubversions.com/2014/05/thoughts-on-small-projects/  
+Before we had kids I would spend my weekends hacking on ideas or staying up late after work. Now that we have kids I just think a lot about stuff. Sometimes I can bang something out in an hour or so in the 9-10pm hour before I have to go to sleep. I wish I could be more like [Darius Kazemi](http://twitter.com/tinysubversions). [Here is how I wish I worked](http://tinysubversions.com/2014/05/thoughts-on-small-projects/)  
 
 
 #### What's your favorite hack you've done that people haven't seen?
