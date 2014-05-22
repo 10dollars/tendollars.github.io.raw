@@ -47,21 +47,19 @@ The second thing I want to say on this subject is that nobody does online chat r
 
 [Editor's Note: This kind of echoes something Choire Sicha said recently about all the [most exciting writing happening in different chat apps.](http://www.full-stop.net/2014/01/21/features/the-editors/tldr-choire-sicha/) Everybody knows that all the best writing is actually happening in [Venmo though](http://www.thewire.com/culture/2014/04/why-the-venmo-newsfeed-is-the-best-social-network-nobodys-talking-about/361342/).]
 
-#### What do you think the most interesting problems to work on are right now?
-
 #### You've spent a lot of time working on advertising; or, more generally, bringing in revenue to back content. You even helped found a company around it in 2005. What attracted you to that initially and what keeps bringing you back to it?
 
 I don’t know what it means that I don’t have a good answer for either of those questions right now. I think I am struggling with both those questions at this moment and I don’t have good answers yet. I find building things for people to do their jobs highly satisfying. And once you have built a platform, being able to build new and better tools on top of it using the data is a lot of fun. I guess advertising provides a lot of opportunities for that because there is a lot of data and a nice feedback loop with sales, publishers, and advertisers to get them what they need.
 
-#### Plus, it seems like you focus on smaller content providers. Federated Media initially worked with smaller voices (somer of whom have become looming giants, if I'm not mistaken) and Tugboat seemed to have the same focus on creators with established, but still niche audiences.
+#### Plus, it seems like you focus on smaller content providers. Federated Media initially worked with smaller voices (some of whom have become giants, if I'm not mistaken) and Tugboat seemed to have the same focus on creators with established, but still niche audiences.
 Yeah. I care deeply about the independent web and that was definitely our original focus at FM to help independent web publishers. And Tugboat has similar goals.
 
 
 #### "But more to the point, programmer-blogger Torrez is a classic idea seeder; a person who introduces concepts to the people who take them big."
 
-#### Okay, so Honan wrote this about out in 2011. Does this jive with how you see yourself? You share ideas all the time and seem happy just to talk about them; was there anything you were like, "Crap, I really should have pursued that"?
+#### Okay, so [Mat Honan](http://twitter.com/mat) wrote this about you in 2011. Does this jive with how you see yourself? You share ideas all the time and seem happy just to talk about them; was there anything you were like, "Crap, I really should have pursued that"?
 
-Huh, I think I am suddenly getting very self-conscious about this interview. The truth is I don’t think about this stuff. I like talking about ideas and sharing ideas with people and I don’t really think about the future that much. I built Dropcash and Dropload because I needed them and other people needed them and I didn’t think about pursuing them further because they did what I needed them to do and people seemed to think so too.
+Huh, I think I am suddenly getting very self-conscious about this interview. The truth is I don’t think about this stuff. I like talking about ideas and sharing ideas with people, and I don’t really think about the future that much. I built Dropcash and Dropload because I needed them and other people needed them and I didn’t think about pursuing them further because they did what I needed them to do and people seemed to think so too.
 
 I guess what I am saying is I like to see projects as something to complete. Like making a crescent wrench. At some point it’s a crescent wrench and any new features and doohickeys are just going to make it a more expensive crescent wrench but not necessarily a better crescent wrench.
 
@@ -84,12 +82,6 @@ I do not know! I don’t know. I once sat down to write a blog post on communiti
 Sometimes I am an asshole! Sometimes the users are. People have bad days all the time and we shouldn't hold that against them. It’s the habitual assholes that need to be escorted out of the way.
 
 The other thing about communities is you have to show up every day and read as much as you can. You have to get to know every active member and store a little bit of info about them in your head. If that knowledge doesn't fit in your one brain then get another brain to help. Keep getting brains until you have enough.
-
-#### I'm really curious about your process when you start on a new product. If you read your blog it's obvious that you sweat the details. You talk about taking your time to include just the right features for MLKSHK, and there's a blog post you wrote where you say that the way you implemented pagination instead of infinite scroll as saying "'We don't think that's an experience that's needed for viewing images and engaging with others—it's a way to quickly scan.'" We have very little AJAX except where it serves to keep the user from navigating away from a page. We love to think about these things. It's fun."
-
-#### Do you start with a type of user or community in mind, or do you typically start with yourself as the ideal user? Or is it something else entirely? A set of foundational values, maybe?
-
-Oh yeah, as I said above I am always building for myself. I think this is common. If I am building A PRODUCT then I need to have other people involved who can understand what is needed and I can do that. When we were building MLKSHK it was pretty much the best time of my working life and it only lasted six months.
 
 #### How do you typically structure your time for working on side projects. An hour a day after work? Weekend sprints?
 
