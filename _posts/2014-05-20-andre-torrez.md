@@ -38,7 +38,7 @@ There is no industry I can think of that can so very closely replicate an actual
 
 #### What are your favorite places online right now? Is there anything new that's caught your attention as particularly fun?
 
-I sit in three or four chat rooms every day. Each has a different group of people, and we usually commiserate on stuff we don’t want to tweet about or don’t feel comforatable sharing anyplace else. One is work based and the others are (for some weird reason) in different chat apps. [HipChat, Groupme, Telegram, Slack]
+I sit in three or four chat rooms every day. Each has a different group of people, and we usually commiserate on stuff we don’t want to tweet about or don’t feel comfortable sharing anyplace else. One is work based and the others are (for some weird reason) in different chat apps. [HipChat, Groupme, Telegram, Slack]
 
 People look for safe places to hang out and be themselves and they will always do that. We did it on weblogs until everyone discovered our weblogs then we did it on Twitter and now we do it in chat rooms.
 
@@ -62,7 +62,7 @@ Yeah. I care deeply about the independent web and that was definitely our origin
 
 Huh, I think I am suddenly getting very self-conscious about this interview. The truth is I don’t think about this stuff. I like talking about ideas and sharing ideas with people and I don’t really think about the future that much. I built Dropcash and Dropload because I needed them and other people needed them and I didn’t think about pursuing them further because they did what I needed them to do and people seemed to think so too.
 
-I guess what I am saying is I like to see projects as something to complete. Like making a crescent wrench. At some point it’s a crescent wrench and any new features and doohickeys is just going to make it a more expensive crescent wrench but not necessarily a better crescent wrench.
+I guess what I am saying is I like to see projects as something to complete. Like making a crescent wrench. At some point it’s a crescent wrench and any new features and doohickeys are just going to make it a more expensive crescent wrench but not necessarily a better crescent wrench.
 
 I brush my teeth with the most boring looking toothbrush in the world. It’s made by GUM and has a flat handle and some soft bristles at one end. That’s what I want to build: boring-ass toothbrushes that help people do what they need or want to do.
 
@@ -78,13 +78,13 @@ Maybe it is this: I usually write code for things I want to exist. I don’t wri
 
 #### One thing I've been thinking about a lot is flexibility in online communities. You've created a couple now that have created their own conventions and have very strong voices. How do you find a balance between guiding people to successfully complete tasks without boxing them in?
 
-I do not know! I don’t know. I once sat down to write a blog post on communities but the truth is I have no clue. If anything I do believe there are two rules that should be enforced in every community, one for the members and one for the person in charge of running it. And both rules are exactly the same: don’t be an asshole.
+I do not know! I don’t know. I once sat down to write a blog post on communities but the truth is I have no clue. If anything, I do believe there are two rules that should be enforced in every community, one for the members and one for the person in charge of running it. And both rules are exactly the same: don’t be an asshole.
 
 Sometimes I am an asshole! Sometimes the users are. People have bad days all the time and we shouldn't hold that against them. It’s the habitual assholes that need to be escorted out of the way.
 
 The other thing about communities is you have to show up every day and read as much as you can. You have to get to know every active member and store a little bit of info about them in your head. If that knowledge doesn't fit in your one brain then get another brain to help. Keep getting brains until you have enough.
 
-#### I'm really curious about your process when you make start on a new product. If you read your blog it's obvious that you sweat the details. You talk about taking your time to include just the right features for MLKSHK, and there's a blog post you wrote where you say that the way you implemented pagination instead of infinite scroll as saying "'We don't think that's an experience that's needed for viewing images and engaging with others—it's a way to quickly scan.'" We have very little AJAX except where it serves to keep the user from navigating away from a page. We love to think about these things. It's fun."
+#### I'm really curious about your process when you start on a new product. If you read your blog it's obvious that you sweat the details. You talk about taking your time to include just the right features for MLKSHK, and there's a blog post you wrote where you say that the way you implemented pagination instead of infinite scroll as saying "'We don't think that's an experience that's needed for viewing images and engaging with others—it's a way to quickly scan.'" We have very little AJAX except where it serves to keep the user from navigating away from a page. We love to think about these things. It's fun."
 
 #### Do you start with a type of user or community in mind, or do you typically start with yourself as the ideal user? Or is it something else entirely? A set of foundational values, maybe?
 
