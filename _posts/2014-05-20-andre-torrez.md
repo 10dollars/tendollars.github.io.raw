@@ -10,7 +10,7 @@ This interview is a bit different for I Had Ten Dollars. For one thing, it's the
 
 MLKSHK is a photo sharing community, which [Rusty](http://twitter.com/rustyk5) mentioned alongside [MetaFilter](http://metafilter.com) in [today's Tabs](http://www.newsweek.com/today-tabs-semper-bracchia-duo-abscide-251535) as being, "the product of another pioneer of an earlier web," and [Matthew Panzarino](http://twitter.com/panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face," in his [TechCrunch post](http://techcrunch.com/2014/05/07/beloved-image-sharing-site-mlkshk-saunters-off-into-the-sunset/).
 
-While MLKSHK opened to the public in late 2010/early 2011 and may not be early-internet old, I see it as a sort of bridge to an earlier web. The site was bootstrapped from the beginning, and has remained solely under the control of Andre and his partner [Amber Costley](https://twitter.com/amberdawn) for its entire existence. MLKSHK functions as a beacon of tasteful restraint while still managing to maintain an exuberant style that can make me feel like I'm having fun as soon as I land on the page.
+While MLKSHK opened to the public around the end of 2010 and may not be early-internet old, I see it as a sort of bridge to an earlier web. The site was bootstrapped from the beginning, and has remained solely under the control of Andre and his partner [Amber Costley](https://twitter.com/amberdawn) for its entire existence. MLKSHK functions as a beacon of tasteful restraint while still managing to maintain an exuberant style that can make me feel like I'm having fun as soon as I land on the page.
 
 Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", and "[glorious hair](http://mlkshk.com/glorioushair)", allow for themed image sharing trends that are probably most easily described as being similar to submission-based themed Tumblrs.
 
@@ -92,6 +92,6 @@ Before we had kids I would spend my weekends hacking on ideas or staying up late
 
 It’s actually a funny story: that isn’t me.
 
-Some other guy named Andre Torrez who lives in SF and writes for the SFBG and CBS. I emailed him once to get a beer and he didn’t reply so I figure it’s probably too much to deal with or he’s busy or he is constantly fending off emails from people named Andre Torrez trying to get a beer with him.
+There's some other guy named Andre Torrez who lives in SF and writes for the SFBG and CBS. I emailed him once to get a beer and he didn’t reply so I figure it’s probably too much to deal with, or he’s busy, or he is constantly fending off emails from people named Andre Torrez trying to get a beer with him.
 
 [Editor's Note: I feel really silly about this because I have taken recommendations from Not Andre a couple of times.]
