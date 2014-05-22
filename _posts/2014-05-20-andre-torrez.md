@@ -38,7 +38,7 @@ There is no industry I can think of that can so very closely replicate an actual
 
 #### What are your favorite places online right now? Is there anything new that's caught your attention as particularly fun?
 
-I sit in three or four chat rooms every day. Each has a different group of people and we usually commiserate on stuff we don’t want to tweet about or don’t feel comforatable sharing anyplace else. One is work based and the others are (for some weird reason) in different chat apps. [HipChat, Groupme, Telegram, Slack]
+I sit in three or four chat rooms every day. Each has a different group of people, and we usually commiserate on stuff we don’t want to tweet about or don’t feel comforatable sharing anyplace else. One is work based and the others are (for some weird reason) in different chat apps. [HipChat, Groupme, Telegram, Slack]
 
 People look for safe places to hang out and be themselves and they will always do that. We did it on weblogs until everyone discovered our weblogs then we did it on Twitter and now we do it in chat rooms.
 
@@ -48,9 +48,9 @@ The second thing I want to say on this subject is that nobody does online chat r
 
 #### What do you think are the most interesting problems to work on right now?
 
-#### You've spent a lot of time working on advertising; or, more generally, bringing in revenue to back content. You were helped found a company around it in 2005. What attracted you to that initially and what keeps bringing you back to it?
+#### You've spent a lot of time working on advertising; or, more generally, bringing in revenue to back content. You helped found a company around it in 2005. What attracted you to that initially and what keeps bringing you back to it?
 
-I don’t know what it means that I don’t have a good answer for either of those questions right now. I think I am struggling with both those questions at this moment and I don’t have good answers yet. I find building things for people to do their jobs highly satisfying. And once you have a built a platform, being able to build new and better tools on top of it using the data is a lot of fun. I guess advertising provides a lot of opportunities for that because there is a lot of data and a nice feedback loop with sales, publishers, and advertisers to get them what they need.
+I don’t know what it means that I don’t have a good answer for either of those questions right now. I think I am struggling with both those questions at this moment and I don’t have good answers yet. I find building things for people to do their jobs highly satisfying. And once you have built a platform, being able to build new and better tools on top of it using the data is a lot of fun. I guess advertising provides a lot of opportunities for that because there is a lot of data and a nice feedback loop with sales, publishers, and advertisers to get them what they need.
 
 #### Plus, it seems like you focus on smaller content providers. Federated Media initially worked with smaller voices (somer of whom have become looming giants, if I'm not mistaken) and Tugboat seemed to have the same focus on creators with established, but still niche audiences.
 Yeah. I care deeply about the independent web and that was definitely our original focus at FM to help independent web publishers. And Tugboat has similar goals.
