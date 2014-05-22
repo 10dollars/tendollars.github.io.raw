@@ -2,17 +2,17 @@
 layout: interview
 slug: andre.torrez
 title: Andre Torrez - MLKSHK
-summary: Fun Image Sharing Community
+summary: The other thing about communities is you have to show up every day and read as much as you can. You have to get to know every active member and store a little bit of info about them in your head. If that knowledge doesn't fit in your one brain then get another brain to help. Keep getting brains until you have enough.
 categories: [community, image sharing]
 ---
 
-This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over chat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because Andre didn't really want to talk about his project, [MLKSHK](http://mlkshk.com/popular), so I'm going to talk about it a little instead.
+This interview is a bit different for I Had Ten Dollars. For one thing, it's the first interview I've done over chat, so it's the first interview I'll actually be editing in any significant way. But that's all boring behind the scenes stuff. This interview is also interesting to me because [Andre](http://twitter.com/torrez) didn't really want to talk about his project, [MLKSHK](http://mlkshk.com/popular), so I'm going to talk about it a little instead.
 
 MLKSHK is a photo sharing community, which [Rusty](http://twitter.com/rustyk5) mentioned alongside [MetaFilter](http://metafilter.com) in [today's Tabs](http://www.newsweek.com/today-tabs-semper-bracchia-duo-abscide-251535) as being, "a the product of another pioneer of an earlier web," and [Matthew Panzarino](http://twitter.com/panzer) accurately described as providing an "honest transaction when you visit. You go there to look at an image and the image loads first without a bunch of crap being shoved in your face," in his [TechCrunch post](http://techcrunch.com/2014/05/07/beloved-image-sharing-site-mlkshk-saunters-off-into-the-sunset/).
 
 While MLKSHK opened to the public in late 2010/early 2011 and may not be early-internet old, I see it as a sort of bridge to an earlier web. The site was bootstrapped and has remained solely under the control of Andre and his partner [Amber Costley](https://twitter.com/amberdawn) for its entire existence.
 
-MLKSHK is a beacon of tasteful restraint while still maintaining an exuberant style that could make me feel like I was having fun as soon as I landed on the page. Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", "[glorious hair](http://mlkshk.com/glorioushair)", and the always popular "[butts](http://mlkshk.com/buttz)" allowed for themed image sharing trends that are most easily described as being similar to submission-based themed Tumblrs.
+The site is a beacon of tasteful restraint while still maintaining an exuberant style that could make me feel like I was having fun as soon as I landed on the page. Collaborative collections like "[computers](http://mlkshk.com/computers)", "[you had one job](http://mlkshk.com/OneJob)", "[glorious hair](http://mlkshk.com/glorioushair)", and the always popular "[butts](http://mlkshk.com/buttz)" allowed for themed image sharing trends that are most easily described as being similar to submission-based themed Tumblrs.
 
 Okay, I'll let Andre talk now.
 
@@ -88,8 +88,10 @@ The other thing about communities is you have to show up every day and read as m
 Before we had kids I would spend my weekends hacking on ideas or staying up late after work. Now that we have kids I just think a lot about stuff. Sometimes I can bang something out in an hour or so in the 9-10pm hour before I have to go to sleep. I wish I could be more like [Darius Kazemi](http://twitter.com/tinysubversions). [Here is how I wish I worked](http://tinysubversions.com/2014/05/thoughts-on-small-projects/)  
 
 
-#### You also write music news for 7x7 and SFBG. How did you get into that? (I liked that article you had on Halloween tribute shows.)
+#### You also write music news for 7x7 and SFBG. How did you get into that?
 
 It’s actually a funny story: that isn’t me.
 
 Some other guy named Andre Torrez who lives in SF and writes for the SFBG and CBS. I emailed him once to get a beer and he didn’t reply so I figure it’s probably too much to deal with or he’s busy or he is constantly fending off emails from people named Andre Torrez trying to get a beer with him.
+
+[Editor's Note: I feel really silly about this because I have taken recommendations from Not Andre a couple of times.]
