@@ -95,11 +95,6 @@ Oh yeah, as I said above I am always building for myself. I think this is common
 Before we had kids I would spend my weekends hacking on ideas or staying up late after work. Now that we have kids I just think a lot about stuff. Sometimes I can bang something out in an hour or so in the 9-10pm hour before I have to go to sleep. I wish I could be more like [Darius Kazemi](http://twitter.com/tinysubversions). [Here is how I wish I worked](http://tinysubversions.com/2014/05/thoughts-on-small-projects/)  
 
 
-#### What's your favorite hack you've done that people haven't seen?
-
-I tend to screenshot or tell people about stuff I make as a way to get it out of my system. I can’t think of any hack (besides the ones I wrote in my dorm trying to make free phone calls) that I haven't talked about or shown people.
-
-
 #### You also write music news for 7x7 and SFBG. How did you get into that? (I liked that article you had on Halloween tribute shows.)
 
 It’s actually a funny story: that isn’t me.
