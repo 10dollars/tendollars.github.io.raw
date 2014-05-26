@@ -1,0 +1,32 @@
+---
+layout: interview
+slug: karina.van.schaardenburg
+title: Karina Van Schaardenburg - VeoVeo
+summary: Like I Spy. On your phone. With everyone!
+categories: [geolocation, game, ios]
+---
+
+
+#### Who are you and what do you do?
+
+My name is Karina! Nice to meet you. I'm Foursquare's UX Research Lead; before joining the team at Foursquare I worked at Meetup and Twitter. I'm interested in how technology connects people to other people and I feel lucky to work on that in the different roles I've had. The rise of mobile has dramatically shifted how people talk to each other and I've seen my work also shift over the years from nearly exclusively desktop research to nearly exclusively mobile research.
+
+#### What is VeoVeo?
+
+[VeoVeo](https://itunes.apple.com/us/app/veoveo/id803367372?mt=8) is a way to play the children's game "I spy" with friends and strangers. People add discoveries to the app by taking photos of interesting things with a short clue; when other people are at that spot they can see the clue but not the photo until they look around and find the best match. After they take a photo of what they think the clue is describing, they unlock the original photo to see if they are right. The app can also notify you when you are near discoveries left by people you follow.
+
+#### Where did the idea come from, or what motivated you to start the project?
+
+I had the idea for VeoVeo about 5 years ago while I was talking to a friend. For some reason I couldn't let it go. It was something I wanted to play myself. I stubbornly held on to the idea for years until I realized I was never going to stop thinking about it until it existed. Of course it would never have happened without my partners, [Sabrina](https://twitter.com/sabrina) on design and [John](https://twitter.com/bogardon) on engineering. It's been so fun working with them and we've all shaped the direction it's gone in.
+
+#### You've been working on this project for a while and it came out relatively recently, what's been the most gratifying part of seeing it launched?
+
+Now that it's in the app store, lots of people have left discoveries all over San Francisco. I've had a lot of fun planning weekend scavenger hunts for myself by queueing up some good music on my headphones and walking around the city looking for nooks and crannies that people thought were interesting and added to VeoVeo. I'm much more aware of my surroundings now. I never used to pay attention to public art, murals, or stenciled sidewalk graffiti. Now I'm always looking for discoveries to add to VeoVeo for other people to find!
+
+#### What's been the biggest surprise to you about how people used the app?
+
+Owls. People love adding them to VeoVeo. There are more owls around me than I would ever have guessed.
+
+#### One of my favorite parts is checking out how people decide to write their clues. As clues go, are you a fan of a more enigmatic style, Puns, or straight forward descriptions? I really want to step up my clue game.
+
+It's hard to come up with a tricky clue that isn't too hard to figure out! There's a sweet spot there. My favorite clues are riddles, although really easy clues can be fun too if the answer is interesting enough.  
