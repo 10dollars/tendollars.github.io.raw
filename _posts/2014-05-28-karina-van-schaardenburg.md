@@ -9,7 +9,7 @@ categories: [geolocation, game, ios]
 
 #### Who are you and what do you do?
 
-My name is Karina! Nice to meet you. I'm Foursquare's UX Research Lead; before joining the team at Foursquare I worked at Meetup and Twitter. I'm interested in how technology connects people to other people and I feel lucky to work on that in the different roles I've had. The rise of mobile has dramatically shifted how people talk to each other and I've seen my work also shift over the years from nearly exclusively desktop research to nearly exclusively mobile research.
+My name is [Karina](https://twitter.com/kvanscha)! Nice to meet you. I'm Foursquare's UX Research Lead; before joining the team at Foursquare I worked at Meetup and Twitter. I'm interested in how technology connects people to other people and I feel lucky to work on that in the different roles I've had. The rise of mobile has dramatically shifted how people talk to each other and I've seen my work also shift over the years from nearly exclusively desktop research to nearly exclusively mobile research.
 
 #### What is VeoVeo?
 
