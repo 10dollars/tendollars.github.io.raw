@@ -8,10 +8,10 @@ categories: [chat, community, gifs]
 
 #### Who are you and what do you do (for a living)
 
-I am Jen (but people know me as Edna Piranha) and I currently work as an Apps Engineer at [Mozilla.](http://www.mozilla.org/en-US/)
+I am Jen (but people know me as [Edna Piranha](https://twitter.com/ednapiranha)) and I currently work as an Apps Engineer at [Mozilla.](http://www.mozilla.org/en-US/)
 
 
-#### So, there are a bunch of Spaces. You've got [aux.meatspaces](http://aux.meatspac.es/), the kind of [tumblog project](http://ednapiranha.com/2013/meatspace/)[^fn]; chat.meatspaces, the single channel chat room; chatspaces.org, which I haven't used, but looks like group chat with identity but no memory; facespaces, for creating channels for selfies; and a beta system of tv stations that I don't have access to yet. I was wondering if you could walk me through the creation timeline and explain how you see all these different outlets fitting together.
+#### So, there are a bunch of Spaces. You've got [aux.meatspaces](http://aux.meatspac.es/), the kind of [tumblog project](http://ednapiranha.com/2013/meatspace/)[^fn]; [chat.meatspac.es](http://chat.meatspac.es), the single channel chat room; chatspaces.org, which I haven't used, but looks like group chat with identity but no memory; [facespac.es](https://facespac.es/), for creating channels for selfies; and a beta system of tv stations that I don't have access to yet. I was wondering if you could walk me through the creation timeline and explain how you see all these different outlets fitting together.
 
 It’s pretty funny - the meatspaces name was originally used as a naming convention for a collection of related node modules starting with decentralized microblogging.
 
