@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>I Had Ten Dollars / Jen Fong-Adwent - chat.meatspac.es</title>
+		<link href="/stylesheets/main.css" media="screen" rel="stylesheet" type="text/css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width;initial-scale=1">
+
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49962676-1', 'ihadtendollars.com');
+  ga('send', 'pageview');
+
+	</script>
+	</head>
+	<body>
+
+		<div id="wrapper">
+			<div id="stump">
+				<header>
+					<h1>I Had 10 Dollars</h1>
+					<p id="tagline">Because, why not?</p>
+				</header>
+
+				<nav id="main">
+					<ul>
+						<li><a href="/" title="The most recent interviews.">Home</a></li>
+						<li><a href="/interviews/" title="All the other interviews.">Interviews</a></li>
+						<li><a href="/about/" title="A little more info about the site.">About</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<div id="content">
+			<article class="interview">
+	
+	
+	<img src="/images/portraits/jen.fong-adwent.jpg" width="500" height="335" class="portrait" alt="Jen Fong-Adwent - chat.meatspac.es">
+
+<h2 class="person">Jen Fong-Adwent - chat.meatspac.es</h2>
+<p class="summary">Chat with animated selfies. A bunch of other stuff.</p>
+<p class="date">Posted <time datetime="2014-06-12">12 June 2014.</time></p>
+
+<ul class="categories">
+<li><a href="/interviews/chat" title="View all the 'chat' interviews.">chat</a></li><li><a href="/interviews/community" title="View all the 'community' interviews.">community</a></li><li><a href="/interviews/gifs" title="View all the 'gifs' interviews.">gifs</a></li>
+</ul>
+
+
+	<div id="answers">
+	<h4>Who are you and what do you do (for a living)</h4>
+
+<p>I am Jen (but people know me as <a href="https://twitter.com/ednapiranha">Edna Piranha</a>) and I currently work as an Apps Engineer at <a href="http://www.mozilla.org/en-US/">Mozilla.</a></p>
+
+<h4>So, there are a bunch of Spaces. You&#8217;ve got <a href="http://aux.meatspac.es/">aux.meatspaces</a>, the kind of <a href="http://ednapiranha.com/2013/meatspace/">tumblog project</a>; <a href="http://chat.meatspac.es">chat.meatspac.es</a>, the single channel chat room; chatspaces.org, which I haven&#8217;t used, but looks like group chat with identity but no memory; <a href="https://facespac.es/">facespac.es</a>, for creating channels for selfies; and a beta system of tv stations that I don&#8217;t have access to yet. I was wondering if you could walk me through the creation timeline and explain how you see all these different outlets fitting together.</h4>
+
+<p>It’s pretty funny &#8212; the meatspaces name was originally used as a naming convention for a collection of related node modules starting with decentralized microblogging.</p>
+
+<p>That’s how aux was made, and some other microblog experiments. Eventually, I used the subdomain chat.meatspac.es for the GIF chat which used a module from the group that had nothing to do with decentralized microblogging but just a basic stream of public messages. Then that took over and became known as ‘Meatspaces’ to the world &#8212; so it ended up being the direct association w/ the brand vs. the collection of node modules.</p>
+
+<h4>What makes looping gifs so ideal for chat? How did you settle on the two second record time?</h4>
+
+<p>I think part of it is the repetition as a form of a visual signifier &#8212; replaying causes the viewer to remember that moment from that individual and creates an association to a certain point in time. The two second recording time was something that Sole and I decided on being ideal &#8212; 1 second is too short and 3 seconds makes the file too large.</p>
+
+<h4>Do the different spaces tend to have the same community, or is there a distinct facespaces community with their own jokes?</h4>
+
+<p>I think they are inherently related because it is the same community using both. There is a smaller subset of users on facespaces from the main community and there are some new users who prefer it over chat.meatspac.es, so that may slightly change the experience but nothing drastically different.</p>
+
+<h4>Choice paralysis and complexity seem to be big themes in your talks. While you start tons of projects, the feature set contained in each one seems strictly monitored and mercilessly narrowed. Can you talk about your philosophy behind building features and breaking them out into their own products?</h4>
+
+<p>The tragedy of engineering and design in big business/big projects is the need for features to measure milestones of “success” and change. The problem with this mentality (especially when it is tied to shareholders) is that it actually is detrimental to the product in the long run. Humans are not machines that can memorize and effectively monitor every nook and cranny of a product &#8212; there is so much vying for our attention from so many things that you cannot expect any primary focus to be on your particular invention.</p>
+
+<p>Instead, my belief is that keeping things as simple and minimal as possible help outline the product’s personality, end goal and ultimate lifecycle. At some point all products die and one should be fully aware of this and design for the moment, not for the future.</p>
+
+<h4>Meatspaces clears all the messages after 10 minutes and chatspaces only retrieves the last 25 messages. Were these decisions made because you expected them to change behavior on the site, or more from a desire to engineer the simplest thing possible?</h4>
+
+<p>This was more of a desire to engineer the simplest thing possible &#8212; pagination, archiving, sharing are all features that cause exponential complexity in design.</p>
+
+<h4>What were some choices for what to include or cut that stick out as being particularly tough call?</h4>
+
+<p>Originally we had implemented blacklisting on fingerprints but it proved to be ineffective &#8212; we ended up removing it from chat.meatspac.es shortly after deploying it.</p>
+
+<h4>The meatspace community seems really close, and it seems like you put a lot of thought into when to open up different parts to new members. Besides controlling growth, how do you think you can help shape an online community like this?</h4>
+
+<p>I think it is important to note that it is not entirely up to me to shape this community &#8212; the community shapes itself as it sees fit. So chat.meatspac.es has intentional limitations on growth while facespac.es has multiple channels and can allow users to participate in multiple separate experiences.</p>
+
+<p>Based on observing the interactions in both sites, I can take a better guess on what makes things work and what doesn’t. Sometimes I do ask people what they think about various product directions for future projects, but I do take these with a grain of salt, since what someone states as a good feature isn’t necessarily something that <em>is</em> a good feature.</p>
+
+	</div>
+  
+</article>
+
+			</div>
+
+		<footer>
+  <p>This is a site maintained by <a href="http://twitter.com/spladow">Thomas Dunlap</a>, although the guests do most of the hard work. Find fun stuff. Build fun stuff. Link me to fun stuff.</p>
+</footer>
+
+		</div>
+	</body>
+</html>
