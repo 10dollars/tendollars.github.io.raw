@@ -2,8 +2,8 @@
 layout: interview
 slug: savannah.niles
 title: Savannah Niles - Tether
-summary: A Meditation on Space
-categories: [geolocation, status]
+summary: A Meditation on Space and Memory
+categories: [location, loss, memory, space, entropy]
 ---
 
 #### Who are you and what do you do?
@@ -24,7 +24,7 @@ The site was developed for the 50th anniversary of JFK’s assassination, and sh
 
 Tether is built in Ruby on Rails and the Google Maps API. It’s a super simple site. You can check the [repo](https://github.com/savannahniles/JFK) out on GitHub if you want to examine, extend, or otherwise dismantle the project.
 
-Probably the most notable feature of Tether is that the notes left by participants "drift" away from their point of origin over time and visitors can decide whether or not to return them to where they started. How did you hope this would change the user's relationship with the notes? Did you have a chance to find out what people thought of that aspect of Tether?
+#### Probably the most notable feature of Tether is that the notes left by participants "drift" away from their point of origin over time and visitors can decide whether or not to return them to where they started. How did you hope this would change the user's relationship with the notes? Did you have a chance to find out what people thought of that aspect of Tether?
 
 Well the notes seem sort of autonomous, right?, drifting through a virtual world on their own. So when building this, I thought the defining characteristic of the X’s was impermanence: they’re always wandering off. I predicted that people’s responses to this would fall somewhere along a range of whimsy/anxiety.
 In some ways that played out: from team whimsy, I got an email from someone who excitedly reported that her first kiss had entered the Pacific; on team anxiety, Michael Corris [wrote](http://glasstire.com/2013/12/12/the-artists-commission-at-gray-matters/) that Tether reveals that “we are unwilling to allow this particular memory to drift, either into a sea of forgetfulness or to be gathered up and molded by others into some unrecognizable or irrelevant avatar of the past.”
@@ -41,4 +41,4 @@ Alternative memorials are a deep interest of mine, so I also see Tether and Memo
 
 But I really love SnapChat. So much interesting hardware and software development happens in response to the ephemera of just being alive. SnapChat, Slingshot, etc. are significant in what they discard, and this orchestrates certain kinds of social interactions. (Have you downloaded Yo? I love Yo. Yo’s are just so powerfully inscrutable.)
 
-Then at the other extreme, Quantified Self apps, [Narrative](http://getnarrative.com/), and so on, remember everything—and is that overdoing it? Or deeply satisfying? Idk. But (a line from Funes the Memorious might apply here:) there’s “a certain stammering greatness” to the recollection-capacity of modern computing, and noticing this likely inflects our experiences with software, with memory, and with day-to-day i/o.
+Then at the other extreme, Quantified Self apps, [Narrative](http://getnarrative.com/), and so on, remember everything—and is that overdoing it? Or deeply satisfying? I don't know. But (a line from Funes the Memorious might apply here:) there’s “a certain stammering greatness” to the recollection-capacity of modern computing, and noticing this likely inflects our experiences with software, with memory, and with day-to-day i/o.
