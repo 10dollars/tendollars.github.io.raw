@@ -72,7 +72,7 @@ At some point you move from art to design and I don't know if there's a differen
 
 My coworkers here do things during the day with maps and do things with our tools that I do see as art. [One coworker][saman] built a map where he literally broke our tools in order to design this chaotic map. It was [this chaotic map of multiple fonts and labels][assemblage] and he basically broke the data in order to do it, and that to me is art. And he's a designer that does these things during the day, and so part of me wonders "Where did I go wrong. Why am I not doing that and why am I not as inspired to do that?" There's definitely that challenge. But it's more that I recognize that what I'm good at now is filling in these different holes and letting these designers who are significantly more talented actually do these things. Hopefully I'll find a way to be better, but I think that's every artist's thing where we're never good enough. I think my solution to never being good enough is to build tools that other people can use then to make me feel good about it.
 
-[This sounds sad but Garret's tone was light, and he's obviously awesome, so you should all leave this page feeling happy.]
+[This sounds like kind of a downer ending but Garrett's tone was light, and he's obviously awesome, so you should all leave this page feeling comforted by the fact that everyone has the same worries that you do. Here, take these [loudgifs :)][popular]]
 
 [opower]: http://opower.com/
 [mapbox]: http://mapbox.com
@@ -84,3 +84,4 @@ My coworkers here do things during the day with maps and do things with our tool
 [saman]: http://trashmoon.com/
 [assemblage]: https://a.tiles.mapbox.com/v3/saman.h6ek9086/page.html?secure=1#3/50.96/-58.27
 [wired]: http://www.wired.com/2013/05/a-cloudless-atlas/
+[popular]: http://loudgif.com/popular
