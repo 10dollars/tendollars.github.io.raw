@@ -30,6 +30,6 @@ Hah! What an odd thing to ask! Actually, I do have a couple things I'd planned, 
 
 You know, I think Mixing bonernoise.com and Super Meat Boy in an answer may have just made my day.
 
-#### Is it obvious that I like typing Boner Noise and tried to include it in as many questions as possible?
+#### Is it obvious that I like typing "Boner Noise" and tried to include it in as many questions as possible?
 
 It's Monday morning and I haven't finished my first coffee yet, so... nope! But thanks!
