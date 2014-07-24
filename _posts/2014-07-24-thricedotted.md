@@ -27,7 +27,7 @@ So, because I am a hilarious human and definitely not annoying at all, one of my
 As a side note, this question made me realize that ever since I launched @portmanteau_bot and [@badjokebot](http://twitter.com/badjokebot), I've been doing the thing with the riddles less these days. Hum.
 
 
-#### You made a bot for your cat and she is pretty great. Glitch is a bit different for your other bots because, while the exact implementation of your [acrostic hunter](http://twitter.com/acrostik) is still uncertain, the audience can imagine the general methodology behind it. Glitch is just all over the place. How does she work?
+#### You made a bot for your cat and she is pretty great. [Glitch](https://twitter.com/storyofglitch) is a bit different for your other bots because, while the exact implementation of your [acrostic hunter](http://twitter.com/acrostik) is still uncertain, the audience can imagine the general methodology behind it. Glitch is just all over the place. How does she work?
 
 I'm pretty proud of glitch (I feel weird capitalizing her name? haha), she is probably a lot simpler than people imagine. I made a couple tweets that alluded to this:
 
@@ -66,7 +66,7 @@ At the time when I was putting glitch together, I wasn't sure what to expect fro
 
 So, there are a few mainstream bots that I like, but I'm going to take this opportunity to plug some lesser-known bots:
 
-- [@feelings_js](http://twitter.com/feelings_js) by [@katierosepipkin](katierosepipkin) is a lovely simile bot exploring new emotions each day. I love trying to find ways to interpret what the feelings behind its words would actually be, and the moments when our moods collide entirely.
+- [@feelings_js](http://twitter.com/feelings_js) by [@katierosepipkin](http://twitter.comkatierosepipkin) is a lovely simile bot exploring new emotions each day. I love trying to find ways to interpret what the feelings behind its words would actually be, and the moments when our moods collide entirely.
 
 - [@PROGRAMR_BAT](http://twitter.com/PROGRAMR_BAT) by [@inky](http://twitter.com/inky) posts single lines of source code pulled from a few different programs (he hasn't said exactly which ones :p). I find it interesting for the ways it brings out the human side of code.
 
