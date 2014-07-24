@@ -11,7 +11,7 @@ categories: [bot, twitter]
 I go by [thricedotted](http://twitter.com/thricedotted) on the internet, and I am a 20-something kid living in Seattle going to grad school for computer science. I also have a cat that I like to spend a lot of time petting! That should cover most major axes of my identity.
 
 
-#### Why do you think it's so satisfying to interact with bots? What do you think it is about Twitter's structure that makes it so appropriate for botmaking?
+#### Why do you think it's so satisfying to interact with bots, and what do you think it is about Twitter's structure that makes it so appropriate for botmaking?
 
 You're always waiting for a serendipity moment. I think most folks don't have high expectations for a bot's response, but as soon as they're able to read any meaning into it at all, it becomes a little exciting. We -- or at least I -- love pattern recognition and filling in context. When a bot is able to produce content that lets us do that, it's a very satisfying feeling.
 
@@ -40,19 +40,14 @@ I'm pretty proud of glitch (I feel weird capitalizing her name? haha), she is pr
 Essentially, I'm mining the the Twitter gardenhose for tweets that mention cats, and parsing out actions and characteristics, and then applying a little decoration to them so they come out in glitch's voice. Everything you see glitch do is something that some person has said a real-life cat has done, which is pretty amazing given some of her tweets.
 
 
-5. Also, how does @acrostik find and choose acrostics?
+#### Also, how does [@acrostik](http://twitter.com/acrostik) find and choose acrostics?
 
 It's pretty basic -- I stream in tweets from the aforementioned gardenhose, split them into words, and see if the first letters match anything in a dictionary. If they do, then I run it through an entirely arbitrary scoring function that considers the length of the acrostic, the number of "real" words in the original tweet, and whether that word has been tweeted or not before. Every hour, the top scoring acrostic gets tweeted, and the bot starts from scratch yet again.
 
 
-6. You don't stop answering my questions. I close my eyes and thoughtfully consider your answers. How did [wikisext](http://twitter.com/wikisext) learn to sext?
+#### You don't stop answering my questions. I close my eyes and thoughtfully consider your answers. How did [wikisext](http://twitter.com/wikisext) learn to sext?
 
 I gently explain that the idea for a sext bot originally came from my friend [@mayorhumscarrot](http://twitter.com/mayorhumscarrot), who originally proposed that it use steps from recipes. As it turned out, there wasn't a very good recipe API out there, but it occurred to me that (1) that would probably be same-y anyway, and therefore (2) why not use instructions from anything instead? It turns out that it's incredibly easy to grab a random page from wikiHow and parse out the important bits of the instructions, and thus [@wikisext](http://twitter.com/wikisext) was born.
-
-
-#### How do you find people generally react to your bots when the have unexpected interactions with them?
-
-Depending on what you mean by "unexpected", I'm not sure if I've seen this happen much, haha. I don't keep a very close eye on my bots' mentions, so most of the interactions I see are with people who I follow, who tend to be pretty "bot-articulate". Every once in a while, one of my bots will say something especially poignant/hilarious/lewd and someone will @-mention me so I can appreciate it.
 
 
 #### What do you look for in a bot idea?
@@ -72,5 +67,7 @@ At the time when I was putting glitch together, I wasn't sure what to expect fro
 So, there are a few mainstream bots that I like, but I'm going to take this opportunity to plug some lesser-known bots:
 
 - [@feelings_js](http://twitter.com/feelings_js) by [@katierosepipkin](katierosepipkin) is a lovely simile bot exploring new emotions each day. I love trying to find ways to interpret what the feelings behind its words would actually be, and the moments when our moods collide entirely.
+
 - [@PROGRAMR_BAT](http://twitter.com/PROGRAMR_BAT) by [@inky](http://twitter.com/inky) posts single lines of source code pulled from a few different programs (he hasn't said exactly which ones :p). I find it interesting for the ways it brings out the human side of code.
+
 - [@libraryofemoji](http://twitter.com/libraryofemoji) by [@aparrish](http://twitter.com/aparrish) imagines surreal new emoji. Perhaps the best so far has been "PHANTASMAGORICAL SYMBOL FOR THREE DISAPPEARANCES". That's an emoji I didn't know I needed until I saw that phrase, and knew that I did.
