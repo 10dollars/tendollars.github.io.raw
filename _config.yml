@@ -1,3 +1,6 @@
+name: I Had Ten Dollars
+url: http://ihadtendollars.com
+
 markdown: kramdown
 permalink: interviews/:title.html
 exclude: [links, README.md, tasks, wares]
