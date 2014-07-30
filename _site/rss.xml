@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
   version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>I Had Ten Dollars</title>
@@ -12,7 +12,7 @@
     <item>
       <title>Gary Chou - Orbital</title>
       <link>http://ihadtendollars.com/interviews/gary-chou.html</link>
-      <description>&lt;h4&gt;I normally begin by asking my guest they do for a living, but your experience has been quite varied and that wording doesn&amp;#8217;t seem quite adequate. Would you mind just giving us a quick overview of your professional background?&lt;/h4&gt;
+      <description>&lt;h4&gt;I normally begin by asking my guest they do for a living, but your experience has been quite varied and that wording doesn&amp;#8217;t seem adequate. Would you mind just giving us a quick overview of your professional background?&lt;/h4&gt;
 
 </description>
       <pubDate>Thu, 31 Jul 2014 00:00:00 -0700</pubDate>
