@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   version="2.0"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-    <pubDate>Thu, 31 Jul 2014 00:00:00 -0700</pubDate>
+    <pubDate>Fri, 01 Aug 2014 00:00:00 -0700</pubDate>
+    <item>
+      <title>Summer Break!</title>
+      <link>http://ihadtendollars.com/interviews/hiatus.html</link>
+      <description>&lt;div class=&quot;headline&quot;&gt;
+&lt;h1&gt;Summer Break '14! Wooooh!&lt;/h1&gt;
+&lt;/div&gt;
+
+</description>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0700</pubDate>
+      <guid>http://ihadtendollars.com/interviews/hiatus.html</guid>
+      <dc:date>2014-08-01T00:00:00-07:00</dc:date>
+    </item>
     <item>
       <title>Gary Chou - Orbital</title>
       <link>http://ihadtendollars.com/interviews/gary-chou.html</link>
@@ -139,6 +151,6 @@
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2014-07-31T00:00:00-07:00</dc:date>
+    <dc:date>2014-08-01T00:00:00-07:00</dc:date>
   </channel>
 </rss>
