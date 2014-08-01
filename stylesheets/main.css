@@ -106,6 +106,26 @@ font-size: 100%;
 	font-size: 150%;
 }
 
+.spin {
+	-webkit-animation: rotation 4s linear;
+	-moz-animation: rotation 4s linear;
+	-ms-animation: rotation 4s linear;
+	animation-iteration-count: 1;
+}
+
+@-webkit-keyframes rotation {
+    0%   { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes rotation {
+    0%   { -moz-transform: rotate(0deg); }
+    100% { -moz-transform: rotate(360deg); }
+}
+@-ms-keyframes rotation {
+    0%   { -ms-transform: rotate(0deg); }
+    100% { -ms-transform: rotate(360deg); }
+}
+
 blockquote {
 	border-left: 3px solid #F37930;
 	padding-left: 5px;

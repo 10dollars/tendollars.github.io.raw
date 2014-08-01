@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  version="2.0"
+<rss version="2.0"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>I Had Ten Dollars</title>
@@ -12,7 +12,7 @@
     <item>
       <title>Summer Break!</title>
       <link>http://ihadtendollars.com/interviews/hiatus.html</link>
-      <description>&lt;div class=&quot;headline&quot;&gt;
+      <description>&lt;div class=&quot;headline spin&quot;&gt;
 &lt;h1&gt;Summer Break '14! Wooooh!&lt;/h1&gt;
 &lt;/div&gt;
 
