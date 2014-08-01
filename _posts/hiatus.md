@@ -1,0 +1,16 @@
+---
+layout: interview
+slug: hiatus
+title: Summer Break!
+summary: Party In The USA
+---
+
+Summer Break '14! Wooooh!
+
+I Had Ten Dollars is going on a brief hiatus. I'm in Berkeley for the Summer, interning with [DIY](http://diy.org).
+
+I like to plan about three weeks ahead to keep a mix of longer and shorter interviews and keep a relatively even gender balance. Being busy with a new job in a new city, I've been eyeing the end of my runway as it approached thinking, "I should probably do something about that." Now that I'm here, the thing to do seems to pretty obvious - hang out in San Francisco and do a bunch of craft projects with my friends and co-workers.
+
+I want thank everyone who has participated so far for being so generous with their time and contributing such thoughtful answers. The fact that everyone I've asked has agreed to be interviewed makes me incredibly proud. I've had people I look up to greatly say that they are *honored* to have their interviews go up on the site, which makes me feel really good about all the wonderful people and projects I've managed to collect in one place, but also - I think - illustrates just how few opportunities many creators have to share their passion projects in any meaningful way.  
+
+I'll be heading back to Seattle at the end of September, and the timing to restart the series is ideal. I'm attending [XOXO](http://2014.xoxofest.com/) for the second year in mid September and I expect to meet a ton of creative people with exciting side projects to cover.
