@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>I Had Ten Dollars</title>
@@ -12,7 +12,7 @@
     <item>
       <title>Jennifer Dewalt - 180 Websites in 180 Days</title>
       <link>http://ihadtendollars.com/interviews/jennifer-dewalt.html</link>
-      <description>&lt;h3&gt;Who are you, and what do you do for a living?&lt;/h3&gt;
+      <description>&lt;h4&gt;Who are you, and what do you do for a living?&lt;/h4&gt;
 
 </description>
       <pubDate>Thu, 16 Oct 2014 00:00:00 -0700</pubDate>

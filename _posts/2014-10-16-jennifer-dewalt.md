@@ -3,7 +3,7 @@ layout: interview
 slug: jennifer.dewalt
 title: Jennifer Dewalt - 180 Websites in 180 Days
 summary: A Site A Day
-categories:
+categories: prolific, one a day, web development
 ---
 
 #### Who are you, and what do you do for a living?
