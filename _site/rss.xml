@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  version="2.0"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
-=======
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
->>>>>>> mccreath
   <channel>
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-<<<<<<< HEAD
-    <pubDate>Thu, 16 Oct 2014 00:00:00 -0700</pubDate>
-    <item>
-      <title>Jennifer Dewalt - 180 Websites in 180 Days</title>
-      <link>http://ihadtendollars.com/interviews/jennifer-dewalt.html</link>
-      <description>&lt;h4&gt;Who are you, and what do you do for a living?&lt;/h4&gt;
-
-</description>
-      <pubDate>Thu, 16 Oct 2014 00:00:00 -0700</pubDate>
-      <guid>http://ihadtendollars.com/interviews/jennifer-dewalt.html</guid>
-      <dc:date>2014-10-16T00:00:00-07:00</dc:date>
-=======
     <pubDate>Thu, 23 Oct 2014 00:00:00 -0700</pubDate>
     <item>
       <title>David McCreath</title>
@@ -38,7 +18,16 @@
       <pubDate>Thu, 23 Oct 2014 00:00:00 -0700</pubDate>
       <guid>http://ihadtendollars.com/interviews/mccreath.html</guid>
       <dc:date>2014-10-23T00:00:00-07:00</dc:date>
->>>>>>> mccreath
+    </item>
+    <item>
+      <title>Jennifer Dewalt - 180 Websites in 180 Days</title>
+      <link>http://ihadtendollars.com/interviews/jennifer-dewalt.html</link>
+      <description>&lt;h4&gt;Who are you, and what do you do for a living?&lt;/h4&gt;
+
+</description>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 -0700</pubDate>
+      <guid>http://ihadtendollars.com/interviews/jennifer-dewalt.html</guid>
+      <dc:date>2014-10-16T00:00:00-07:00</dc:date>
     </item>
     <item>
       <title>Casey Kolderup - Lonecraft</title>
@@ -192,10 +181,6 @@
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-<<<<<<< HEAD
-    <dc:date>2014-10-16T00:00:00-07:00</dc:date>
-=======
     <dc:date>2014-10-23T00:00:00-07:00</dc:date>
->>>>>>> mccreath
   </channel>
 </rss>
