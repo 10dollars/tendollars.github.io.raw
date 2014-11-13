@@ -29,7 +29,7 @@ I'm [Amber Gordon](http://twitter.com/missambear), 24 years old. Lover of coffee
 
 #### Did you look to other publications or writers for inspiration? I initially thought of Lady Bits when I heard about Femsplain, but it's not really centralized; and the monthly theme and open call made me think about 24 Hour Mag, but you'll be releasing content regularly instead of in issues.
 
-I certainly listed out publications and writers I admired, I also listed publications I didn't want to imitate for x and y reasons. Two of those [prior] publications were [Rookie Mag](http://www.rookiemag.com/) and [The Toast](http://the-toast.net/). More importantly, two writers who've inspire me and I greatly admire are [Jazmine Hughes](https://twitter.com/jazzedloon) (Contributing Editor at The Toast) and [Jessica Roy](https://twitter.com/jessicakroy) (Senior Writer at New York Mag). Both are incredibly smart, funny, and just really good women, whom without knowing I'm doubtful I'd have the courage to launch [Femsplain](http://femsplain.com).
+I certainly listed out publications and writers I admired, I also listed publications I didn't want to imitate for x and y reasons. Two of those [prior] publications were [Rookie Mag](http://www.rookiemag.com/) and [The Toast](http://the-toast.net/). More importantly, two writers who've inspire me and I greatly admire are [Jazmine Hughes](https://twitter.com/jazzedloon) (Contributing Editor at [The Hairpin]) and [Jessica Roy](https://twitter.com/jessicakroy) (Senior Writer at New York Mag). Both are incredibly smart, funny, and just really good women, whom without knowing I'm doubtful I'd have the courage to launch [Femsplain](http://femsplain.com).
 
 #### How did you settle on the idea of themed months?
 
