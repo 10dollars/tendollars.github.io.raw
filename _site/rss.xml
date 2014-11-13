@@ -8,18 +8,6 @@
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-<<<<<<< HEAD
-    <pubDate>Thu, 23 Oct 2014 00:00:00 -0700</pubDate>
-    <item>
-      <title>David McCreath - It Might Get Personal</title>
-      <link>http://ihadtendollars.com/interviews/mccreath.html</link>
-      <description>&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
-
-</description>
-      <pubDate>Thu, 23 Oct 2014 00:00:00 -0700</pubDate>
-      <guid>http://ihadtendollars.com/interviews/mccreath.html</guid>
-      <dc:date>2014-10-23T00:00:00-07:00</dc:date>
-=======
     <pubDate>Thu, 13 Nov 2014 00:00:00 -0800</pubDate>
     <item>
       <title>Amber Gordon - Femsplain</title>
@@ -30,7 +18,16 @@
       <pubDate>Thu, 13 Nov 2014 00:00:00 -0800</pubDate>
       <guid>http://ihadtendollars.com/interviews/amber-gordon.html</guid>
       <dc:date>2014-11-13T00:00:00-08:00</dc:date>
->>>>>>> ambear
+    </item>
+    <item>
+      <title>David McCreath - It Might Get Personal</title>
+      <link>http://ihadtendollars.com/interviews/mccreath.html</link>
+      <description>&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
+
+</description>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 -0700</pubDate>
+      <guid>http://ihadtendollars.com/interviews/mccreath.html</guid>
+      <dc:date>2014-10-23T00:00:00-07:00</dc:date>
     </item>
     <item>
       <title>Jennifer Dewalt - 180 Websites in 180 Days</title>
@@ -194,10 +191,6 @@
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-<<<<<<< HEAD
-    <dc:date>2014-10-23T00:00:00-07:00</dc:date>
-=======
     <dc:date>2014-11-13T00:00:00-08:00</dc:date>
->>>>>>> ambear
   </channel>
 </rss>
