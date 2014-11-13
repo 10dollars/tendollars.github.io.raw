@@ -12,12 +12,11 @@ I emailed Amber these questions before the site even launched because I knew she
 
 Here are a few of my favorite submissions so far:
 
-[Everyone On Tinder Is My Boyfriend](http://femsplain.com/everyone-on-tinder-is-my-boyfriend/)
+* [Everyone On Tinder Is My Boyfriend](http://femsplain.com/everyone-on-tinder-is-my-boyfriend/)
+* [Stop Giving Marketing Agencies Credit That The Fangirls Deserve](http://femsplain.com/stop-giving-marketing-agencies-credit-that-the-fangirls-deserve/)
+* [The Lost Art Of Making Out](http://femsplain.com/the-lost-art-of-making-out/)
 
-[Stop Giving Marketing Agencies Credit That The Fangirls Deserve](http://femsplain.com/stop-giving-marketing-agencies-credit-that-the-fangirls-deserve/)
-
-[The Lost Art Of Making Out](http://femsplain.com/the-lost-art-of-making-out/)
-
+Okay, Amber now
 
 #### Who are you and what do you do for a living?
 
