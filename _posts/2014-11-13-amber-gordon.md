@@ -8,7 +8,7 @@ categories: [feminism, content, community]
 
 I dislike the term "internet savvy" because it doesn't really tell me anything -- There are just so many parts of the internet and so many types of behaviors that take place on it -- but if there's anyone it's safe to say is internet savvy, I think it would probably be Amber.
 
-I emailed Amber these questions before the site even launched because I knew she would bring her own perspective to what a platform for women should be and knock it out of the park. I wasn't exactly sure what to expect, but it has been great watching Femsplain unfold over the couple of weeks. For one thing, Femsplain fits Tumblr like a glove. I really like how they reblog their writers and publish pull quotes (the type of thing typically shared on Tumblr anyway) as their own separate posts. Sometimes the line between the [Femsplain Tumblr](http://femsplain.tumblr.com/) and main site kind of get blurred for me a little bit, but that's interesting too. And the topic of "firsts" is broad enough that there is a breadth of different subjects and voices represented. In less than a month a place holder landing page has turned into what feels like a vibrant community space.
+I emailed Amber these questions before the site even launched because I knew she would bring her own perspective to what a platform for women should be and knock it out of the park. I wasn't exactly sure what to expect, but it has been great watching [Femsplain](http://femsplain.com) unfold over the couple of weeks. For one thing, Femsplain fits Tumblr like a glove. I really like how they reblog their writers and publish pull quotes (the type of thing typically shared on Tumblr anyway) as their own separate posts. Sometimes the line between the [Femsplain Tumblr](http://femsplain.tumblr.com/) and main site kind of get blurred for me a little bit, but that's interesting too. And the topic of "firsts" is broad enough that there is a breadth of different subjects and voices represented. In less than a month a place holder landing page has turned into what feels like a vibrant community space.
 
 Okay, Amber now
 
@@ -42,7 +42,7 @@ I went off on a huge tangent, but really this is what my hopes are. We all come 
 
 Eventually I'd love to turn [Femsplain](http://femsplain.com) into something bigger, but right now I'm focused on building and spreading awareness.
 
-#### Me again. Here are a few of my favorite pieces on Femsplain right now, if you're interested
+#### Me again. Thanks Amber! Here are a few of my favorite pieces on Femsplain right now if you're interested, dear spirited reader.
 
 * [Everyone On Tinder Is My Boyfriend](http://femsplain.com/everyone-on-tinder-is-my-boyfriend/)
 * [Stop Giving Marketing Agencies Credit That The Fangirls Deserve](http://femsplain.com/stop-giving-marketing-agencies-credit-that-the-fangirls-deserve/)
