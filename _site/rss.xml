@@ -8,7 +8,17 @@
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-    <pubDate>Thu, 13 Nov 2014 00:00:00 -0800</pubDate>
+    <pubDate>Thu, 04 Dec 2014 00:00:00 -0800</pubDate>
+    <item>
+      <title>Jessica Lord - Sheetsee</title>
+      <link>http://ihadtendollars.com/interviews/jessica-lord.html</link>
+      <description>&lt;p&gt;I met Jessica at &lt;a href=&quot;http://tacoconf.com/&quot;&gt;Taco Conf&lt;/a&gt; when she was at Code for America, and I remember being really inspired by her work as well as the passion she had for it. One of the things I like about Jessica’s work is that you get the sense that she really cares about helping people solve problems, and goes about it in a way that gets them started on a track where they can keep improving their solutions. As you’ll see, Sheetsee lowers the barrier for visualizing data using tools people are already familiar with. Her project &lt;a href=&quot;https://github.com/jlord/git-it&quot;&gt;Git-it&lt;/a&gt; is an application that runs in your terminal to help you learn how to use git and github.  &lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 -0800</pubDate>
+      <guid>http://ihadtendollars.com/interviews/jessica-lord.html</guid>
+      <dc:date>2014-12-04T00:00:00-08:00</dc:date>
+    </item>
     <item>
       <title>Amber Gordon - Femsplain</title>
       <link>http://ihadtendollars.com/interviews/amber-gordon.html</link>
@@ -191,6 +201,6 @@
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2014-11-13T00:00:00-08:00</dc:date>
+    <dc:date>2014-12-04T00:00:00-08:00</dc:date>
   </channel>
 </rss>
