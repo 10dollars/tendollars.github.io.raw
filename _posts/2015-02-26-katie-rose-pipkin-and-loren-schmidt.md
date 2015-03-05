@@ -31,7 +31,7 @@ l: we wanted to make sure the project was accessible. it can be a bit disorienti
 
 <a href="/images/posts/inflorescence/inflorescence2.png"><img height="427" width="500" src="/images/posts/inflorescence/inflorescence2.png"></a>
 
-#### When we talked earlier, you mentioned this started as a nanogenmo project. What about it made you think it was something that should be worked on outside of that event?
+#### When we talked earlier, you mentioned this started as a [nanogenmo](http://www.theverge.com/2014/11/25/7276157/nanogenmo-robot-author-novel) project. What about it made you think it was something that should be worked on outside of that event?
 
 k: in short, we ran out of time! i don't think it is an uncommon sentiment when working on large projects within short deadlines, but the place it was by december 1st was fairly shallow of the place we hoped to leave it.
 
