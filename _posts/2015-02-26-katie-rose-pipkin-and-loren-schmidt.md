@@ -2,7 +2,7 @@
 layout: interview
 slug: katie.rose.pipkin.and.loren.schmidt
 title: Katie Rose Pipkin & Loren Schmidt - infloresence.city
-summary: Visualize information from a Google Docs spreadsheet!
+summary: A journal about a city that changes every time you visit!
 categories: [generative art, storytelling, algorithms, maps]
 ---
 
