@@ -8,7 +8,17 @@
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-    <pubDate>Thu, 04 Dec 2014 00:00:00 -0800</pubDate>
+    <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
+    <item>
+      <title>Katie Rose Pipkin &amp; Loren Schmidt - infloresence.city</title>
+      <link>http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html</link>
+      <description>&lt;h4&gt;Who are you and what do you do for a living&lt;/h4&gt;
+
+</description>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
+      <guid>http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html</guid>
+      <dc:date>2015-02-26T00:00:00-08:00</dc:date>
+    </item>
     <item>
       <title>Jessica Lord - Sheetsee</title>
       <link>http://ihadtendollars.com/interviews/jessica-lord.html</link>
@@ -201,6 +211,6 @@
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2014-12-04T00:00:00-08:00</dc:date>
+    <dc:date>2015-02-26T00:00:00-08:00</dc:date>
   </channel>
 </rss>
