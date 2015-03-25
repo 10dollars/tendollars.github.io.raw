@@ -6,6 +6,8 @@ summary: Automate your enthusiasm
 categories: [email, extensions, language]
 ---
 
+Joanne McNeil's Emotional Labor Extension is a bit different than the projects I normally post about here because it's already well documented. She wrote a fantastic post about it that resonated with me, and I think will resonate with anyone who sends email even semi-regularly. Reading about her anxiety sending personal emails and trying to compensate for the form's limitations in expression I was reminded of the time a coworker put five exclamation points in a reply-all email to our CEO and another co-worker stopped by her desk and said, "Dang, you sounded maaaad." 
+
 #### Who are you and what do you do for a living?
 
 I am a [writer](http://www.joannemcneil.com/essays/) and most of my essays appear on Medium’s [The Message](https://medium.com/message/) I just completed a residency at Eyebeam in NYC, where I worked on this project and hosted a series of events called [New Topics in Social Computing](https://soundcloud.com/eyebeamnyc/sets/new-topics-in-social-computing)
