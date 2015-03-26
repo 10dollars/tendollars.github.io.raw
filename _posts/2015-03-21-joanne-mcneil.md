@@ -6,7 +6,13 @@ summary: Automate your enthusiasm
 categories: [email, extensions, language]
 ---
 
-Joanne McNeil's Emotional Labor Extension is a bit different than the projects I normally post about here because it's already well documented. She wrote a fantastic post about it that resonated with me, and I think will resonate with anyone who sends email even semi-regularly. Reading about her anxiety sending personal emails and trying to compensate for the form's limitations in expression I was reminded of the time a coworker put five exclamation points in a reply-all email to our CEO and another co-worker stopped by her desk and said, "Dang, you sounded maaaad." 
+Joanne McNeil's Emotional Labor Extension is a bit different than the projects I normally post about here because it's already well documented. She wrote a [fantastic post about it](https://medium.com/message/canned-email-eb6f4ba843d9) that resonated with me, and I think will resonate with anyone who sends email even semi-regularly. Reading about her anxiety sending personal emails and trying to compensate for the form's limitations in expression I was reminded of the time a coworker put five exclamation points in a reply-all email to our CEO and a collegue stopped by her desk and said, "Dang, you sounded maaaad." 
+
+I also know the feeling of disappointment and worry that comes from looking at a paltry line or two in gmail's "compose" window, wondering why my letter looks so bad. I was having such a hard time with the disconnect between how terrible my emails sounded to my ears and how much I felt for their recipients that I actually started a concerted effort to improve my letter writing with my friend Ryan (of [Is Ryan At The Office](http://ihadtendollars.com/interviews/ryan-wolf.html) fame) where we vowed to write substantial letters to one another. I found writing decent letters in an age of ubiquitious access (including being able to check whether someone is at their office whenever I felt like it) that I proposed we both buy and read a collection of letters between Paul Auster and J.M. Coetzee so we could have something to fall back on for discussion that we weren't talking about anywhere else. I think it helped, and I ended up really valuing those letters, but I still feel like my emails end up being staid and mechanical far too often.
+
+Joanne's Emotional Labor Extension is a great project because it takes a problem we're so familiar with that it's just become a part of daily life, and makes it novel again so we can look at it with fresh eyes. 
+
+Okay, Joanne, now.
 
 #### Who are you and what do you do for a living?
 
