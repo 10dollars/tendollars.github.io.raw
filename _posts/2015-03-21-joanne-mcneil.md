@@ -32,7 +32,7 @@ I made it look fake because otherwise I might start using it. It’s too temptin
 
 <a href="/images/posts/joanne/emotional-labor.gif"><img height="313" width="500" src="/images/posts/joanne/emotional-labor.gif"></a>
 
-#### One of the reasons the extension is so great is because it's so obvious. It carries these practices that often feel a bit off to their logical, awkward conclusion. You wrote that you made it this way to draw attention to the fact that you find this type of interaction exhausting. Did you find that making the extension helped? Was posting about it and getting your frustrations on the record cathartic at all?
+#### You wrote that you made it this way to draw attention to the fact that you find this type of interaction exhausting. Did you find that making the extension helped? Was posting about it and getting your frustrations on the record cathartic at all?
 
 Sometimes I will search my inbox for sentences like “I’ve been thinking of you” and cringe at the number of botched attempts at persuasion, flirtation, and/or forced kindness in what is now over ten years of messages. 
 
