@@ -6,6 +6,8 @@ summary: Director of Engineering at EdgeCast
 categories: [cats, gifs]
 ---
 
+Carlo passed away recently and [I've written something about him](http://imgoingtorockforyou.today) for anyone who is interested, but I want to take a moment to thank him here for bringing his typical enthusiasm and positivity to this project. When I mentioned the idea to him he did lots of little things like emailing me cool projects to feature and feedback on my first interviews. He was a great friend and a great engineer. Thank you for everything, Carlo <3
+
 #### Who are you and what do you do?
 
 My name is Carlo Flores and I try to do cool things with computers.  I help lead a team of Software Engineers at [EdgeCast Networks](http://edgecast.com) (now Verizon Digital Media Services) as well as co-organize [LA DevOps](http://meetup.com/ladevops) and [js.la](http://js.la), two of the best damn meetup groups in Los Angeles.  
