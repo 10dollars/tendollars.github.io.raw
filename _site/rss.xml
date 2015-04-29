@@ -8,7 +8,17 @@
     <title>I Had Ten Dollars</title>
     <link>http://ihadtendollars.com</link>
     <description>RSS feed for I Had Ten Dollars</description>
-    <pubDate>Sat, 21 Mar 2015 00:00:00 -0700</pubDate>
+    <pubDate>Fri, 24 Apr 2015 00:00:00 -0700</pubDate>
+    <item>
+      <title>Amanda Hess - Users</title>
+      <link>http://ihadtendollars.com/interviews/amanda-hess.html</link>
+      <description>&lt;h4&gt;Okay, so I want to ask you about your new column. First, how does having a column work? Is this your main thing now? How much time do you devote to this, and how much time do you spend writing other things outside of the column?&lt;/h4&gt;
+
+</description>
+      <pubDate>Fri, 24 Apr 2015 00:00:00 -0700</pubDate>
+      <guid>http://ihadtendollars.com/interviews/amanda-hess.html</guid>
+      <dc:date>2015-04-24T00:00:00-07:00</dc:date>
+    </item>
     <item>
       <title>Joanne McNeil - Emotional Labor Extension</title>
       <link>http://ihadtendollars.com/interviews/joanne-mcneil.html</link>
@@ -194,7 +204,7 @@
     <item>
       <title>Carlo Flores - EdgeCats.net</title>
       <link>http://ihadtendollars.com/interviews/carlo-flores.html</link>
-      <description>&lt;h4&gt;Who are you and what do you do?&lt;/h4&gt;
+      <description>&lt;p&gt;Carlo passed away recently and &lt;a href=&quot;http://imgoingtorockforyou.today&quot;&gt;I’ve written something about him&lt;/a&gt; for anyone who is interested, but I want to take a moment to thank him here for bringing his typical enthusiasm and positivity to this project. When I mentioned the idea to him he did lots of little things like emailing me cool projects to feature and feedback on my first interviews. He was a great friend and a great engineer. Thank you for everything, Carlo &amp;lt;3&lt;/p&gt;
 
 </description>
       <pubDate>Wed, 30 Apr 2014 00:00:00 -0700</pubDate>
@@ -214,13 +224,13 @@
     <item>
       <title>Ryan Wolf - Is Ryan At The Office</title>
       <link>http://ihadtendollars.com/interviews/ryan-wolf.html</link>
-      <description>&lt;h4&gt;Who are you and what do you do?&lt;/h4&gt;
+      <description>&lt;p&gt;Ryan’s “Is Ryan At The Office” project is exactly what I had in mind when I started putting together I Had Ten Dollars. It’s utility is questionable at best. Ryan goes to the office pretty frequently. Like, basically five-days-a-week often. His commute is something like two hours so if you wanted an estimate of when he was going to get home it wouldn’t give you a really useful range to work with. I don’t get the impression that it was built because Ryan wanted it to exist, but that it exists because Ryan wanted to build something. And for all that, I kind of love it. When I moved to Seattle I would sit in my office at a job I kind of hated and check IsRyanAtTheOffice and feel a little more connected to my friend. Sometimes his status would be at work pretty late and I wold tell him to go home. It was a really small interaction and it feels kind of silly because it’s not a stand-in for communication by any means, but I think it’s basically impossible to make something without a little of youreself coming through. So this single page, one word site still made me think, “LOL, Ryan.”&lt;/p&gt;
 
 </description>
       <pubDate>Sat, 05 Apr 2014 00:00:00 -0700</pubDate>
       <guid>http://ihadtendollars.com/interviews/ryan-wolf.html</guid>
       <dc:date>2014-04-05T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2015-03-21T00:00:00-07:00</dc:date>
+    <dc:date>2015-04-24T00:00:00-07:00</dc:date>
   </channel>
 </rss>
