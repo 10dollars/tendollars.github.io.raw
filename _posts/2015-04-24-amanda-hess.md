@@ -35,7 +35,7 @@ Off the "lady pages." So, not for a female specific audience. But, also, much of
 
 #### Given that, where do you see Users fitting in in overall tech reporting, or even just Slate's tech or internet culture pieces? Have you kind of identified a space that you want to carve out for yourself? 
 
-That's a great question. So, I don't... I'm trying to figure out things that I **don't** write about. 
+That's a great question. So, I don't... I'm trying to figure out things that I *don't* write about. 
 
 #### Sometimes that's the easiest way. You can see something and be like, "I wouldn't cover that," to get down to it.
 
