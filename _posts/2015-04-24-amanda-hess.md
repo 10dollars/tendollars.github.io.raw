@@ -4,6 +4,7 @@ slug: amanda.hess
 title: Amanda Hess - Users
 summary: A new column about how people use the internet at Slate
 categories: [writing, journalism, internet culture]
+credits: {name: "Amanda's best selfie"}
 ---
 
 #### Okay, so I want to ask you about your new column. First, how does having a column work? Is this your main thing now? How much time do you devote to this, and how much time do you spend writing other things outside of the column?
@@ -56,7 +57,7 @@ And I'm also just cravenly asking anyone if they know teenagers who will email m
 
 #### I always thought you were pretty plugged into that teen beat. 
 
-Well, I'm like twenty-nine now. You know, I keep getting older. And teenagers stay the same age. So, people who I might have talked to who were seventeen a few years ago aren't teenagers anymore. They can be a good bridge to younger people, but you really have to keep getting new sources if you write about teenagers.
+Well, I'm like twenty-nine now. You know, I keep getting older and teenagers stay the same age. So, people who I might have talked to who were seventeen a few years ago aren't teenagers anymore. They can be a good bridge to younger people, but you really have to keep getting new sources if you write about teenagers.
 
 #### I forgot about that. So, do you think you're going to become the type of person that spends a lot of time in these niche sites, or is it mostly, like, an academic interest to you where people will direct you to them and you'll look at them enough to write a story but you won't spend a whole lot of time crawling through these communities? Or trying every new app that comes out to see what's happening on it? 
 
@@ -85,13 +86,13 @@ Yeah, like I'll write something offensive? Yeah, uhhh, I don't know. I mean, it'
 That's a really difficult question because I think one of the things that I tend to. I tend to agree with [Nathan Jurgensen][jurgenson]. Do you know who he is? He's a sociologist who writes about the Internet, and he has promoted this idea 
 called "digital dualism" which [debunks] the idea that online and offline lives are separate things. It's difficult to believe that, as I do, and also think that there's anything new and interesting in writing about different technologies. And some people, I think, do that really well. And I don't think I'm really one of those people. So the things that I often end up writing about – that are about the culture of the internet – they don't really... They don't tend to interact much with how it's different than it used to be. Do you know what I mean? It's more like – and this is not something I've actually thought about, but I'm articulating just now – it's more like reporting on the internet like it's a place. And it doesn't tend to really specifically have a commentary or a critique about how it's different from before we had the internet or how it's different when we're not on the Internet much at all. I guess. Maybe I'm wrong. Am I wrong? 
 
-#### I don't think so. I mean, it's an interesting question. It kind of comes up in the piece about [diagnosing mental disorders][mental] and whether internet [disorders] are different or are they do they just allow us different manifestations of existing problems. One thing is it seems like things happen faster on the internet because we always have access to it. Is the fact that behaviors are accelerated novel or not? Maybe that's a significant question? 
+#### I don't think so. I mean, it's an interesting question. It kind of comes up in the piece about [diagnosing mental disorders][mental] and whether internet [disorders] are different or do they just allow us different manifestations of existing problems? One thing is it seems like things happen faster on the internet because we always have access to it. Is the fact that behaviors are accelerated novel or not? Maybe that's a significant question? 
 
 Yeah. I think you're right, and I don't know. That's a good example of a thing that I wrote about, "whether disorders are different online." Because that's like a classic Amanda Hess thing where, like, I don't say whether they are or not, and I don't know. 
 
 I don't know if they're different. 
 
-I know that one guy thinks they are and one guy thinks they're not, really. But, I have no idea if we should see them as different things. But, I do agree with you that it's a really interesting question. I'm probably not going to answer it. But hopefully I can illuminate the question in some way. That's usually my goal. 
+I know that one guy thinks they are and one guy thinks they're not, really. But I have no idea if we should see them as different things. But, I do agree with you that it's a really interesting question. I'm probably not going to answer it. But hopefully I can illuminate the question in some way. That's usually my goal. 
 
 #### I think that makes sense. I think that's kind of like the best anybody can do a lot of the time.
 
