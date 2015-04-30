@@ -23,7 +23,9 @@ At least for now, I'm trying for it all to be Users, because it's so natural and
 
 Umm, no. 
 
-I mean, sort of. It was a lot more specific than that. It was actually an idea that was conceived of by my editors as something that they wanted more coverage of. And it was pretty obvious that I'd gotten kind of tired of writing about women all the time. But I think you're right. Like, if you've read any of the things I've written in this category, a lot of them could have been written for Double X because they have some gender component to them. So, like, the first thing I wrote was about why suicide prevention online doesn't adequately reach young men. It's funny because that's very much a story about gender, but it wouldn't really work that well in Double X because Double X is about women even though it's usually about, sort of, gender more widely. What else have I written that's sort of gender-y? Oh, I wrote something about the [eggplant emoji][eggplant] that's about sex on the internet, which is something that I've written about for a while.
+I mean, sort of. It was a lot more specific than that. It was actually an idea that was conceived of by my editors as something that they wanted more coverage of. And it was pretty obvious that I'd gotten kind of tired of writing about women all the time. But I think you're right. Like, if you've read any of the things I've written in this category, a lot of them could have been written for Double X because they have some gender component to them.
+
+So, like, the first thing I wrote was about why suicide prevention online doesn't adequately reach young men. It's funny because that's very much a story about gender, but it wouldn't really work that well in Double X because Double X is about women even though it's usually about, sort of, gender more widely. What else have I written that's sort of gender-y? Oh, I wrote something about the [eggplant emoji][eggplant] that's about sex on the internet, which is something that I've written about for a while.
 
 So, I think they saw this opportunity for me to do something that I had been doing for a while, but that was a little bit of a departure from it too. 
 
