@@ -4,10 +4,12 @@ slug: amanda.hess
 title: Amanda Hess - Users
 summary: A new column at Slate about how people use the internet
 categories: [writing, journalism, internet culture]
-credits: {name: "Amanda's best selfie"}
 ---
 
-#### Okay, so I want to ask you about your new column. First, how does having a column work? Is this your main thing now? How much time do you devote to this, and how much time do you spend writing other things outside of the column?
+With this interview I'm taking a bit of a departure from the site's premise since Amanda's [new column at Slate][users] is her real job. I've been a fan of Amanda's writing for quite some time. She covers serious issues with great sensitivity and thoroughness, and I'm always impressed by how well researched and sourced her articles are. When I heard that she had a new column centered on the internet I was really curious about how she would approach it, and knew I had to talk to her about it for the site. 
+
+
+#### Okay, so I want to ask you about your new column, [Users][users]. First, how does having a column work? Is this your main thing now? How much time do you devote to this, and how much time do you spend writing other things outside of the column?
 
 It's all really new to me also. I was freelancing for a long time, and I was freelancing mostly for Slate, and then I was doing various other things for other places. Then I got a full time job at Slate and I started freelancing other places less, but still doing it. And now I have my job at Slate and then I'm also contributing to the [New York Times Magazine][nytimesmag] infrequently over the year. So, that will probably be the extent of the freelancing that I do this year.
  
@@ -117,5 +119,7 @@ I know that one guy thinks they are and one guy thinks they're not, really. But 
 [jurgenson]: http://www.washingtoncitypaper.com/blogs/sexist/author/ahess/
 
 [mental]: http://www.slate.com/articles/technology/users/2015/03/lacey_spears_might_have_had_munchausen_by_proxy_by_internet_are_internet.html
+
+[users]: http://www.slate.com/articles/technology/users.html
 
 
