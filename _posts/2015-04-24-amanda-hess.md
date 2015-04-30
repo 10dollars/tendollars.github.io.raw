@@ -6,7 +6,9 @@ summary: A new column at Slate about how people use the internet
 categories: [writing, journalism, internet culture]
 ---
 
-With this interview I'm taking a bit of a departure from the site's premise since Amanda's [new column at Slate][users] is her real job. I've been a fan of Amanda's writing for quite some time. She covers serious issues with great sensitivity and thoroughness, and I'm always impressed by how well researched and sourced her articles are. When I heard that she had a new column centered on the internet I was really curious about how she would approach it, and knew I had to talk to her about it for the site. 
+With this interview I'm taking a bit of a departure from the site's premise since Amanda's [new column at Slate][users] is her real job. Who cares though, because Amanda is great!
+
+Amanda has been covering serious issues with great care for years, and I'm always impressed by how well researched and sourced her articles are. When I heard that she had a new column centered on the internet I was really curious about how she would approach it, and knew I had to talk to her about it for the site. 
 
 
 #### Okay, so I want to ask you about your new column, [Users][users]. First, how does having a column work? Is this your main thing now? How much time do you devote to this, and how much time do you spend writing other things outside of the column?
@@ -39,7 +41,7 @@ That's a great question. So, I don't... I'm trying to figure out things that I *
 
 #### Sometimes that's the easiest way. You can see something and be like, "I wouldn't cover that," to get down to it.
 
-So, I actually didn't come up with this name - I'm trying to remember who at Slate came up this name, "Users." I think it might have been Julia Turner, our editor in chief. But, it's actually been really useful, because I'm trying to focus on how people actually use the internet; as opposed to, like, people who are creating the spaces on the internet, or the culture of Silicon Valley or something. I don't write about that stuff. And I don't write about, like, new phones or anything like that. Unless a new phone is creating a crazy new way that people have relationships with each other. 
+So, I actually didn't come up with this name - I'm trying to remember who at Slate came up this name, "Users." I think it might have been [Julia Turner][turner], our editor in chief. But, it's actually been really useful, because I'm trying to focus on how people actually use the internet; as opposed to, like, people who are creating the spaces on the internet, or the culture of Silicon Valley or something. I don't write about that stuff. And I don't write about, like, new phones or anything like that. Unless a new phone is creating a crazy new way that people have relationships with each other. 
 
 #### Are you going to cover that heartbeat thing in the Apple watch? 
 
@@ -121,5 +123,7 @@ I know that one guy thinks they are and one guy thinks they're not, really. But 
 [mental]: http://www.slate.com/articles/technology/users/2015/03/lacey_spears_might_have_had_munchausen_by_proxy_by_internet_are_internet.html
 
 [users]: http://www.slate.com/articles/technology/users.html
+
+[turner]: https://twitter.com/juliaturner
 
 
