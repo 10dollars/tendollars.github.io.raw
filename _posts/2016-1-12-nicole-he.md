@@ -8,7 +8,9 @@ categories: [art, tinder, robots, love, itp, disembodied hands]
 
 Nicole's True Love bot has everything you could want in a project: romance, robots, suspense, the slightest feeling of helplessness, a single disembodied hand – everything! As Nicole says in her description of the robot, "This project explores the idea that the computer knows us better than we know ourselves, and therefore it has better authority on who we should date than we do. In a direct way, the True Love Tinder Robot makes the user confront what it feels like to let computers make intimate decisions for us." I think it looks like a really successful project in that regard.
 
-After you read this, you should check out the Nicole's documentation for the project. She's set up a [page answering some of the more common questions](http://nicole.pizza/true-love-tinder-robot/) and showing off a video of the robot in action. You can also read her [process blog](http://nicole.pizza/itp/tag/tinder-robot/) to check out how the True Love Tinder Robot's development unfold. It has early sketches, code, and even a breakdown of all the parts and how much they cost. I kind of wish every project was this well documented, but then I probably wouldn't be able to keep this site up. 
+After you read this, you should check out the Nicole's documentation for the project. She's set up [a page](http://nicole.pizza/true-love-tinder-robot/) answering some of the more common questions and showing off a video of the robot in action. You can also read her [process blog](http://nicole.pizza/itp/tag/tinder-robot/) to see the robot's development unfold. It has early sketches, code, and even a breakdown of all the parts and how much they cost. I kind of wish every project was this well documented, but then I probably wouldn't be able to keep this site up.
+
+<a href="/images/posts/nicole/true-love-tinder-robot.gif"><img src="/images/posts/nicole/true-love-tinder-robot.gif"></a>
 
 #### Who are you and what do you do for a living?
 
@@ -19,8 +21,6 @@ I'm a graduate student at NYU [ITP](https://tisch.nyu.edu/itp), which is like Ho
 [The True Love Tinder Robot](http://nicole.pizza/true-love-tinder-robot/) was a project I made for two of my classes at ITP. It's a robot that reads your feeling as you are looking at Tinder profiles, and then decides whether or not you are attracted to that person. If you are, the creepy robot hand will physically swipe right, and if you are not, it will swipe left. It also talks to you the whole time about your involuntary choices.
 
 I woke up in the middle of the night with the idea for this robot. I decided to run with it because I thought it would make people think about how much we trust computers with intimate decisions, and also because I thought it would be a funny project.
-
-<a href="/images/posts/nicole/true-love-tinder-robot.gif"><img src="/images/posts/nicole/true-love-tinder-robot.gif"></a>
 
 #### How did you decide the robot should talk?
 
