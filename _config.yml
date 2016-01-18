@@ -4,6 +4,9 @@ url: http://ihadtendollars.com
 gems :
   - jekyll-paginate
 
+gems:
+  - jekyll-feed
+
 markdown: kramdown
 permalink: interviews/:title.html
 exclude: [links, README.md, tasks, wares]
