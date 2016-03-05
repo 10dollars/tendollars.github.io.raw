@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 <link href="http://ihadtendollars.com/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://ihadtendollars.com/" rel="alternate" type="text/html" />
-<updated>2016-03-05T15:46:24-08:00</updated>
+<updated>2016-03-05T15:55:08-08:00</updated>
 <id>http://ihadtendollars.com/</id>
 <title>I Had Ten Dollars</title>
 <entry>
@@ -19,6 +19,8 @@
 &lt;p&gt;I love the idea of something that makes science more personal while showing off how the fruits of scientific experimentation are incorporated into our lives.&lt;/p&gt;
 
 &lt;p&gt;The Amino team is almost complete hand assembling the kits promised to their &lt;a href=&quot;https://www.indiegogo.com/projects/amino-desktop-bioengineering-for-everyone#/&quot;&gt;IndieGogo&lt;/a&gt; backers and is looking to start large scale manufacturing soon. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This interview has been edited for length and clarity&lt;/em&gt;&lt;/p&gt;
 
 &lt;h4&gt;You started this at MIT Media Lab and I’m curious how you got the idea to make this your project.&lt;/h4&gt;
 
@@ -58,7 +60,7 @@
 
 &lt;p&gt;One of the things I am personally excited about is giving non-scientists, and people who have no interest in science, the ability to create using science. So I’m really excited for people at home to be able to create their own yeast that, say, glows in the dark. And then [having them] make cakes and grow beers from it. Just having that really simple application for something that’s actually super powerful and complex.&lt;/p&gt;
 
-&lt;p&gt;And I like imaging kids having this as a Christmas present. You know, you’re so excited when you get your Christmas gifts. I remember getting a chemistry set and following the instructions for the first few and then being like, “Fuck these instructions, I’m going to make my own.” And most of the time it didn’t work out, but I’m really excited to see kids trying to create things that we haven’t told them to. And it will still be safe because we’re only providing safe chemicals.&lt;/p&gt;
+&lt;p&gt;And I like imagining kids having this as a Christmas present. You know, you’re so excited when you get your Christmas gifts. I remember getting a chemistry set and following the instructions for the first few and then being like, “Fuck these instructions, I’m going to make my own.” And most of the time it didn’t work out, but I’m really excited to see kids trying to create things that we haven’t told them to. And it will still be safe because we’re only providing safe chemicals.&lt;/p&gt;
 
 &lt;p&gt;One of the apps we’re putting out is to create your own pigments that either glows under UV or can glow in the dark. I’m sure someone will create a pigment that we’ve never seen before or that changes color over time or something. I think that will be really cool.&lt;/p&gt;
 
@@ -86,11 +88,13 @@
 
 &lt;h4&gt;We’re almost out of time and I just have two more questions that I ask for every project. What was the most surprising thing you learned while making this project?&lt;/h4&gt;
 
-&lt;p&gt;I think it was that so many people came together to make it happen. I used to work in speculative design: where you come up an idea, and you make a prototype, and it goes in a museum, and you give a few talks about it, and everyone’s very proud of you but nothing happens with it. You know, you put it in your closet or it stays in a gallery. But this time it’s actually real and friends and engineers and scientists helped out. Everyone’s very supportive. The media lab was very supportive. Yeah, that part was really amazing.&lt;/p&gt;
+&lt;p&gt;I think it was that so many people came together to make it happen. I used to work in speculative design: where you come up an idea, and you make a prototype, and it goes in a museum, and you give a few talks about it, and everyone’s very proud of you but nothing happens with it. You know, you put it in your closet or it stays in a gallery. But this time it’s actually real and friends and engineers and scientists helped out. Everyone’s been very supportive. The media lab was very supportive. Yeah, that part was really amazing.&lt;/p&gt;
 
 &lt;h4&gt;And what was the most challenging part of realizing this project.&lt;/h4&gt;
 
-&lt;p&gt;I think we’re going through it right now. It’s going to be really boring answer, but it’s taking it from a prototype that works and turning it into a consumer product that other people can use for a long time. With our prototype, you could have used it for like two weeks and then you would have been in trouble. But this version we’re making now, you can use it for a year. Yeah, that’s quite a challenge. Of course, if we had unlimited amounts of money we could do that easily and sell it to you for 1,500 dollars or thirty grand because the pumps are so expensive, but it was a finding the right balance of quality materials and durability.&lt;/p&gt;
+&lt;p&gt;I think we’re going through it right now. It’s going to be really boring answer, but it’s taking it from a prototype that works and turning it into a consumer product that other people can use for a long time. With our prototype, you could have used it for like two weeks and then you would have been in trouble. But this version we’re making now, you can use it for a year.&lt;/p&gt;
+
+&lt;p&gt;Yeah, that’s quite a challenge. Of course, if we had unlimited amounts of money we could do that easily and sell it to you for 1,500 dollars or thirty grand because the pumps are so expensive, but it was a finding the right balance of quality materials and durability.&lt;/p&gt;
 </content>
 <summary>The Amino just might be the most ambitious project I’ve had on the site. It’s definitely the one I feel least qualified to explain, which means I’m right in its target audience. Amino is an at home DNA hacking kit that allows anyone as young as 8 to grow their own cells and give them interesting properties, and has been described as a “bacterial Tomagachi” and “the easy-bake oven of bio-reactors” by the press.</summary>
 </entry>
