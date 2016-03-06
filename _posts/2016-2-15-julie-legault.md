@@ -16,6 +16,8 @@ The Amino team is almost complete hand assembling the kits promised to their [In
 
 *This interview has been edited for length and clarity*
 
+<a href="/images/posts/julie-legault/aminocherry2.jpg"><img src="/images/posts/julie-legault/aminocherry2.jpg"></a>
+
 #### You started this at MIT Media Lab and I'm curious how you got the idea to make this your project.
 
 Sure. Before joining the [Media Lab](https://www.media.mit.edu/), I was doing wearable technology. I studied gold smithing and I was interested and how we can use traditional making, and the traditional aesthetics of jewelry, to make wearable tech more appreciated and more desirable. [After I joined the lab] I kind of lost interest in wearable tech because I'd done quite a few projects and they'd been successful, at least in museums and stuff, at bringing the aesthetics and technology together.
