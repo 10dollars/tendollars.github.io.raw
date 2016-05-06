@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>I Had Ten Dollars / Aanand Prasad - Slit-Scanner</title>
+		<link href="/stylesheets/main.css" media="screen" rel="stylesheet" type="text/css">
+		<link rel="alternate" type="application/rss+xml" title="I Had Ten Dollars" href="http://ihadtendollars.com/rss.xml">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width;initial-scale=1">
+
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49962676-1', 'ihadtendollars.com');
+  ga('send', 'pageview');
+
+	</script>
+	</head>
+	<body>
+
+		<div id="wrapper">
+			<div id="stump">
+				<header>
+					<h1>I Had 10 Dollars</h1>
+					<p id="tagline">Because, why not?</p>
+				</header>
+
+				<nav id="main">
+					<ul>
+						<li><a href="/" title="The most recent interviews.">Home</a></li>
+						<li><a href="/interviews/" title="All the other interviews.">Interviews</a></li>
+						<li><a href="/about/" title="A little more info about the site.">About</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<div id="content">
+			<article class="interview">
+	
+	
+	<img src="/images/portraits/aanand.prasad.jpg" width="500" height="335" class="portrait" alt="Aanand Prasad - Slit-Scanner">
+
+<h2 class="person">Aanand Prasad - Slit-Scanner</h2>
+<p class="summary">A bot that morphs your gifs</p>
+<p class="date">Posted <time datetime="2016-05-05">05 May 2016.</time>
+
+<ul class="categories">
+<li><a href="/interviews/bots" title="View all the 'bots' interviews.">bots</a></li><li><a href="/interviews/gifs" title="View all the 'gifs' interviews.">gifs</a></li><li><a href="/interviews/twitter" title="View all the 'twitter' interviews.">twitter</a></li>
+</ul>
+
+
+	<div id="answers">
+	<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/zavtracast">@zavtracast</a> <a href="https://t.co/AVHwNVOnch">pic.twitter.com/AVHwNVOnch</a></p>&mdash; Slit-Scanner (@slitscanner) <a href="https://twitter.com/slitscanner/status/725034258495115264">April 26, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h4>Who are you and what do you do (for a living)?</h4>
+
+<p>I’m <a href="https://twitter.com/aanand">Aanand Prasad</a> and I make software for a living. I work at <a href="http://www.docker.com/">Docker</a>, on <a href="https://docs.docker.com/compose/">Compose</a>. Because it’s important for a growing boy to have a diversity of interests, I also make software in my free time.</p>
+
+<h4>What is Slit-Scanner?</h4>
+
+<p>It’s a <a href="https://twitter.com/slitscanner">Twitter bot</a> which applies a particular visual effect to any animated GIF you send to it. The effect is known variously as “slit-scan” and “rolling shutter” – essentially, you displace each row of a video progressively further forwards or backwards in time:</p>
+
+<p>Frame 1 becomes (row 1 from frame 1) + (row 2 from frame 2) + (row 3 from frame 3) + …
+Frame 2 becomes (row 1 from frame 2) + (row 2 from frame 3) + (row 3 from frame 4) + …
+…and so on.</p>
+
+<p>This leads to bizarre and quite varied effects, depending on the type of motion in the video. If people or things are moving left and right, they become transverse waves. If they’re moving up and down, they become rippling longitudinal waves, as if they’re underwater. If they’re rotating around a vertical axis, they become twisted, which is the weirdest effect of all.</p>
+
+<h4>Where did the idea come from?</h4>
+
+<p>I’d been fascinated by slit-scanning for ages, because I’m extremely cool. I think the earliest form I saw it in was the <a href="http://golembewski.awardspace.com/">Scanner Photography Project</a> (<a href="http://golembewski.awardspace.com/photographyGallery/vehicles/images/4.jpg">this image of a moving car is one of my favourite examples ever</a>). I’d long been a fan of the “<a href="https://www.youtube.com/watch?v=eTW0rNgMcKk">rolling</a> <a href="https://www.youtube.com/watch?v=LVwmtwZLG88">shutter</a> <a href="https://www.youtube.com/watch?v=y_tm6ECxPmc">propeller</a>” effect – the first time I saw one of those videos, it messed with my sense of reality in a way I’ve rarely felt. <a href="https://twitter.com/shashashasha">Sha Hwang</a> had already created a bookmarklet for <a href="http://shahwang.tumblr.com/post/40481891091/the-fight-scene-from-oldboy">slit-scanning videos in the browser</a> using the “static slit” effect to create a still image, and <a href="https://vimeo.com/7878518">this short film</a> introduced me to the idea of using the “moving slit” effect to create a moving image. Finally, I’d also <a href="https://www.instagram.com/p/mduZoDR1tY/">experimented</a> a little myself with a slit-scan iPhone app I found on the store.</p>
+
+<p>Anyhow, the idea came to me about half an hour after getting into bed one night, ensuring I’d be incapable of sleep until I’d at least knocked together a basic implementation of the effect.</p>
+
+<h4>How did you build it?</h4>
+
+<p>The same way I build all my bots: copy and paste a load of Python from my other bots into a giant hacky mess. I used thricedotted’s <a href="https://github.com/thricedotted/twitterbot">twitterbot</a> framework, ffmpeg for extracting frames from videos, Pillow for applying the actual effect and ImageMagick for re-assembling the GIF.</p>
+
+<p>I also used <a href="https://github.com/dthpham/butterflow">butterflow</a> for smoothing the video beforehand. Most GIFs have a very low temporal resolution (i.e. number of frames), and that results in big chunky rows rather than smooth ripples, so in the majority of cases I double the frame rate before processing it. This is extremely computationally intensive, and makes the bot very slow, but the quality is worth it.</p>
+
+<h4>What was the biggest challenge making it?</h4>
+
+<p>Keeping it running – smoothing the video needs a lot of memory and it’s running on a pretty small VM, resulting in crashes, prolonged downtime and repeated replies. It’s all part of the bot’s “quirky charm”, much like my own.</p>
+
+<h4>What was the “easiest” part?</h4>
+
+<p>Implementing the actual slit-scanning – it worked almost the first time I ran it, and I was back in bed in no time.</p>
+
+<h4>What was the most surprising thing you learned?</h4>
+
+<p>The sheer variety of ways that slit-scanning can make a moving image weird was a big surprise. I was prepared for some cool rotational GIFs and a few interesting wobbles, but it’s come out with so much more. For example, because the time displacement wraps around, the output is always a looping gif, even if the input isn’t. Slow movement becomes <a href="https://twitter.com/slitscanner/status/723460616116154368">gentle ripples</a>; slow zooms <a href="https://twitter.com/slitscanner/status/724394120140173312">become</a> <a href="https://twitter.com/slitscanner/status/724908713102958592">optical</a> <a href="https://twitter.com/slitscanner/status/723575690273153024">illusions</a>.</p>
+
+<p>I also love that, with zero knowledge of what’s in the picture, a ridiculously simple 2D transformation can warp 3D objects in a way that feels very convincing, preserving shading and reflections across a virtual surface. Rotational GIFs demonstrate that very well, as do the propeller videos I mentioned before.</p>
+
+<h4>You’ve made a number of bots now, and I was wondering what do you look for in a bot idea/project?</h4>
+
+<p>Firstly, I’ve never had an attention span (I don’t even know what that is), so every creative project is a race against time: I need to be able to implement it before I get bored. I have a sad graveyard of projects that took just a bit too long and got abandoned.</p>
+
+<p>Bot people, at least the ones I associate with, have strong feelings about bot ethics and etiquette. I’ve thrown away a lot of ideas because they’d be potentially rude/invasive, or because there was a high danger that they’d inadvertently generate upsetting content. It is absolutely the responsibility of the creator to guard against this: our software is infused with our cultural norms, and if you care about changing those for the better, you have to care about your software too.</p>
+
+<p>It’s hard to know ahead of time what will take off and what won’t, but that’s definitely a factor too. I really can’t be bothered making something if I think only three people are ever going to look at it. (It feels good to admit this.)</p>
+
+<p>Finally, a project is especially exciting if I think I might learn something along the way. The ideal difficulty level is “just outside my comfort zone”.</p>
+
+<h4>Do you have a favorite slit-scan?</h4>
+
+<p><a href="https://twitter.com/slitscanner/status/722768869979484160">Princess Leia turning her head</a>, the image I used for the bot’s avatar. As well as being hypnotically weird and hilarious, I’ve found it to be the best demonstration of what the bot does – people immediately get that time is delayed between the top and bottom of the image.</p>
+
+<h4>What are some of your favorite bots from other people?</h4>
+
+<p>Goodness. I’ll strive to highlight lesser-known works where I can. I’m going to leave out a lot – sorry, everyone.</p>
+
+<p><a href="https://twitter.com/v21">George Buckenham</a>’s <a href="https://twitter.com/manygradients/status/727456443776024576">manygradients</a>, <a href="https://twitter.com/ckolderup">Casey Kolderup</a>’s <a href="https://twitter.com/wowwwrude">wow rude</a>, <a href="https://twitter.com/inky">Inky</a>’s <a href="botechre">botechre</a>, <a href="http://twitter.com/thricedotted">Thrice</a>’s <a href="https://twitter.com/nice_tips_bot/status/576330525016743936">nice tips bot</a>, <a href="https://twitter.com/tinysubversions">Darius</a>’ <a href="https://twitter.com/neweraesthetics/status/671673654917361664">Brand New Aesthetics</a>, <a href="https://twitter.com/katierosepipkin">Katie Rose Pipkin</a>’s <a href="https://twitter.com/mothgenerator/status/622723717865451520">moth generator</a>, <a href="https://twitter.com/DavidLublin">David Lublin</a>’s <a href="https://twitter.com/TVCommentBot/status/696193576921866245/photo/1">TV Comment Bot</a>, <a href="https://twitter.com/aparrish">Allison Parrish</a>’s <a href="https://twitter.com/deepquestionbot/status/577764567343837184">Deep Question Bot</a>, <a href="https://twitter.com/NoraReed">Nora Reed</a>’s <a href="https://twitter.com/hydratebot">hydratebot</a>.</p>
+
+<p>Finally, I want to do a special shout out to <a href="https://twitter.com/GameNames">GameNames</a>. Very few other people seem to care about it, but I find it debilitatingly hilarious, and have wanted for a long time to make a game based on one of its tweets.</p>
+
+<p>[You can read my interviews with <a href="http://ihadtendollars.com/interviews/casey-kolderup.html">Casey Kolderup</a>, <a href="http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html">Katie Rose Pipkin</a>, and <a href="http://ihadtendollars.com/interviews/thricedotted">thricedotted</a> too :)]</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/shashashasha">@shashashasha</a> <a href="https://t.co/69TvF2KNi5">pic.twitter.com/69TvF2KNi5</a></p>&mdash; Slit-Scanner (@slitscanner) <a href="https://twitter.com/slitscanner/status/725442822493601795">April 27, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+	</div>
+  
+</article>
+
+			</div>
+
+		<footer>
+  <p>This is a site maintained by <a href="http://twitter.com/spladow">Thomas Dunlap</a>, although the guests do most of the hard work. Find fun stuff. Build fun stuff. Link me to fun stuff.</p>
+</footer>
+
+		</div>
+	</body>
+</html>

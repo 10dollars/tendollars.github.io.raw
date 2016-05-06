@@ -3,9 +3,88 @@
 <generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 <link href="http://ihadtendollars.com/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://ihadtendollars.com/" rel="alternate" type="text/html" />
-<updated>2016-03-08T08:52:14-08:00</updated>
+<updated>2016-05-06T00:40:03-07:00</updated>
 <id>http://ihadtendollars.com/</id>
 <title>I Had Ten Dollars</title>
+<entry>
+<title>Aanand Prasad - Slit-Scanner</title>
+<link href="http://ihadtendollars.com/interviews/aanand-prasad.html" rel="alternate" type="text/html" title="Aanand Prasad - Slit-Scanner" />
+<published>2016-05-05T00:00:00-07:00</published>
+<updated>2016-05-05T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/aanand-prasad</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/aanand-prasad.html">&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;und&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/zavtracast&quot;&gt;@zavtracast&lt;/a&gt; &lt;a href=&quot;https://t.co/AVHwNVOnch&quot;&gt;pic.twitter.com/AVHwNVOnch&lt;/a&gt;&lt;/p&gt;&amp;mdash; Slit-Scanner (@slitscanner) &lt;a href=&quot;https://twitter.com/slitscanner/status/725034258495115264&quot;&gt;April 26, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h4&gt;Who are you and what do you do (for a living)?&lt;/h4&gt;
+
+&lt;p&gt;I’m &lt;a href=&quot;https://twitter.com/aanand&quot;&gt;Aanand Prasad&lt;/a&gt; and I make software for a living. I work at &lt;a href=&quot;http://www.docker.com/&quot;&gt;Docker&lt;/a&gt;, on &lt;a href=&quot;https://docs.docker.com/compose/&quot;&gt;Compose&lt;/a&gt;. Because it’s important for a growing boy to have a diversity of interests, I also make software in my free time.&lt;/p&gt;
+
+&lt;h4&gt;What is Slit-Scanner?&lt;/h4&gt;
+
+&lt;p&gt;It’s a &lt;a href=&quot;https://twitter.com/slitscanner&quot;&gt;Twitter bot&lt;/a&gt; which applies a particular visual effect to any animated GIF you send to it. The effect is known variously as “slit-scan” and “rolling shutter” – essentially, you displace each row of a video progressively further forwards or backwards in time:&lt;/p&gt;
+
+&lt;p&gt;Frame 1 becomes (row 1 from frame 1) + (row 2 from frame 2) + (row 3 from frame 3) + …
+Frame 2 becomes (row 1 from frame 2) + (row 2 from frame 3) + (row 3 from frame 4) + …
+…and so on.&lt;/p&gt;
+
+&lt;p&gt;This leads to bizarre and quite varied effects, depending on the type of motion in the video. If people or things are moving left and right, they become transverse waves. If they’re moving up and down, they become rippling longitudinal waves, as if they’re underwater. If they’re rotating around a vertical axis, they become twisted, which is the weirdest effect of all.&lt;/p&gt;
+
+&lt;h4&gt;Where did the idea come from?&lt;/h4&gt;
+
+&lt;p&gt;I’d been fascinated by slit-scanning for ages, because I’m extremely cool. I think the earliest form I saw it in was the &lt;a href=&quot;http://golembewski.awardspace.com/&quot;&gt;Scanner Photography Project&lt;/a&gt; (&lt;a href=&quot;http://golembewski.awardspace.com/photographyGallery/vehicles/images/4.jpg&quot;&gt;this image of a moving car is one of my favourite examples ever&lt;/a&gt;). I’d long been a fan of the “&lt;a href=&quot;https://www.youtube.com/watch?v=eTW0rNgMcKk&quot;&gt;rolling&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=LVwmtwZLG88&quot;&gt;shutter&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=y_tm6ECxPmc&quot;&gt;propeller&lt;/a&gt;” effect – the first time I saw one of those videos, it messed with my sense of reality in a way I’ve rarely felt. &lt;a href=&quot;https://twitter.com/shashashasha&quot;&gt;Sha Hwang&lt;/a&gt; had already created a bookmarklet for &lt;a href=&quot;http://shahwang.tumblr.com/post/40481891091/the-fight-scene-from-oldboy&quot;&gt;slit-scanning videos in the browser&lt;/a&gt; using the “static slit” effect to create a still image, and &lt;a href=&quot;https://vimeo.com/7878518&quot;&gt;this short film&lt;/a&gt; introduced me to the idea of using the “moving slit” effect to create a moving image. Finally, I’d also &lt;a href=&quot;https://www.instagram.com/p/mduZoDR1tY/&quot;&gt;experimented&lt;/a&gt; a little myself with a slit-scan iPhone app I found on the store.&lt;/p&gt;
+
+&lt;p&gt;Anyhow, the idea came to me about half an hour after getting into bed one night, ensuring I’d be incapable of sleep until I’d at least knocked together a basic implementation of the effect.&lt;/p&gt;
+
+&lt;h4&gt;How did you build it?&lt;/h4&gt;
+
+&lt;p&gt;The same way I build all my bots: copy and paste a load of Python from my other bots into a giant hacky mess. I used thricedotted’s &lt;a href=&quot;https://github.com/thricedotted/twitterbot&quot;&gt;twitterbot&lt;/a&gt; framework, ffmpeg for extracting frames from videos, Pillow for applying the actual effect and ImageMagick for re-assembling the GIF.&lt;/p&gt;
+
+&lt;p&gt;I also used &lt;a href=&quot;https://github.com/dthpham/butterflow&quot;&gt;butterflow&lt;/a&gt; for smoothing the video beforehand. Most GIFs have a very low temporal resolution (i.e. number of frames), and that results in big chunky rows rather than smooth ripples, so in the majority of cases I double the frame rate before processing it. This is extremely computationally intensive, and makes the bot very slow, but the quality is worth it.&lt;/p&gt;
+
+&lt;h4&gt;What was the biggest challenge making it?&lt;/h4&gt;
+
+&lt;p&gt;Keeping it running – smoothing the video needs a lot of memory and it’s running on a pretty small VM, resulting in crashes, prolonged downtime and repeated replies. It’s all part of the bot’s “quirky charm”, much like my own.&lt;/p&gt;
+
+&lt;h4&gt;What was the “easiest” part?&lt;/h4&gt;
+
+&lt;p&gt;Implementing the actual slit-scanning – it worked almost the first time I ran it, and I was back in bed in no time.&lt;/p&gt;
+
+&lt;h4&gt;What was the most surprising thing you learned?&lt;/h4&gt;
+
+&lt;p&gt;The sheer variety of ways that slit-scanning can make a moving image weird was a big surprise. I was prepared for some cool rotational GIFs and a few interesting wobbles, but it’s come out with so much more. For example, because the time displacement wraps around, the output is always a looping gif, even if the input isn’t. Slow movement becomes &lt;a href=&quot;https://twitter.com/slitscanner/status/723460616116154368&quot;&gt;gentle ripples&lt;/a&gt;; slow zooms &lt;a href=&quot;https://twitter.com/slitscanner/status/724394120140173312&quot;&gt;become&lt;/a&gt; &lt;a href=&quot;https://twitter.com/slitscanner/status/724908713102958592&quot;&gt;optical&lt;/a&gt; &lt;a href=&quot;https://twitter.com/slitscanner/status/723575690273153024&quot;&gt;illusions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also love that, with zero knowledge of what’s in the picture, a ridiculously simple 2D transformation can warp 3D objects in a way that feels very convincing, preserving shading and reflections across a virtual surface. Rotational GIFs demonstrate that very well, as do the propeller videos I mentioned before.&lt;/p&gt;
+
+&lt;h4&gt;You’ve made a number of bots now, and I was wondering what do you look for in a bot idea/project?&lt;/h4&gt;
+
+&lt;p&gt;Firstly, I’ve never had an attention span (I don’t even know what that is), so every creative project is a race against time: I need to be able to implement it before I get bored. I have a sad graveyard of projects that took just a bit too long and got abandoned.&lt;/p&gt;
+
+&lt;p&gt;Bot people, at least the ones I associate with, have strong feelings about bot ethics and etiquette. I’ve thrown away a lot of ideas because they’d be potentially rude/invasive, or because there was a high danger that they’d inadvertently generate upsetting content. It is absolutely the responsibility of the creator to guard against this: our software is infused with our cultural norms, and if you care about changing those for the better, you have to care about your software too.&lt;/p&gt;
+
+&lt;p&gt;It’s hard to know ahead of time what will take off and what won’t, but that’s definitely a factor too. I really can’t be bothered making something if I think only three people are ever going to look at it. (It feels good to admit this.)&lt;/p&gt;
+
+&lt;p&gt;Finally, a project is especially exciting if I think I might learn something along the way. The ideal difficulty level is “just outside my comfort zone”.&lt;/p&gt;
+
+&lt;h4&gt;Do you have a favorite slit-scan?&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/slitscanner/status/722768869979484160&quot;&gt;Princess Leia turning her head&lt;/a&gt;, the image I used for the bot’s avatar. As well as being hypnotically weird and hilarious, I’ve found it to be the best demonstration of what the bot does – people immediately get that time is delayed between the top and bottom of the image.&lt;/p&gt;
+
+&lt;h4&gt;What are some of your favorite bots from other people?&lt;/h4&gt;
+
+&lt;p&gt;Goodness. I’ll strive to highlight lesser-known works where I can. I’m going to leave out a lot – sorry, everyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/v21&quot;&gt;George Buckenham&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/manygradients/status/727456443776024576&quot;&gt;manygradients&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ckolderup&quot;&gt;Casey Kolderup&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/wowwwrude&quot;&gt;wow rude&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/inky&quot;&gt;Inky&lt;/a&gt;’s &lt;a href=&quot;botechre&quot;&gt;botechre&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/thricedotted&quot;&gt;Thrice&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/nice_tips_bot/status/576330525016743936&quot;&gt;nice tips bot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/tinysubversions&quot;&gt;Darius&lt;/a&gt;’ &lt;a href=&quot;https://twitter.com/neweraesthetics/status/671673654917361664&quot;&gt;Brand New Aesthetics&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/katierosepipkin&quot;&gt;Katie Rose Pipkin&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/mothgenerator/status/622723717865451520&quot;&gt;moth generator&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/DavidLublin&quot;&gt;David Lublin&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/TVCommentBot/status/696193576921866245/photo/1&quot;&gt;TV Comment Bot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/aparrish&quot;&gt;Allison Parrish&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/deepquestionbot/status/577764567343837184&quot;&gt;Deep Question Bot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/NoraReed&quot;&gt;Nora Reed&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/hydratebot&quot;&gt;hydratebot&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, I want to do a special shout out to &lt;a href=&quot;https://twitter.com/GameNames&quot;&gt;GameNames&lt;/a&gt;. Very few other people seem to care about it, but I find it debilitatingly hilarious, and have wanted for a long time to make a game based on one of its tweets.&lt;/p&gt;
+
+&lt;p&gt;[You can read my interviews with &lt;a href=&quot;http://ihadtendollars.com/interviews/casey-kolderup.html&quot;&gt;Casey Kolderup&lt;/a&gt;, &lt;a href=&quot;http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html&quot;&gt;Katie Rose Pipkin&lt;/a&gt;, and &lt;a href=&quot;http://ihadtendollars.com/interviews/thricedotted&quot;&gt;thricedotted&lt;/a&gt; too :)]&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;und&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/shashashasha&quot;&gt;@shashashasha&lt;/a&gt; &lt;a href=&quot;https://t.co/69TvF2KNi5&quot;&gt;pic.twitter.com/69TvF2KNi5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Slit-Scanner (@slitscanner) &lt;a href=&quot;https://twitter.com/slitscanner/status/725442822493601795&quot;&gt;April 27, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</content>
+<summary>@zavtracast pic.twitter.com/AVHwNVOnch&amp;mdash; Slit-Scanner (@slitscanner) April 26, 2016</summary>
+</entry>
 <entry>
 <title>Julie Legault - Amino</title>
 <link href="http://ihadtendollars.com/interviews/julie-legault.html" rel="alternate" type="text/html" title="Julie Legault - Amino" />
@@ -677,65 +756,5 @@ note: since i wrote this, i published that chrome extension; &lt;a href=&quot;ht
 &lt;/ul&gt;
 </content>
 <summary>Who are you and what do you do for a living?</summary>
-</entry>
-<entry>
-<title>Jennifer Dewalt - 180 Websites in 180 Days</title>
-<link href="http://ihadtendollars.com/interviews/jennifer-dewalt.html" rel="alternate" type="text/html" title="Jennifer Dewalt - 180 Websites in 180 Days" />
-<published>2014-10-16T00:00:00-07:00</published>
-<updated>2014-10-16T00:00:00-07:00</updated>
-<id>http://ihadtendollars.com/interviews/jennifer-dewalt</id>
-<content type="html" xml:base="http://ihadtendollars.com/interviews/jennifer-dewalt.html">&lt;h4&gt;Who are you, and what do you do for a living?&lt;/h4&gt;
-
-&lt;p&gt;I am an artist turned software developer. I taught myself to code by making &lt;a href=&quot;http://jenniferdewalt.com/&quot;&gt;180 websites in 180 days&lt;/a&gt;. I’m currently Hacker in Residence at &lt;a href=&quot;http://wit.ai&quot;&gt;Wit.ai&lt;/a&gt; where I do a lot of different things including hacking on special projects using our voice interface API.&lt;/p&gt;
-
-&lt;h4&gt;How did you decide you were going to make 180 sites in 180 days? How much experience coding did you have before the beginning?&lt;/h4&gt;
-
-&lt;p&gt;When I decided I wanted to learn to code, I hadn’t done any real programming before. I looked around at all of this amazing technology that’s growing around us and realized that I wasn’t satisfied with just consuming those products, I wanted to be able to build them too.&lt;/p&gt;
-
-&lt;p&gt;I knew I wanted to do a self directed project and I started thinking about what a successful, self directed project would look like for a beginner coder. I decided I should start with small projects and build up my skill set piece by piece. I also knew I wanted to work on things that were tangible so I could track my progress and stay motivated. The 180 ideas started out a joke with a friend when I told him I was going to work on a few small websites before I tackled a full stack project. He asked how many small projects I thought I could do. We went back and forth for a bit and suddenly it sounded like a good idea.&lt;/p&gt;
-
-&lt;h4&gt;It seems like one of the biggest barriers for a project like this is generating enough ideas. How did you decide what you were going to build on any given day?&lt;/h4&gt;
-
-&lt;p&gt;Before I started, I made a big list of every good, bad, crazy, half realized idea for a website I could think of. I ended up with about 70 ideas and it definitely helped frame what my definition of a website was. I started with the list but pretty quickly the project started almost driving itself. I was often inspired by the work I had done the day before. I’d come across a concept or code snippet that I hadn’t learned about yet and I’d think “That’s cool! What kind of app would use something like that?”&lt;/p&gt;
-
-&lt;h4&gt;For projects like these I always wonder whether it’s a strict one a day process. Did you ever work in easier projects to give you time to do multi-day big things? Did you ever have to switch projects because you wouldn’t meet your deadline?&lt;/h4&gt;
-
-&lt;p&gt;I set a strict rule of one website per day, everyday. I was averaging about 10 hours a day on the project so if I needed to find some extra time for other things (like flying to the east coast for my sister’s wedding) I had to get creative. I’d usually try to work in some easier websites or do some research the day before if I knew I was going to be short on time. I got really good at knowing how long a project would probably take and working in uncomfortable environments.&lt;/p&gt;
-
-&lt;p&gt;Despite getting good and judging how long an idea would take to execute, there were definitely a number of days where things didn’t go as planned. There were a few days where I worked until 8 or 9 pm and suddenly realized I’d have to scrap what I was doing and start all over. Those days were pretty scary. Usually if I found myself in trouble it was more a matter of switching gears and reimagining what my goal for the day was. &lt;a href=&quot;http://jenniferdewalt.com/swivel/game&quot;&gt;Swivel&lt;/a&gt; is a good example of that. I had this bananas idea for a really complicated chain reaction game that turns out was really tough to code. I had to rewrite the chain reaction logic 3 or 4 times before I got it all worked out. By the time I got it working it was too late to add in the game mechanics. In a sense it’s a fail because I didn’t finish what I originally set out to do, but I’m still really proud of Swivel and I think it’s a neat website.&lt;/p&gt;
-
-&lt;h4&gt;What do you think makes the one-a-day method so compelling, as opposed to say five a week?&lt;/h4&gt;
-
-&lt;p&gt;Working on a learning project every single day means there is not a lot knowledge leakage. You’re constantly present with what you’re working on and it is always on your mind. The structure also makes it easier to stay motivated, I think. There’s no room to question whether you’re going to work on your project today. Whether you’re tired, confused, frustrated, sick, hungover or whatever there are no excuses. It’s kind of freeing in a weird, masochistic sense.&lt;/p&gt;
-
-&lt;h4&gt;What was the most popular site you built?&lt;/h4&gt;
-
-&lt;p&gt;It’s hard to say actually! A handful of sites like the &lt;a href=&quot;http://jenniferdewalt.com/hipster_quiz.html&quot;&gt;Hipster Quiz&lt;/a&gt; and &lt;a href=&quot;http://jenniferdewalt.com/etch_a_sketch.html&quot;&gt;Etch-a-Sketch&lt;/a&gt; have ended up in various subreddits which I think is pretty cool and very flattering. Different people gravitate toward different sites. My data nerd friends love &lt;a href=&quot;http://jenniferdewalt.com/elevation/page&quot;&gt;Elevations&lt;/a&gt;. &lt;a href=&quot;http://jenniferdewalt.com/node/how_were_feeling&quot;&gt;How We’re Feeling&lt;/a&gt; and &lt;a href=&quot;http://jenniferdewalt.com/splodin_bacon/page&quot;&gt;Splodin Bacon&lt;/a&gt; get the a lot of universal appreciation. And people have made over 16,000 Little Dudes using &lt;a href=&quot;http://jenniferdewalt.com/make_a_dude/dudes&quot;&gt;Make a Dude&lt;/a&gt; which I find mind blowingly awesome.&lt;/p&gt;
-
-&lt;h4&gt;What is your favorite, or the most meaningful one to you?&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jenniferdewalt.com/splodin_bacon/page&quot;&gt;Splodin Bacon&lt;/a&gt; holds a special place in my heart because it’s the website I made the day my project went viral and I was totally freaking out when I made it. I’m also really fond of &lt;a href=&quot;http://jenniferdewalt.com/electro_bounce/page&quot;&gt;Electro Bounce&lt;/a&gt; and &lt;a href=&quot;http://jenniferdewalt.com/audio_garden/gardens&quot;&gt;Audio Garden&lt;/a&gt;. I feel like I was really hitting my stride at that point, combining lots of different coding concepts with my art background. I also really love the data visualization apps like &lt;a href=&quot;http://jenniferdewalt.com/elevation/page&quot;&gt;Elevations&lt;/a&gt; and &lt;a href=&quot;http://jenniferdewalt.com/node/how_were_feeling&quot;&gt;How We’re Feeling&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;What were the biggest lessons you learned over the course of the project? Were there any major surprises?&lt;/h4&gt;
-
-&lt;p&gt;My biggest takeaway was letting go of my fear of making mistakes. Putting all of my work out in public was really scary at first. But as a coder you are constantly making mistakes. Your code is always broken until it’s not (and even then it’s usually still broken). Being ok with that is the only way not to be paralyzed by fear and keep making progress.&lt;/p&gt;
-
-&lt;p&gt;A big surprise for me was how much I love data! I’ve never been a math or statistics nerd and if you told me 3 years ago I was going to develop a passion for API’s I would have thought you were bonkers. I’ve always known that I’m fundamentally interested in the communication power of technology but I also find it totally fascinating take raw information and turn it into something digestible. In retrospect I guess it makes sense but I may never have discovered that had I not gone through the 180 Websites project.&lt;/p&gt;
-
-&lt;h4&gt;A lot of the sites seem to retain the last session. For example, &lt;a href=&quot;http://jenniferdewalt.com/node/talking_dude&quot;&gt;Talking Dude&lt;/a&gt; displays the text that was last put in by someone, and most of the drawing ones I saw have past doodles that can be wiped or built on top of. Is that a conscious decision on your part because you think that interaction is interesting, or was it the easiest way for you to build them?&lt;/h4&gt;
-
-&lt;p&gt;When I set out to do 180 Websites, my goal was to be able to make full scale, dynamic, interactive web apps. Early in the project I was only able to have a one way conversation. I could communicate a message to someone by creating a site that they could play with but they couldn’t say anything to me or anyone else. When I started working with Rails (day 69) I was finally able to let people communicate with each other through my sites. I immediately starting thinking about what kind of websites would let people leave a mark that others could find. That is what inspired sites like Make a Dude and Portrait.&lt;/p&gt;
-
-&lt;p&gt;As the project moved along I started thinking more about how people could use my websites to communicate with other people more directly. I ended up making several sites that let you create something and then either download the product to your computer or save it with a special URL that you can pass along to anyone. That is the idea behind sites like &lt;a href=&quot;http://jenniferdewalt.com/forest/page&quot;&gt;Trees for the Forest&lt;/a&gt; and &lt;a href=&quot;http://jenniferdewalt.com/audio_garden/gardens&quot;&gt;Audio Garden&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;By the end of the project I was really excited to try out some real time communication apps using Node.js. &lt;a href=&quot;http://jenniferdewalt.com/node/all_draw&quot;&gt;All Draw&lt;/a&gt; is a real time collaborative drawing app which I think embodies a lot of what I love about the internet. The web gives us the ability to creatively communicate with anyone around the world. That is pretty powerful stuff when you think about it.&lt;/p&gt;
-
-&lt;h4&gt;This project concluded over a year ago, how have things been going since then? Do you still quickly build sites for fun?&lt;/h4&gt;
-
-&lt;p&gt;Life’s been pretty awesome since I finished 180 Websites. After the project I decided to work on a full scale website called &lt;a href=&quot;http://yumhacker.com/&quot;&gt;YumHacker&lt;/a&gt; to get the real full stack engineering experience. I coded the whole thing myself and even went out and did some biz dev and SEO work on it to explore the full product development cycle. I learned a ton about both coding and how to grow a product.&lt;/p&gt;
-
-&lt;p&gt;In August I joined &lt;a href=&quot;http://wit.ai&quot;&gt;Wit.ai&lt;/a&gt; as Hacker in Residence. We have an API that makes it super easy for developers to add voice interfaces to their apps. It’s wicked cool stuff. A big part of my job is to make interesting hacks using our API to explore possible use cases for Wit and to help other developers integrate Wit into their projects. Between the making cool stuff part and our intense focus on UX and communication, it’s basically the perfect job for me.&lt;/p&gt;
-</content>
-<summary>Who are you, and what do you do for a living?</summary>
 </entry>
 </feed>
