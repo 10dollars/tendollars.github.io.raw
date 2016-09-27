@@ -6,8 +6,6 @@ summary: A bot that morphs your gifs
 categories: [bots, gifs, twitter]
 ---
 
-Making an edit for this slide. Wooh!!
-
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/zavtracast">@zavtracast</a> <a href="https://t.co/AVHwNVOnch">pic.twitter.com/AVHwNVOnch</a></p>&mdash; Slit-Scanner (@slitscanner) <a href="https://twitter.com/slitscanner/status/725034258495115264">April 26, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
