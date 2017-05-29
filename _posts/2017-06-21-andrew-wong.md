@@ -2,7 +2,7 @@
 layout: interview
 slug: andrew.wong
 title: Andrew Wong - Astronaut.io
-summary:
+summary: find new videos
 categories: [youtube, video, undiscovered gems]
 ---
 
@@ -98,7 +98,7 @@ We were able to play off each other's ideas.
 
 He's he's very strong on the on the product design side of things. And I think, that first version, he designed the way the system would look. I think I remember I was very obsessed, for the first version, to make the videos completely seamless so that you never see a spinner.
 
-That's actually the bulk of the engineering, and it's probably not noticeable to most people, but I think the reason why it just feels like you're watching a continuous stream is because you actually are. When the videos switch, it's not loading another video; the other video is already there. So what's happening is there's actually three players on the screen. 
+That's actually the bulk of the engineering, and it's probably not noticeable to most people, but I think the reason why it just feels like you're watching a continuous stream is because you actually are. When the videos switch, it's not loading another video; the other video is already there. So what's happening is there's actually three players on the screen.
 
 #### Do you have a favorite video that sticks out something that you discovered watching that you really liked?
 
