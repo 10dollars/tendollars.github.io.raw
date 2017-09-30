@@ -3,9 +3,129 @@
 <generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 <link href="http://ihadtendollars.com/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://ihadtendollars.com/" rel="alternate" type="text/html" />
-<updated>2016-12-04T23:09:40-08:00</updated>
+<updated>2017-09-30T10:30:57-07:00</updated>
 <id>http://ihadtendollars.com/</id>
 <title>I Had Ten Dollars</title>
+<entry>
+<title>Andrew Wong - Astronaut.io</title>
+<link href="http://ihadtendollars.com/interviews/andrew-wong.html" rel="alternate" type="text/html" title="Andrew Wong - Astronaut.io" />
+<published>2017-06-21T00:00:00-07:00</published>
+<updated>2017-06-21T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/andrew-wong</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/andrew-wong.html">&lt;p&gt;&lt;a href=&quot;http://astronaut.io/&quot;&gt;Astronaut.io&lt;/a&gt; was made by &lt;a href=&quot;http://twitter.com/wongavision&quot;&gt;Andrew Wong&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/astrojams1&quot;&gt;James Thompson&lt;/a&gt; in 2011. It crawls youtube for videos that have been uploaded in the last two weeks with generic filenames like dsc 001 and turns them into a feed of small intimate moments from around the world. Watching for just a couple of minutes, I saw multiple class presentations from around the world, an offroad expedition on ATVs, an oddly close up view of a goldfish, a volleyball game, a play, a few baby videos, someone documenting a car accident, video of foam boxes being broken down by a machine, and one guy filming his crotch in boxers.&lt;/p&gt;
+
+&lt;p&gt;It is mundane and amazing. The fact that the people who uploaded these files didn’t name them makes me think they probably wouldn’t expect anyone to see them, which does create a mild sense of voyeurism, but since the feed jumps around so quickly I don’t ever feel like i’m lingering and leering.&lt;/p&gt;
+
+&lt;p&gt;In some ways, I feel like it is a product of its time. I’m no internet scholar, but in 2011 I feel like we were still grappling with the idea of how things that felt semi-private because of the scope of the internet were actually public and could become &lt;em&gt;very&lt;/em&gt; public &lt;em&gt;very&lt;/em&gt; quickly as social media got bigger. For some reference, in 2011 &lt;a href=&quot;http://twitter.com/toomuchnick&quot;&gt;Nick Douglas&lt;/a&gt; was posting an &lt;a href=&quot;http://knowyourmeme.com/memes/scumbag-steve&quot;&gt;open letter&lt;/a&gt; from the guy in the Scumbag Steve photo to the girl in the Annoying Facebook Girl meme.&lt;/p&gt;
+
+&lt;p&gt;RIP Slacktory.&lt;/p&gt;
+
+&lt;p&gt;The project instantly reminded me of this old reddit thread about being able to &lt;a href=&quot;https://www.reddit.com/r/pics/comments/evkqo/sometimes_i_like_to_search_for_dsc00001jpg_in/&quot;&gt;search for the first image someone posted from their camera.&lt;/a&gt; from the same year.&lt;/p&gt;
+
+&lt;p&gt;The current version of astronaut.io feels like it is less about the fact that we can find these videos with low view counts, and more about creating a sense of what life is like around the world by focusing on the moments we aren’t trying to go &lt;a href=&quot;https://www.fastcompany.com/3056057/how-buzzfeeds-jonah-peretti-is-building-a-100-year-media-company&quot;&gt;mega-vi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;So, the first thing I always ask people is just, “Who are you, and what do you do for a living?”&lt;/h4&gt;
+
+&lt;p&gt;I’m Andrew Wong and I’m a data visualization engineer. I work freelance right now. Previously, for about four years, I was a logistics engineer at a startup called Postmates.&lt;/p&gt;
+
+&lt;p&gt;But I’ve done a mix of design and engineering for a while now.&lt;/p&gt;
+
+&lt;h4&gt;Where did the idea for astronaut.io come from?&lt;/h4&gt;
+
+&lt;p&gt;This is a joint project with me and my friend James.&lt;/p&gt;
+
+&lt;p&gt;It came out of a loose project prompt that we gave ourselves. We were always hacking on random ideas, and we started to think about, “what is television really about?” and how might we want to create a modern version of that.&lt;/p&gt;
+
+&lt;p&gt;We tried lots of different things to explore what that space would look like. Pretty quickly, I think, the idea of extracting content from a live stream became pretty interesting to us. We tried lots of different things. I think there was a version where we were just getting videos from Twitter as they were coming out. I tried one that would look at all of your email and actually extract all the video that was in there and generate a stream from that.&lt;/p&gt;
+
+&lt;p&gt;We also looked at what it should feel like when you’re watching it. One of the ideas was that it should be highly synchronous. Like, when people manipulated the channel, that everybody would see it. There were all these ideas floating around and we pared it down to the the current incarnation, which is to actually use file names that normally show up in memory cards.&lt;/p&gt;
+
+&lt;p&gt;That would actually extract videos that had a distinct flavor to them. Very un-edited. They tend to look like videos that weren’t really meant to be shared widely. Maybe they were just uploaded temporarily, or they’re meant to just be like for that person. And this is very much in contrast to the videos that we were seeing when we tried to do things like Twitter. When someone tweets something, they’re actively trying to get attention. Those videos tend to be more like music videos - a lot of commercial things.&lt;/p&gt;
+
+&lt;p&gt;This particular format of a search on YouTube, I think, yielded much more personal, more realistic content that we found very attractive.&lt;/p&gt;
+
+&lt;h4&gt;In the site’s description it mentions that the videos should have a low view count. Is there an actual limit? What’s the most view one of those videos could have and still who up?&lt;/h4&gt;
+
+&lt;p&gt;I don’t think I’m explicitly searching for low views. It just happens to be that way. It’s a function of both being recent, these are all videos that are uploaded in the last week, and also having a title that’s highly unsearchable. The site just crawls through many permutations of these numbers, like IMG 313. That’s like one search, and it will get all the videos it can for the week of that search term and then go to, like, 317. So, most of the videos are 0-3 views.&lt;/p&gt;
+
+&lt;p&gt;Occasionally you’ll see something with maybe 120 or something. But I think the videos predominately have 0 views.&lt;/p&gt;
+
+&lt;h4&gt;Why was it important that everything be that recent? What was attractive about that recency idea?&lt;/h4&gt;
+
+&lt;p&gt;Because it changes. James and I would get together on an annual basis when we were away from our jobs, like winter vacation or something like that, and we were like, “Oh, maybe we should revamp the site a little bit and make it look nicer.” We’d check it out and it’s all Christmas dinner videos all of a sudden. A few weeks later, it’s all fireworks for New Year’s. So it’s kind like a it’s a moving window through time.&lt;/p&gt;
+
+&lt;p&gt;I think if you opened up the search window a little larger you’d start to lose that aspect.&lt;/p&gt;
+
+&lt;h4&gt;You mentioned doing upkeep. When was the last time that you updated the site?&lt;/h4&gt;
+
+&lt;p&gt;I did the bulk of the update in November, I think. That was after a long time of not doing anything. I think it was actually even just busted for a while because the YouTube API had changed and so the player just broken for a while.&lt;/p&gt;
+
+&lt;p&gt;So, in that time I did a few things. I changed the whole UI of the page and made it the way it looks now. There’s a space video in the background.&lt;/p&gt;
+
+&lt;h4&gt;Yeah, I was going to say it doesn’t look like it was made in 2011.&lt;/h4&gt;
+
+&lt;p&gt;I think the way it looks now is much more approachable because you’re just in it. There’s not much to do. I think before it felt a little bit more cerebral. Like, you read this thing first and then we also had controls.&lt;/p&gt;
+
+&lt;h4&gt;It still starts with the the written lead in, right?&lt;/h4&gt;
+
+&lt;p&gt;Yeah, the written thing originally was like the entire screen. It was like three columns. It was pretty interesting stuff, but we pared it down quite a bit. And there’s some hidden features in there.&lt;/p&gt;
+
+&lt;p&gt;I didn’t really think anyone was looking at it. I kind of forgot about it. And then one day someone put it on Hacker News. I was in Taiwan at the time, and all of a sudden it just goes down. So I made some more changes after that to try to make it a little more legit. There’s a cool little feature if you press spacebar it goes into theater mode.&lt;/p&gt;
+
+&lt;p&gt;It’s not like it goes fullscreen or anything, what happens is it wipes out the the audio and then replaces it with a soundtrack. So it’s more like the whole thing is like one montage.&lt;/p&gt;
+
+&lt;p&gt;There’s absolutely no indication on the page that you can do that. Surprisingly, people actually do find it. When I looked at the analytics, I was like, “Oh people are figuring it out.”&lt;/p&gt;
+
+&lt;h4&gt;One of the other interesting things is that the default time is five seconds, but you can decide to stay on the video. How did you guys settle on that kind of interaction model of a little teaser and then the option to extend it?&lt;/h4&gt;
+
+&lt;p&gt;Yeah, I mean the origins of that was very much about how to sync up people. We had played around with the idea that it was it was like everybody was sharing one remote control. So, if you held it everybody was forced to linger. I think the idea is still kind of the same. You have a slight amount of control to linger or even go back.&lt;/p&gt;
+
+&lt;h4&gt;Oh, I didn’t see you can go back.&lt;/h4&gt;
+
+&lt;p&gt;There’s no indication that you can. The old version of the site actually has three buttons. There’s go back, hold, or resume. But it’s actually incredibly complicated to understand what that means in this context.&lt;/p&gt;
+
+&lt;h4&gt;It wasn’t obvious to me that it was like synchronized for everybody either.&lt;/h4&gt;
+
+&lt;p&gt;This one is not, actually. I was just explaining where it came from. It was originally an experiment to synchronize it. Now it’s just at the individual level. I just reduced it down to “hold” to keep it simple.&lt;/p&gt;
+
+&lt;p&gt;And the idea is that if you’re doing that, the stream is actually still going by.&lt;/p&gt;
+
+&lt;p&gt;So you’re actually missing videos. You can pull something and hold onto it, but then every five seconds another is still going by. So, when that video you’re holding finishes you’re thrown back into the stream. To whatever everybody else is seeing.&lt;/p&gt;
+
+&lt;p&gt;That underlying stream is actually shared by everybody. Everybody sees the same thing. But you can… I don’t know, it’s like a sushi boat or something. You can pull it and look at it more carefully, but the conveyor belt keeps going.&lt;/p&gt;
+
+&lt;h4&gt;That’s super cool. Is it possible to run out of content? Does that ever happen where you have to loop the feed or anything?&lt;/h4&gt;
+
+&lt;p&gt;I mean, we probably do run out at the five second level. Like if you don’t hold onto everything and you let everything play for five seconds you will loop, I think, if you watched all day.&lt;/p&gt;
+
+&lt;p&gt;But it’s not like it’s pure stream in the sense that a video will never show up again, especially because these are videos from last week so they’ll stay around for at least a week. But we try to make it so that it’s very unlikely that you’ll feel like you’re watching things again. I do some things like reshuffling the stream. I think the actual stream itself is rebuilt every day.&lt;/p&gt;
+
+&lt;h4&gt;It seemed like one of the things people respond to well is how global it is and how much you jump around.&lt;/h4&gt;
+
+&lt;h4&gt;I was wondering if you’d done anything to ensure that or if just like the sheer volume of content makes it so that that’s the case.&lt;/h4&gt;
+
+&lt;p&gt;I think it’s the unbiased-ness of the search term. Because the search term is essentially language free. A file format like MOV is universal. It’s not language specific, which I think is very useful in that sense.&lt;/p&gt;
+
+&lt;h4&gt;You mentioned working on that with your partner James. How do you guys divvy up the work or go about working on it together?&lt;/h4&gt;
+
+&lt;p&gt;You know, most of those early things… it’s just talking, I think. The original thing I remember was we had a pretty good chemistry and were able to work kind of off the technical side for a bit. Just, like, pure concept building. We were able to play off each other’s ideas.&lt;/p&gt;
+
+&lt;p&gt;He’s he’s very strong on the product design side of things. I think, that first version, he designed the way the system would look. I think I was obsessed, for the first version, with making the videos completely seamless so that you never see a spinner.&lt;/p&gt;
+
+&lt;p&gt;That’s actually the bulk of the engineering, and it’s probably not noticeable to most people, but I think the reason why it just feels like you’re watching a continuous stream is because you actually are. When the videos switch, it’s not loading another video; the other video is already there. What’s happening is there’s actually three players on the screen.&lt;/p&gt;
+
+&lt;h4&gt;Is there anything that you didn’t get to talk about that you want to add?&lt;/h4&gt;
+
+&lt;p&gt;I think the main thing is is just that it will keep changing.&lt;/p&gt;
+
+&lt;p&gt;Like, the internet moves really fast. I remember very clearly, the videos were really blurry in the beginning. I don’t think the high-res stuff was really that common yet. Now when we look at it it’s like, “Wow, all these videos look really sharp.”&lt;/p&gt;
+
+&lt;p&gt;I think that’s kind of been the really interesting thing. It serves as a great project for James and I to come back to. Basically, every time we come back it’s like, “Hey let’s just change it again.”&lt;/p&gt;
+
+&lt;p&gt;It gives us kind of an annual routine. Like an annual retreat. And at the same time, all the content has changed. It’s a really nice feeling.&lt;/p&gt;
+</content>
+<summary>Astronaut.io was made by Andrew Wong and James Thompson in 2011. It crawls youtube for videos that have been uploaded in the last two weeks with generic filenames like dsc 001 and turns them into a feed of small intimate moments from around the world. Watching for just a couple of minutes, I saw multiple class presentations from around the world, an offroad expedition on ATVs, an oddly close up view of a goldfish, a volleyball game, a play, a few baby videos, someone documenting a car accident, video of foam boxes being broken down by a machine, and one guy filming his crotch in boxers.</summary>
+</entry>
 <entry>
 <title>Aanand Prasad - Slit-Scanner</title>
 <link href="http://ihadtendollars.com/interviews/aanand-prasad.html" rel="alternate" type="text/html" title="Aanand Prasad - Slit-Scanner" />
@@ -699,62 +819,5 @@ note: since i wrote this, i published that chrome extension; &lt;a href=&quot;ht
 &lt;/ul&gt;
 </content>
 <summary>I dislike the term “internet savvy” because it doesn’t really tell me anything – There are just so many parts of the internet and so many types of behaviors that take place on it – but if there’s anyone it’s safe to say is internet savvy, I think it would probably be Amber.</summary>
-</entry>
-<entry>
-<title>David McCreath - It Might Get Personal</title>
-<link href="http://ihadtendollars.com/interviews/mccreath.html" rel="alternate" type="text/html" title="David McCreath - It Might Get Personal" />
-<published>2014-10-23T00:00:00-07:00</published>
-<updated>2014-10-23T00:00:00-07:00</updated>
-<id>http://ihadtendollars.com/interviews/mccreath</id>
-<content type="html" xml:base="http://ihadtendollars.com/interviews/mccreath.html">&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
-
-&lt;p&gt;I’m &lt;a href=&quot;http://twitter.com/mccreath&quot;&gt;David McCreath&lt;/a&gt; and I work on the Internet for a living. Currently that takes the shape of doing customer and technical support at &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, but I got my start as a designer, did middleware and backend for a while,  and most recently finished up eight years of doing front end development at &lt;a href=&quot;http://muledesign.com/&quot;&gt;Mule Design&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Did It Might Get Personal start as a result of Mule’s podcast network? Was it something you were working on beforehand?&lt;/h4&gt;
-
-&lt;p&gt;The idea for IMGP was bubbling around for close to a year before &lt;a href=&quot;http://www.muleradio.net/&quot;&gt;Mule Radio&lt;/a&gt; got going, but the network is definitely what gave me the nudge to actually start making episodes. When we decided to commit company time to the network, it was like a bunch of kids putting on a show. Everyone had an idea for a podcast, and basically anyone who had an idea could put it on the network.&lt;/p&gt;
-
-&lt;h4&gt;How long have you been playing music for others?&lt;/h4&gt;
-
-&lt;p&gt;The very first public singing that I did was in the kids’ choir at my family’s church. After that there were some violin recitals and high school choir stuff. But the first time I played guitar on stage was when I was 15, accompanying my high school show choir on a medley of Beach Boys songs (think Glee, but without the dancing). I’d been taking lessons for about six months and was still playing everything with your basic cowboy chords, but it was everything I’d hoped it would be.&lt;/p&gt;
-
-&lt;h4&gt;How do you think a song changes between when someone sings onstage versus to a single person, and where do you think performing for the podcast falls?&lt;/h4&gt;
-
-&lt;p&gt;Well, the biggest obvious difference is intimacy. There are musicians who can make a performance on stage feel very intimate, but my feeling is that the way they do that is by not singing to a giant room full of people, but to someone very specific. That may be an imagined person or it may be themselves. On the other hand, when one person is singing directly to or for one other person it is by definition intimate, just like talking. Singing tends to be a more emotional expression. Not saying that it always is, but even watching someone  sing a nursery rhyme, you can see them get happier.&lt;/p&gt;
-
-&lt;p&gt;So where does the podcast fall? I think it’s a little weird for some people, and intimate might not be the right word for it. There is an intimacy to it, but the guests don’t really sing to me. You can tell some of them are singing to someone. Sometimes I think it’s another version of themselves, like they’re both the audience and the singer.&lt;/p&gt;
-
-&lt;p&gt;I think recording in a studio might feel strange to people who’ve never been in one, and having all the microphones and lights and camera definitely makes it something other than singing in the shower or car. But the studio where we record right now is a small room, like the size of a living room maybe. Definitely not one of those giant cathedral looking studio rooms you see, and I think that helps some.&lt;/p&gt;
-
-&lt;h4&gt;Do you have a sense of how your guests have found the experience? Are there any themes in their reactions?&lt;/h4&gt;
-
-&lt;p&gt;The ones without any real singing experience have said almost universally that it was hard to get up the nerve, but they felt glad for having done it. The more experienced singers generally seem to have a good time. There have only been a couple of episodes where the guest and I agreed that we needed a do-over.&lt;/p&gt;
-
-&lt;h4&gt;How did you decide on the video podcast format? I don’t know a lot about the podcast scene, but it seems like video podcasts often get short shrift when it comes to podcasting apps on iOS. Some don’t support them at all. Did you worry about that when you were starting?&lt;/h4&gt;
-
-&lt;p&gt;Videos are definitely not the most common format. I think most people think of podcasts as something you turn on while you’re doing other stuff; not something to really sit with. But that’s the opposite of what I want IMGP to be. I want people to stop what they’re doing for 5 or 10 minutes and watch the podcast. So, no, I never worried about it. I think it’s absolutely the right format for this podcast. I don’t know how many people actually do stop and watch, but that’s the goal.&lt;/p&gt;
-
-&lt;p&gt;One of my biggest inspirations for this podcast was NPR’s &lt;a href=&quot;http://www.npr.org/series/tiny-desk-concerts/&quot;&gt;Tiny Desk Concerts&lt;/a&gt;. There were two things in particular that I thought work really well. First, it’s fun to watch people sing. Sure, if it’s your favorite band doing your favorite songs, just listening to a really exciting live recording can be really fun. But if it’s one song, and it’s someone who may be inexperienced, watching just makes it better. Second, they keep it short. 15–20 minutes (some run longer, but not that often.&lt;/p&gt;
-
-&lt;h4&gt;I don’t think I’ve ever covered how a project is supported financially on the site before. You don’t have company sponsors – you’ve chosen to use tugboat to get support from your community. What effect, if any, do you think that has on the show?&lt;/h4&gt;
-
-&lt;p&gt;I’ve gotten a bit here and there. When I very first started with &lt;a href=&quot;https://tugboatyards.com/page/imgp&quot;&gt;Tugboat&lt;/a&gt;, I made a concerted effort to push it and raise some money, and I got enough to buy a new camera. It was great. But fundraising is a crapload of work. You really have to stay on top of it all the time for it to pay off. I think if I couldn’t afford to make the show on my own, I’d be more inclined to keep at it. But I’m fortunate enough to be in a position of being able to foot the bill, so I get to do exactly what I want. Any guest I want, any song I want, any skill level I want. It’s pretty great.&lt;/p&gt;
-
-&lt;h4&gt;You were your own guest for the last episode, what was the experience of being on the other side of it like?&lt;/h4&gt;
-
-&lt;p&gt;Oh, I love doing my own episodes. I’ve done three of them: 10, 27, and 49. If I didn’t think people would get sick of me, I’d probably do one every session, which would make me the guest on every fourth episode or so. The main thing for me to remember is to actually think about what I’m going to say about the song before I sit down to talk. Otherwise I’ll just ramble and drift and get off topic and probably say something inappropriate.&lt;/p&gt;
-
-&lt;h4&gt;The last post was posted at the end of September, but recorded on August 15th, and you said you were going to be taking a break and figuring out how to try some new things. Have you been on break long enough to know what some of those new things are? Can you share some of the things you’re excited to try?&lt;/h4&gt;
-
-&lt;p&gt;The last episode was actually posted on August 15. [Editor’s note: oops] I had intended to be up and running again by now, but there’s been a lot of life happening, so it’s going to be at least another month or so before we get anything up. Here are some of the things we’ll be trying in the future:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Using multiple cameras&lt;/li&gt;
-  &lt;li&gt;Doing more out-of-studio recording (like Episodes 36 and 37, which I recorded at a conference in Chicago)&lt;/li&gt;
-  &lt;li&gt;Possibly recording some San Francisco’s street musicians&lt;/li&gt;
-  &lt;li&gt;Figuring out how to work with remote guests (I have a list of people from out of town who want to be on the show)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<summary>Who are you and what do you do for a living?</summary>
 </entry>
 </feed>
