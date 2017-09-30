@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
+<link href="http://ihadtendollars.com/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://ihadtendollars.com/" rel="alternate" type="text/html" />
+<updated>2017-09-30T13:03:04-07:00</updated>
+<id>http://ihadtendollars.com/</id>
+<title>I Had Ten Dollars</title>
+<entry>
+<title>Andrew Wong - Astronaut.io</title>
+<link href="http://ihadtendollars.com/interviews/andrew-wong.html" rel="alternate" type="text/html" title="Andrew Wong - Astronaut.io" />
+<published>2017-06-21T00:00:00-07:00</published>
+<updated>2017-06-21T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/andrew-wong</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/andrew-wong.html">&lt;p&gt;&lt;a href=&quot;http://astronaut.io/&quot;&gt;Astronaut.io&lt;/a&gt; was made by &lt;a href=&quot;http://twitter.com/wongavision&quot;&gt;Andrew Wong&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/astrojams1&quot;&gt;James Thompson&lt;/a&gt; in 2011. It crawls youtube for videos that have been uploaded in the last two weeks with generic filenames like dsc 001 and turns them into a feed of small intimate moments from around the world. Watching for just a couple of minutes, I saw multiple class presentations from around the world, an offroad expedition on ATVs, an oddly close up view of a goldfish, a volleyball game, a play, a few baby videos, someone documenting a car accident, video of foam boxes being broken down by a machine, and one guy filming his crotch in boxers.&lt;/p&gt;
+
+&lt;p&gt;It is mundane and amazing. The fact that the people who uploaded these files didn’t name them makes me think they probably wouldn’t expect anyone to see them, which does create a mild sense of voyeurism, but since the feed jumps around so quickly I don’t ever feel like i’m lingering and leering.&lt;/p&gt;
+
+&lt;p&gt;In some ways, I feel like it is a product of its time. I’m no internet scholar, but in 2011 I feel like we were still grappling with the idea of how things that felt semi-private because of the scope of the internet were actually public and could become &lt;em&gt;very&lt;/em&gt; public &lt;em&gt;very&lt;/em&gt; quickly as social media got bigger. For some reference, in 2011 &lt;a href=&quot;http://twitter.com/toomuchnick&quot;&gt;Nick Douglas&lt;/a&gt; was posting an &lt;a href=&quot;http://knowyourmeme.com/memes/scumbag-steve&quot;&gt;open letter&lt;/a&gt; from the guy in the Scumbag Steve photo to the girl in the Annoying Facebook Girl meme.&lt;/p&gt;
+
+&lt;p&gt;RIP Slacktory.&lt;/p&gt;
+
+&lt;p&gt;The project instantly reminded me of this old reddit thread about being able to &lt;a href=&quot;https://www.reddit.com/r/pics/comments/evkqo/sometimes_i_like_to_search_for_dsc00001jpg_in/&quot;&gt;search for the first image someone posted from their camera.&lt;/a&gt; from the same year.&lt;/p&gt;
+
+&lt;p&gt;The current version of astronaut.io feels like it is less about the fact that we can find these videos with low view counts, and more about creating a sense of what life is like around the world by focusing on the moments we aren’t trying to go &lt;a href=&quot;https://www.fastcompany.com/3056057/how-buzzfeeds-jonah-peretti-is-building-a-100-year-media-company&quot;&gt;mega-vi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;So, the first thing I always ask people is just, “Who are you, and what do you do for a living?”&lt;/h4&gt;
+
+&lt;p&gt;I’m Andrew Wong and I’m a data visualization engineer. I work freelance right now. Previously, for about four years, I was a logistics engineer at a startup called Postmates.&lt;/p&gt;
+
+&lt;p&gt;But I’ve done a mix of design and engineering for a while now.&lt;/p&gt;
+
+&lt;h4&gt;Where did the idea for astronaut.io come from?&lt;/h4&gt;
+
+&lt;p&gt;This is a joint project with me and my friend James.&lt;/p&gt;
+
+&lt;p&gt;It came out of a loose project prompt that we gave ourselves. We were always hacking on random ideas, and we started to think about, “what is television really about?” and how might we want to create a modern version of that.&lt;/p&gt;
+
+&lt;p&gt;We tried lots of different things to explore what that space would look like. Pretty quickly, I think, the idea of extracting content from a live stream became pretty interesting to us. We tried lots of different things. I think there was a version where we were just getting videos from Twitter as they were coming out. I tried one that would look at all of your email and actually extract all the video that was in there and generate a stream from that.&lt;/p&gt;
+
+&lt;p&gt;We also looked at what it should feel like when you’re watching it. One of the ideas was that it should be highly synchronous. Like, when people manipulated the channel, that everybody would see it. There were all these ideas floating around and we pared it down to the the current incarnation, which is to actually use file names that normally show up in memory cards.&lt;/p&gt;
+
+&lt;p&gt;That would actually extract videos that had a distinct flavor to them. Very un-edited. They tend to look like videos that weren’t really meant to be shared widely. Maybe they were just uploaded temporarily, or they’re meant to just be like for that person. And this is very much in contrast to the videos that we were seeing when we tried to do things like Twitter. When someone tweets something, they’re actively trying to get attention. Those videos tend to be more like music videos - a lot of commercial things.&lt;/p&gt;
+
+&lt;p&gt;This particular format of a search on YouTube, I think, yielded much more personal, more realistic content that we found very attractive.&lt;/p&gt;
+
+&lt;h4&gt;In the site’s description it mentions that the videos should have a low view count. Is there an actual limit? What’s the most view one of those videos could have and still who up?&lt;/h4&gt;
+
+&lt;p&gt;I don’t think I’m explicitly searching for low views. It just happens to be that way. It’s a function of both being recent, these are all videos that are uploaded in the last week, and also having a title that’s highly unsearchable. The site just crawls through many permutations of these numbers, like IMG 313. That’s like one search, and it will get all the videos it can for the week of that search term and then go to, like, 317. So, most of the videos are 0-3 views.&lt;/p&gt;
+
+&lt;p&gt;Occasionally you’ll see something with maybe 120 or something. But I think the videos predominately have 0 views.&lt;/p&gt;
+
+&lt;h4&gt;Why was it important that everything be that recent? What was attractive about that recency idea?&lt;/h4&gt;
+
+&lt;p&gt;Because it changes. James and I would get together on an annual basis when we were away from our jobs, like winter vacation or something like that, and we were like, “Oh, maybe we should revamp the site a little bit and make it look nicer.” We’d check it out and it’s all Christmas dinner videos all of a sudden. A few weeks later, it’s all fireworks for New Year’s. So it’s kind like a it’s a moving window through time.&lt;/p&gt;
+
+&lt;p&gt;I think if you opened up the search window a little larger you’d start to lose that aspect.&lt;/p&gt;
+
+&lt;h4&gt;You mentioned doing upkeep. When was the last time that you updated the site?&lt;/h4&gt;
+
+&lt;p&gt;I did the bulk of the update in November, I think. That was after a long time of not doing anything. I think it was actually even just busted for a while because the YouTube API had changed and so the player just broken for a while.&lt;/p&gt;
+
+&lt;p&gt;So, in that time I did a few things. I changed the whole UI of the page and made it the way it looks now. There’s a space video in the background.&lt;/p&gt;
+
+&lt;h4&gt;Yeah, I was going to say it doesn’t look like it was made in 2011.&lt;/h4&gt;
+
+&lt;p&gt;I think the way it looks now is much more approachable because you’re just in it. There’s not much to do. I think before it felt a little bit more cerebral. Like, you read this thing first and then we also had controls.&lt;/p&gt;
+
+&lt;h4&gt;It still starts with the the written lead in, right?&lt;/h4&gt;
+
+&lt;p&gt;Yeah, the written thing originally was like the entire screen. It was like three columns. It was pretty interesting stuff, but we pared it down quite a bit. And there’s some hidden features in there.&lt;/p&gt;
+
+&lt;p&gt;I didn’t really think anyone was looking at it. I kind of forgot about it. And then one day someone put it on Hacker News. I was in Taiwan at the time, and all of a sudden it just goes down. So I made some more changes after that to try to make it a little more legit. There’s a cool little feature if you press spacebar it goes into theater mode.&lt;/p&gt;
+
+&lt;p&gt;It’s not like it goes fullscreen or anything, what happens is it wipes out the the audio and then replaces it with a soundtrack. So it’s more like the whole thing is like one montage.&lt;/p&gt;
+
+&lt;p&gt;There’s absolutely no indication on the page that you can do that. Surprisingly, people actually do find it. When I looked at the analytics, I was like, “Oh people are figuring it out.”&lt;/p&gt;
+
+&lt;h4&gt;One of the other interesting things is that the default time is five seconds, but you can decide to stay on the video. How did you guys settle on that kind of interaction model of a little teaser and then the option to extend it?&lt;/h4&gt;
+
+&lt;p&gt;Yeah, I mean the origins of that was very much about how to sync up people. We had played around with the idea that it was it was like everybody was sharing one remote control. So, if you held it everybody was forced to linger. I think the idea is still kind of the same. You have a slight amount of control to linger or even go back.&lt;/p&gt;
+
+&lt;h4&gt;Oh, I didn’t see you can go back.&lt;/h4&gt;
+
+&lt;p&gt;There’s no indication that you can. The old version of the site actually has three buttons. There’s go back, hold, or resume. But it’s actually incredibly complicated to understand what that means in this context.&lt;/p&gt;
+
+&lt;h4&gt;It wasn’t obvious to me that it was like synchronized for everybody either.&lt;/h4&gt;
+
+&lt;p&gt;This one is not, actually. I was just explaining where it came from. It was originally an experiment to synchronize it. Now it’s just at the individual level. I just reduced it down to “hold” to keep it simple.&lt;/p&gt;
+
+&lt;p&gt;And the idea is that if you’re doing that, the stream is actually still going by.&lt;/p&gt;
+
+&lt;p&gt;So you’re actually missing videos. You can pull something and hold onto it, but then every five seconds another is still going by. So, when that video you’re holding finishes you’re thrown back into the stream. To whatever everybody else is seeing.&lt;/p&gt;
+
+&lt;p&gt;That underlying stream is actually shared by everybody. Everybody sees the same thing. But you can… I don’t know, it’s like a sushi boat or something. You can pull it and look at it more carefully, but the conveyor belt keeps going.&lt;/p&gt;
+
+&lt;h4&gt;That’s super cool. Is it possible to run out of content? Does that ever happen where you have to loop the feed or anything?&lt;/h4&gt;
+
+&lt;p&gt;I mean, we probably do run out at the five second level. Like if you don’t hold onto everything and you let everything play for five seconds you will loop, I think, if you watched all day.&lt;/p&gt;
+
+&lt;p&gt;But it’s not like it’s pure stream in the sense that a video will never show up again, especially because these are videos from last week so they’ll stay around for at least a week. But we try to make it so that it’s very unlikely that you’ll feel like you’re watching things again. I do some things like reshuffling the stream. I think the actual stream itself is rebuilt every day.&lt;/p&gt;
+
+&lt;h4&gt;It seemed like one of the things people respond to well is how global it is and how much you jump around.&lt;/h4&gt;
+
+&lt;h4&gt;I was wondering if you’d done anything to ensure that or if just like the sheer volume of content makes it so that that’s the case.&lt;/h4&gt;
+
+&lt;p&gt;I think it’s the unbiased-ness of the search term. Because the search term is essentially language free. A file format like MOV is universal. It’s not language specific, which I think is very useful in that sense.&lt;/p&gt;
+
+&lt;h4&gt;You mentioned working on that with your partner James. How do you guys divvy up the work or go about working on it together?&lt;/h4&gt;
+
+&lt;p&gt;You know, most of those early things… it’s just talking, I think. The original thing I remember was we had a pretty good chemistry and were able to work kind of off the technical side for a bit. Just, like, pure concept building. We were able to play off each other’s ideas.&lt;/p&gt;
+
+&lt;p&gt;He’s he’s very strong on the product design side of things. I think, that first version, he designed the way the system would look. I think I was obsessed, for the first version, with making the videos completely seamless so that you never see a spinner.&lt;/p&gt;
+
+&lt;p&gt;That’s actually the bulk of the engineering, and it’s probably not noticeable to most people, but I think the reason why it just feels like you’re watching a continuous stream is because you actually are. When the videos switch, it’s not loading another video; the other video is already there. What’s happening is there’s actually three players on the screen.&lt;/p&gt;
+
+&lt;h4&gt;Is there anything that you didn’t get to talk about that you want to add?&lt;/h4&gt;
+
+&lt;p&gt;I think the main thing is is just that it will keep changing.&lt;/p&gt;
+
+&lt;p&gt;Like, the internet moves really fast. I remember very clearly, the videos were really blurry in the beginning. I don’t think the high-res stuff was really that common yet. Now when we look at it it’s like, “Wow, all these videos look really sharp.”&lt;/p&gt;
+
+&lt;p&gt;I think that’s kind of been the really interesting thing. It serves as a great project for James and I to come back to. Basically, every time we come back it’s like, “Hey let’s just change it again.”&lt;/p&gt;
+
+&lt;p&gt;It gives us kind of an annual routine. Like an annual retreat. And at the same time, all the content has changed. It’s a really nice feeling.&lt;/p&gt;
+</content>
+<summary>Astronaut.io was made by Andrew Wong and James Thompson in 2011. It crawls youtube for videos that have been uploaded in the last two weeks with generic filenames like dsc 001 and turns them into a feed of small intimate moments from around the world. Watching for just a couple of minutes, I saw multiple class presentations from around the world, an offroad expedition on ATVs, an oddly close up view of a goldfish, a volleyball game, a play, a few baby videos, someone documenting a car accident, video of foam boxes being broken down by a machine, and one guy filming his crotch in boxers.</summary>
+</entry>
+<entry>
+<title>Aanand Prasad - Slit-Scanner</title>
+<link href="http://ihadtendollars.com/interviews/aanand-prasad.html" rel="alternate" type="text/html" title="Aanand Prasad - Slit-Scanner" />
+<published>2016-05-05T00:00:00-07:00</published>
+<updated>2016-05-05T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/aanand-prasad</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/aanand-prasad.html">&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;und&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/zavtracast&quot;&gt;@zavtracast&lt;/a&gt; &lt;a href=&quot;https://t.co/AVHwNVOnch&quot;&gt;pic.twitter.com/AVHwNVOnch&lt;/a&gt;&lt;/p&gt;&amp;mdash; Slit-Scanner (@slitscanner) &lt;a href=&quot;https://twitter.com/slitscanner/status/725034258495115264&quot;&gt;April 26, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h4&gt;Who are you and what do you do (for a living)?&lt;/h4&gt;
+
+&lt;p&gt;I’m &lt;a href=&quot;https://twitter.com/aanand&quot;&gt;Aanand Prasad&lt;/a&gt; and I make software for a living. I work at &lt;a href=&quot;http://www.docker.com/&quot;&gt;Docker&lt;/a&gt;, on &lt;a href=&quot;https://docs.docker.com/compose/&quot;&gt;Compose&lt;/a&gt;. Because it’s important for a growing boy to have a diversity of interests, I also make software in my free time.&lt;/p&gt;
+
+&lt;h4&gt;What is Slit-Scanner?&lt;/h4&gt;
+
+&lt;p&gt;It’s a &lt;a href=&quot;https://twitter.com/slitscanner&quot;&gt;Twitter bot&lt;/a&gt; which applies a particular visual effect to any animated GIF you send to it. The effect is known variously as “slit-scan” and “rolling shutter” – essentially, you displace each row of a video progressively further forwards or backwards in time:&lt;/p&gt;
+
+&lt;p&gt;Frame 1 becomes (row 1 from frame 1) + (row 2 from frame 2) + (row 3 from frame 3) + …
+Frame 2 becomes (row 1 from frame 2) + (row 2 from frame 3) + (row 3 from frame 4) + …
+…and so on.&lt;/p&gt;
+
+&lt;p&gt;This leads to bizarre and quite varied effects, depending on the type of motion in the video. If people or things are moving left and right, they become &lt;a href=&quot;https://twitter.com/slitscanner/status/723158119719809024&quot;&gt;transverse&lt;/a&gt; &lt;a href=&quot;https://twitter.com/slitscanner/status/723307448380084225&quot;&gt;waves&lt;/a&gt;. If they’re moving up and down, they become rippling &lt;a href=&quot;https://twitter.com/slitscanner/status/723215092465172480&quot;&gt;longitudinal&lt;/a&gt; waves, as if they’re underwater. If they’re rotating around a vertical axis, they &lt;a href=&quot;https://twitter.com/slitscanner/status/725100249329598465&quot;&gt;become&lt;/a&gt; &lt;a href=&quot;https://twitter.com/slitscanner/status/725448146667626501&quot;&gt;twisted&lt;/a&gt;, which is the weirdest effect of all.&lt;/p&gt;
+
+&lt;h4&gt;Where did the idea come from?&lt;/h4&gt;
+
+&lt;p&gt;I’d been fascinated by slit-scanning for ages, because I’m extremely cool. I think the earliest form I saw it in was the &lt;a href=&quot;http://golembewski.awardspace.com/&quot;&gt;Scanner Photography Project&lt;/a&gt;. I’d long been a fan of the “&lt;a href=&quot;https://www.youtube.com/watch?v=eTW0rNgMcKk&quot;&gt;rolling&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=LVwmtwZLG88&quot;&gt;shutter&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=y_tm6ECxPmc&quot;&gt;propeller&lt;/a&gt;” effect – the first time I saw one of those videos, it messed with my sense of reality in a way I’ve rarely felt. &lt;a href=&quot;https://twitter.com/shashashasha&quot;&gt;Sha Hwang&lt;/a&gt; had already created a bookmarklet for &lt;a href=&quot;http://shahwang.tumblr.com/post/40481891091/the-fight-scene-from-oldboy&quot;&gt;slit-scanning videos in the browser&lt;/a&gt; using the “static slit” effect to create a still image, and &lt;a href=&quot;https://vimeo.com/7878518&quot;&gt;this short film&lt;/a&gt; introduced me to the idea of using the “moving slit” effect to create a moving image. Finally, I’d also &lt;a href=&quot;https://www.instagram.com/p/mduZoDR1tY/&quot;&gt;experimented&lt;/a&gt; a little myself with a slit-scan iPhone app I found on the store.&lt;/p&gt;
+
+&lt;p&gt;Anyhow, the idea came to me about half an hour after getting into bed one night, ensuring I’d be incapable of sleep until I’d at least knocked together a basic implementation of the effect.&lt;/p&gt;
+
+&lt;h4&gt;How did you build it?&lt;/h4&gt;
+
+&lt;p&gt;The same way I build all my bots: copy and paste a load of Python from my other bots into a giant hacky mess. I used thricedotted’s &lt;a href=&quot;https://github.com/thricedotted/twitterbot&quot;&gt;twitterbot&lt;/a&gt; framework, ffmpeg for extracting frames from videos, Pillow for applying the actual effect and ImageMagick for re-assembling the GIF.&lt;/p&gt;
+
+&lt;p&gt;I also used &lt;a href=&quot;https://github.com/dthpham/butterflow&quot;&gt;butterflow&lt;/a&gt; for smoothing the video beforehand. Most GIFs have a very low temporal resolution (i.e. number of frames), and that results in big chunky rows rather than smooth ripples, so in the majority of cases I double the frame rate before processing it. This is extremely computationally intensive, and makes the bot very slow, but the quality is worth it.&lt;/p&gt;
+
+&lt;h4&gt;What was the biggest challenge making it?&lt;/h4&gt;
+
+&lt;p&gt;Keeping it running – smoothing the video needs a lot of memory and it’s running on a pretty small VM, resulting in crashes, prolonged downtime and repeated replies. It’s all part of the bot’s “quirky charm”, much like my own.&lt;/p&gt;
+
+&lt;h4&gt;What was the “easiest” part?&lt;/h4&gt;
+
+&lt;p&gt;Implementing the actual slit-scanning – it worked almost the first time I ran it, and I was back in bed in no time.&lt;/p&gt;
+
+&lt;h4&gt;What was the most surprising thing you learned?&lt;/h4&gt;
+
+&lt;p&gt;The sheer variety of ways that slit-scanning can make a moving image weird was a big surprise. I was prepared for some cool rotational GIFs and a few interesting wobbles, but it’s come out with so much more. For example, because the time displacement wraps around, the output is always a looping gif, even if the input isn’t. Slow movement becomes &lt;a href=&quot;https://twitter.com/slitscanner/status/723460616116154368&quot;&gt;gentle ripples&lt;/a&gt;; slow zooms &lt;a href=&quot;https://twitter.com/slitscanner/status/724394120140173312&quot;&gt;become&lt;/a&gt; &lt;a href=&quot;https://twitter.com/slitscanner/status/724908713102958592&quot;&gt;optical&lt;/a&gt; &lt;a href=&quot;https://twitter.com/slitscanner/status/723575690273153024&quot;&gt;illusions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also love that, with zero knowledge of what’s in the picture, a ridiculously simple 2D transformation can warp 3D objects in a way that feels very convincing, preserving shading and reflections across a virtual surface. Rotational GIFs demonstrate that very well, as do the propeller videos I mentioned before.&lt;/p&gt;
+
+&lt;h4&gt;You’ve made a number of bots now, and I was wondering what do you look for in a bot idea/project?&lt;/h4&gt;
+
+&lt;p&gt;Firstly, I’ve never had an attention span (I don’t even know what that is), so every creative project is a race against time: I need to be able to implement it before I get bored. I have a sad graveyard of projects that took just a bit too long and got abandoned.&lt;/p&gt;
+
+&lt;p&gt;Bot people, at least the ones I associate with, have strong feelings about bot ethics and etiquette. I’ve thrown away a lot of ideas because they’d be potentially rude/invasive, or because there was a high danger that they’d inadvertently generate upsetting content. It is absolutely the responsibility of the creator to guard against this: our software is infused with our cultural norms, and if you care about changing those for the better, you have to care about your software too.&lt;/p&gt;
+
+&lt;p&gt;It’s hard to know ahead of time what will take off and what won’t, but that’s definitely a factor too. I really can’t be bothered making something if I think only three people are ever going to look at it. (It feels good to admit this.)&lt;/p&gt;
+
+&lt;p&gt;Finally, a project is especially exciting if I think I might learn something along the way. The ideal difficulty level is “just outside my comfort zone”.&lt;/p&gt;
+
+&lt;h4&gt;Do you have a favorite slit-scan?&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/slitscanner/status/722768869979484160&quot;&gt;Princess Leia turning her head&lt;/a&gt;, the image I used for the bot’s avatar. As well as being hypnotically weird and hilarious, I’ve found it to be the best demonstration of what the bot does – people immediately get that time is delayed between the top and bottom of the image.&lt;/p&gt;
+
+&lt;h4&gt;What are some of your favorite bots from other people?&lt;/h4&gt;
+
+&lt;p&gt;Goodness. I’ll strive to highlight lesser-known works where I can. I’m going to leave out a lot – sorry, everyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/v21&quot;&gt;George Buckenham&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/manygradients/status/727456443776024576&quot;&gt;manygradients&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ckolderup&quot;&gt;Casey Kolderup&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/wowwwrude&quot;&gt;wow rude&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/inky&quot;&gt;Inky&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/botechre&quot;&gt;botechre&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/thricedotted&quot;&gt;Thrice&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/nice_tips_bot/status/576330525016743936&quot;&gt;nice tips bot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/tinysubversions&quot;&gt;Darius&lt;/a&gt;’ &lt;a href=&quot;https://twitter.com/neweraesthetics/status/671673654917361664&quot;&gt;Brand New Aesthetics&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/katierosepipkin&quot;&gt;Katie Rose Pipkin&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/mothgenerator/status/622723717865451520&quot;&gt;moth generator&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/DavidLublin&quot;&gt;David Lublin&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/TVCommentBot/status/696193576921866245/photo/1&quot;&gt;TV Comment Bot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/aparrish&quot;&gt;Allison Parrish&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/deepquestionbot/status/577764567343837184&quot;&gt;Deep Question Bot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/NoraReed&quot;&gt;Nora Reed&lt;/a&gt;’s &lt;a href=&quot;https://twitter.com/hydratebot&quot;&gt;hydratebot&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, I want to do a special shout out to &lt;a href=&quot;https://twitter.com/GameNames&quot;&gt;GameNames&lt;/a&gt;. Very few other people seem to care about it, but I find it debilitatingly hilarious, and have wanted for a long time to make a game based on one of its tweets.&lt;/p&gt;
+
+&lt;p&gt;[You can read my interviews with &lt;a href=&quot;http://ihadtendollars.com/interviews/casey-kolderup.html&quot;&gt;Casey Kolderup&lt;/a&gt;, &lt;a href=&quot;http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html&quot;&gt;Katie Rose Pipkin&lt;/a&gt;, and &lt;a href=&quot;http://ihadtendollars.com/interviews/thricedotted&quot;&gt;thricedotted&lt;/a&gt; too :)]&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;und&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/shashashasha&quot;&gt;@shashashasha&lt;/a&gt; &lt;a href=&quot;https://t.co/69TvF2KNi5&quot;&gt;pic.twitter.com/69TvF2KNi5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Slit-Scanner (@slitscanner) &lt;a href=&quot;https://twitter.com/slitscanner/status/725442822493601795&quot;&gt;April 27, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</content>
+<summary>@zavtracast pic.twitter.com/AVHwNVOnch&amp;mdash; Slit-Scanner (@slitscanner) April 26, 2016</summary>
+</entry>
+<entry>
+<title>Julie Legault - Amino</title>
+<link href="http://ihadtendollars.com/interviews/julie-legault.html" rel="alternate" type="text/html" title="Julie Legault - Amino" />
+<published>2016-02-15T00:00:00-08:00</published>
+<updated>2016-02-15T00:00:00-08:00</updated>
+<id>http://ihadtendollars.com/interviews/julie-legault</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/julie-legault.html">&lt;p&gt;&lt;a href=&quot;http://www.amino.bio/&quot;&gt;The Amino&lt;/a&gt; just might be the most ambitious project I’ve had on the site. It’s definitely the one I feel least qualified to explain, which means I’m right in its target audience. Amino is an at home DNA hacking kit that allows anyone as young as 8 to grow their own cells and give them interesting properties, and has been described as a &lt;a href=&quot;http://www.dezeen.com/2015/10/28/julie-legault-synthetic-biology-amino-biolab-tamagotchi-kit/&quot;&gt;“bacterial Tomagachi”&lt;/a&gt; and &lt;a href=&quot;http://www.wired.com/2015/11/aminos-cool-bio-kit-is-like-the-easy-bake-oven-of-bioreactors/&quot;&gt;“the easy-bake oven of bio-reactors”&lt;/a&gt; by the press.&lt;/p&gt;
+
+&lt;p&gt;Talking to Julie, it’s not hard to imagine kids and adults alike making their own pigments to create art that glows in the dark or changes color based on the type of light it’s exposed to. In the future, Amino users could also change the nutritional content of their food by creating their own yeast, or produce their own scents.&lt;/p&gt;
+
+&lt;p&gt;I love the idea of something that makes science more personal while showing off how the fruits of scientific experimentation are incorporated into our lives.&lt;/p&gt;
+
+&lt;p&gt;The Amino team is almost complete hand-assembling the kits promised to their &lt;a href=&quot;https://www.indiegogo.com/projects/amino-desktop-bioengineering-for-everyone#/&quot;&gt;IndieGogo&lt;/a&gt; backers and is looking to start large scale manufacturing soon. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This interview has been edited for length and clarity&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/julie-legault/aminocherry2.jpg&quot;&gt;&lt;img src=&quot;/images/posts/julie-legault/aminocherry2.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;You started this at MIT Media Lab and I’m curious how you got the idea to make this your project.&lt;/h4&gt;
+
+&lt;p&gt;Sure. Before joining the &lt;a href=&quot;https://www.media.mit.edu/&quot;&gt;Media Lab&lt;/a&gt;, I was doing wearable technology. I studied goldsmithing and I was interested in how we can use traditional making, and the traditional aesthetics of jewelry, to make wearable tech more appreciated and more desirable. [After I joined the lab] I kind of lost interest in wearable tech because I’d done quite a few projects and they’d been successful, at least in museums and stuff, at bringing the aesthetics and technology together.&lt;/p&gt;
+
+&lt;p&gt;I was looking for something new and I took a class over winter break - &lt;a href=&quot;http://www.swap-mit.info/microfluidics/&quot;&gt;microfluidics for synthetic biology&lt;/a&gt;. Everyone told us when you take your winter break class, take something you would never normally do, and that is definitely a class I would never normally do. So I took that, and we had a talk from a lady named &lt;a href=&quot;https://www.youtube.com/watch?v=QfLtQwiQ_7s&quot;&gt;Natalie Kuldell&lt;/a&gt; who started a &lt;a href=&quot;http://biobuilder.org/&quot;&gt;foundation&lt;/a&gt; to teach teachers how to integrate synthetic biology into their curriculum. She was talking about how you can use cells to create perfume. One of the things we did was make E. coli smell like banana, and I thought it was amazing. The fact that I could, as a non-scientist, do this in a couple of days - assemble a genetic circuit and have it actually create something for me - was just amazing.&lt;/p&gt;
+
+&lt;p&gt;So, I took another few workshops. I did one with &lt;a href=&quot;https://synbiota.com&quot;&gt;Synbiota&lt;/a&gt; where we created a violet pigment that’s actually an anti-cancerous compound. And again, that took two days. And we did it in our lab director’s kitchen, eating and drinking coffee while doing genetic engineering at the same time. I thought that was really powerful. The fact that you don’t actually even need to be in a lab, and can just be in your kitchen and still do this… I was really inspired, and I was really excited.&lt;/p&gt;
+
+&lt;p&gt;But I was speaking to my other friends at MIT and they were all terrified that I could do bio-engineering. They didn’t quite understand it and were like, “Oh, bioterrorism,” and all that. So I thought that even if very future-thinking people are still afraid… it’s mostly because they’re not experienced. Some of them eventually did a work shop and once they did it they were like, “Okay, I get it.” [I thought it was] similar to how we learn with computers. Once you start programming you kind of get it, like, “Oh, okay. I can do this. I understand it. And now I understand the whole field better.”&lt;/p&gt;
+
+&lt;p&gt;I thought I would be the same with genetic engineering and synthetic biology. I thought that if we get more and more people to at least have a basic understanding of it, or a quick experience with it in high school or at home, then they’ll feel more comfortable with the subject. And they can take part in the discussions about the laws and the ethics and decide if they even want it in their body. And if they don’t, that’s fine. But at least it’s their own decision. It’s not the media telling them that they’ll die or things like that.&lt;/p&gt;
+
+&lt;h4&gt;I’m curious where you think some of that fear comes from. Is it a fear that hobbyists will make mistakes and unleash some ungodly creation? A fear of premeditated mischief?&lt;/h4&gt;
+
+&lt;p&gt;I think it’s definitely both those things. There is a sense that if anyone has access to it then anyone can start making and creating these unexpected creatures, or that people with malicious intentions will use it. If you look back in history, and this is quite apparent with computers, any time there’s a new technology or science that people don’t understand, it produces fear.&lt;/p&gt;
+
+&lt;p&gt;In the eighties, people were terrified of computers. And I think it makes sense. It’s much easier to see the dangers of it, and the benefits are sometimes so mundane, but so powerful. Like insulin is kind of a mundane thing that you don’t really think about, but I don’t know how many people rely on it to survive. I think it’s more a question of not understanding what’s going on. And when it’s behind closed doors with scientists in lab coats and anything could happen and we don’t really know… I think that’s where it comes from.&lt;/p&gt;
+
+&lt;h4&gt;The project examples you gave were just a couple of days, and I was wondering how typical that is for projects? How long will it take to do the apps the Amino ships with?&lt;/h4&gt;
+
+&lt;p&gt;Well, the first thing you need to do is to grow the cells that you’re going to transform. To grow them takes 12 hours. We usually recommend doing it overnight. So you put them in in the evening and you have them in the morning.  Then you put the DNA program in. The actual transformation, like, you putting the DNA program in the cells is only a couple of hours. But once it’s in there you need to wait for the cells to grow again, so that’s another twelve hours.&lt;/p&gt;
+
+&lt;p&gt;Biology’s a little slow.&lt;/p&gt;
+
+&lt;p&gt;Then you can put it in the liquid culture, that’s when it’s in the main chamber, and have it grow and start expressing the proteins you want. In total it’s like a 36 hour experiment where you’re not doing much some of the time - you’re just watching it grow. And that’s typical in biology. You need to wait for your cells to grow.&lt;/p&gt;
+
+&lt;h4&gt;That’s seems pretty good though. Two days is really not that long to run an experiment, I think. For some reason when I was initially reading about it I thought it would take much longer.&lt;/h4&gt;
+
+&lt;p&gt;Yeah, I think kids can still be interested after a couple of days.&lt;/p&gt;
+
+&lt;h4&gt;Yeah, how young do you think you would go for an Amino?&lt;/h4&gt;
+
+&lt;p&gt;The youngest we’ve had that completely did the workshop and understood what they were doing were like eight and nine years old. They were good at knowing what was going on and participating in the discussion. And then we’ve had their younger siblings, like five or six years old, and they can do the experiment, but they just can’t quite understand what they’re doing, which makes sense because they’re little. In the home context, if you have a younger sibling it would be okay to have a five or six year old do it. Right now, we’re going in through schools and we’re focussing on ages 8 and up, just because of the level of concentration needed. Just because you need a lot of concentration to do it.&lt;/p&gt;
+
+&lt;h4&gt;Could you describe your ideal outcome from somebody owning an Amino? What are you most excited about for having these things in people’s homes?&lt;/h4&gt;
+
+&lt;p&gt;One of the things I am personally excited about is giving non-scientists, and people who have no interest in science, the ability to create using science. So I’m really excited for people at home to be able to create their own yeast that, say, glows in the dark. And then [having them] make cakes and grow beers from it. Just having that really simple application for something that’s actually super powerful and complex.&lt;/p&gt;
+
+&lt;p&gt;And I like imagining kids having this as a Christmas present. You know, you’re so excited when you get your Christmas gifts. I remember getting a chemistry set and following the instructions for the first few and then being like, “Fuck these instructions, I’m going to make my own.” And most of the time it didn’t work out, but I’m really excited to see kids trying to create things that we haven’t told them to. And it will still be safe because we’re only providing safe chemicals.&lt;/p&gt;
+
+&lt;p&gt;One of the apps we’re putting out is to create your own pigments that either glows under UV or can glow in the dark. I’m sure someone will create a pigment that we’ve never seen before or that changes color over time or something. I think that will be really cool.&lt;/p&gt;
+
+&lt;h4&gt;The design of kit is very pleasant. I was wondering how you decided to use wood for the case. I saw some of the early prototypes had been 3d printed, and it looked like there were some aluminum versions. How did you settle on the final design for it?&lt;/h4&gt;
+
+&lt;p&gt;That took way longer than you would expect. When I was designing it, a lot of it was, “How do we make it not scary? How do we make it friendly and enticing enough that kids want to play with it, but also adults want to have it in their home?”&lt;/p&gt;
+
+&lt;p&gt;One of the things we really want to do is allow people (mostly adults, probably) to create yeast for brewing and baking. [To create] yeast with added vitamins and added flavors. So it needs to fit in the home quite well. Not something you’d be ashamed of having. Something you’d be quite proud of having.&lt;/p&gt;
+
+&lt;p&gt;That’s where the wood came from - this idea of homeliness. Something that’s quite warm, both to the eye and the touch. Something that’s as far away from what you imagine a scientific experiment lab looking like, which would probably be aluminum or plastic. I think when people think of technology, they think of aluminum from their Macbooks and everything. We’re trying to change that first perception. When you see it as a wooden box, you see it as something approachable and that you don’t need a lot of skills or knowledge to use.&lt;/p&gt;
+
+&lt;h4&gt;With something like a brewing kit, if you were to make your own yeast, what are some of the things you could do with it.&lt;/h4&gt;
+
+&lt;p&gt;You can change the flavor of it. With baking you can add different flavors to the yeast. Or you can also add different vitamin content. If you don’t eat a lot of green veggies you could make it produce vitamin K and then you have a good excuse to eat a thousand cakes. You could also do fun things like have it change colors. You could have it glow in the dark.&lt;/p&gt;
+
+&lt;p&gt;You could explore the bio-sensor realm of synthetic biology. It’s similar to Arduino where you have an actuator and a sensor but on a biology level. If the bacteria detects, say, heat it will change color or smell different. That might be really interesting. I don’t know how stable it would be if you were to bake it, but that’s something we’re going to explore.&lt;/p&gt;
+
+&lt;h4&gt;I was looking at the sensor comparisons on your site, and I was wondering how you’re able to get those lab quality sensors for so much less or in such a compact form.&lt;/h4&gt;
+
+&lt;p&gt;Lab hardware is becoming so much cheaper, but it’s mostly because now almost everyone who is a hacker/maker is an engineer and they can see what it takes to make a machine run. A centrifuge, for example, is sold for thousands of dollars, but you only need a motor that spins at 9,000 RPM. You only need a computer fan motor and a little 3D printed holder for your tube.&lt;/p&gt;
+
+&lt;p&gt;Most of the things we’ve done for the first version of the Amino is break open computer fans and that sort of thing to create the system. Now we have custom sensors, but those sensors are actually modeled on other technologies that are the same as what are being used in science, except they’re in our home appliances and they’re much cheaper for it. When you’re in a big lab the equipment needs to be very precise, but when you’re doing something like Amino in the home you don’t need that level of precision.&lt;/p&gt;
+
+&lt;p&gt;We also have a really great mechanical engineer, which really helped in making things cheaper.&lt;/p&gt;
+
+&lt;h4&gt;We’re almost out of time and I just have two more questions that I ask for every project. What was the most surprising thing you learned while making this project?&lt;/h4&gt;
+
+&lt;p&gt;I think it was that so many people came together to make it happen. I used to work in speculative design: where you come up with an idea, and you make a prototype, and it goes in a museum, and you give a few talks about it, and everyone’s very proud of you but nothing happens with it. You know, you put it in your closet or it stays in a gallery. But this time it’s actually real and friends and engineers and scientists helped out. Everyone’s been very supportive. The media lab was very supportive. Yeah, that part was really amazing.&lt;/p&gt;
+
+&lt;h4&gt;And what was the most challenging part of realizing this project.&lt;/h4&gt;
+
+&lt;p&gt;I think we’re going through it right now. It’s going to be a really boring answer, but it’s taking it from a prototype that works and turning it into a consumer product that other people can use for a long time. With our prototype, you could have used it for like two weeks and then you would have been in trouble. But this version we’re making now, you can use it for years.&lt;/p&gt;
+
+&lt;p&gt;Yeah, that’s quite a challenge. Of course, if we had unlimited amounts of money we could do that easily and sell it to you for 1,500 dollars or thirty grand because the pumps are so expensive, but it was a finding the right balance of quality materials and durability.&lt;/p&gt;
+</content>
+<summary>The Amino just might be the most ambitious project I’ve had on the site. It’s definitely the one I feel least qualified to explain, which means I’m right in its target audience. Amino is an at home DNA hacking kit that allows anyone as young as 8 to grow their own cells and give them interesting properties, and has been described as a “bacterial Tomagachi” and “the easy-bake oven of bio-reactors” by the press.</summary>
+</entry>
+<entry>
+<title>Nicole He - True Love Tinder Robot</title>
+<link href="http://ihadtendollars.com/interviews/nicole-he.html" rel="alternate" type="text/html" title="Nicole He - True Love Tinder Robot" />
+<published>2016-01-12T00:00:00-08:00</published>
+<updated>2016-01-12T00:00:00-08:00</updated>
+<id>http://ihadtendollars.com/interviews/nicole-he</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/nicole-he.html">&lt;p&gt;Nicole’s True Love bot has everything you could want in a project: romance, robots, suspense, the slightest feeling of helplessness, a single disembodied hand – everything! As Nicole says in her description of the robot, “This project explores the idea that the computer knows us better than we know ourselves, and therefore it has better authority on who we should date than we do. In a direct way, the True Love Tinder Robot makes the user confront what it feels like to let computers make intimate decisions for us.” I think it looks like a really successful project in that regard.&lt;/p&gt;
+
+&lt;p&gt;After you read this, you should check out the Nicole’s documentation for the project. She’s set up &lt;a href=&quot;http://nicole.pizza/true-love-tinder-robot/&quot;&gt;a page&lt;/a&gt; answering some of the more common questions and showing off a video of the robot in action. You can also read her &lt;a href=&quot;http://nicole.pizza/itp/tag/tinder-robot/&quot;&gt;process blog&lt;/a&gt; to see the robot’s development unfold. It has early sketches, code, and even a breakdown of all the parts and how much they cost. I kind of wish every project was this well documented, but then I probably wouldn’t be able to keep this site up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/nicole/true-love-tinder-robot.gif&quot;&gt;&lt;img src=&quot;/images/posts/nicole/true-love-tinder-robot.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
+
+&lt;p&gt;I’m a graduate student at NYU &lt;a href=&quot;https://tisch.nyu.edu/itp&quot;&gt;ITP&lt;/a&gt;, which is like Hogwarts but with computers. I currently do nothing to make a living, which is both terrible and wonderful (mostly terrible).&lt;/p&gt;
+
+&lt;h4&gt;Can you tell us a little bit about the True Love Tinder Robot? How did you make it, and how did you decide that this was what you wanted to work on for your ITP project?&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://nicole.pizza/true-love-tinder-robot/&quot;&gt;The True Love Tinder Robot&lt;/a&gt; was a project I made for two of my classes at ITP. It’s a robot that reads your feeling as you are looking at Tinder profiles, and then decides whether or not you are attracted to that person. If you are, the creepy robot hand will physically swipe right, and if you are not, it will swipe left. It also talks to you the whole time about your involuntary choices.&lt;/p&gt;
+
+&lt;p&gt;I woke up in the middle of the night with the idea for this robot. I decided to run with it because I thought it would make people think about how much we trust computers with intimate decisions, and also because I thought it would be a funny project.&lt;/p&gt;
+
+&lt;h4&gt;How did you decide the robot should talk?&lt;/h4&gt;
+
+&lt;p&gt;It was important to me that the robot express its personality. Doing this visually by showing another screen was out of the question, since the user should be focused on looking at the Tinder profiles. So it made sense to make the robot speak.&lt;/p&gt;
+
+&lt;p&gt;The way it talks to you is a big part of the experience, because it makes you feel like it’s a little bit judgmental about what’s going on. But it has the right to be, because it knows better than you. All of this adds to the question of how much we want to trust a computer with something so personal.&lt;/p&gt;
+
+&lt;h4&gt;How does the bot decide if it’s love?&lt;/h4&gt;
+
+&lt;p&gt;It measures galvanic skin response, which is essentially how sweaty your palms get and how that changes over time. When we are excited or nervous (the familiar feelings of love!), our palms get just a little bit sweatier. Using an Arduino, the robot can then read how the electrical conductivity of your skin changes.&lt;/p&gt;
+
+&lt;p&gt;The True Love Tinder Robot knows better than you because it knows how you &lt;em&gt;truly&lt;/em&gt; feel when you look at a person, and therefore you aren’t swiping based on how you &lt;em&gt;think&lt;/em&gt; you feel.&lt;/p&gt;
+
+&lt;h4&gt;If it’s sweaty palms, does the bot start matching you up more over time? Do we look like we’re getting more desperate to the True Love Robot?&lt;/h4&gt;
+
+&lt;p&gt;Not necessarily - it measures the &lt;em&gt;change&lt;/em&gt; in how sweaty your palms get, so if you have naturally sweaty hands, it doesn’t mean that you’ll swipe right more. It depends on how your body reacts to each individual Tinder profile.&lt;/p&gt;
+
+&lt;p&gt;But yes, the robot may judge you if you’re swiping right a lot.&lt;/p&gt;
+
+&lt;h4&gt;How have people generally been reacting to it?&lt;/h4&gt;
+
+&lt;p&gt;There’s been a surprising flurry of response to the robot! I think it activates people’s anxieties about internet dating, biometric devices, and our own intimate relationships with computers. The people that have actually gotten to try the robot find it a little sassy, I think. But of course, it’s because the robot knows best.&lt;/p&gt;
+
+&lt;h4&gt;What was the biggest challenge making it?&lt;/h4&gt;
+
+&lt;p&gt;The physical fabrication was the most difficult part for me, because I have no experience in that area, and like a dumb person I did not take a class on it this semester. Drilling holes is scary for me!&lt;/p&gt;
+
+&lt;h4&gt;What was the “easiest” part?&lt;/h4&gt;
+
+&lt;p&gt;I guess since my unconscious mind came up with the idea while I was sleeping, that was the easiest part.&lt;/p&gt;
+
+&lt;h4&gt;What was the most surprising thing you learned?&lt;/h4&gt;
+
+&lt;p&gt;I was surprised at how much of a reaction there has been to this project across the web and in the news, but I think people pretty much will eat up anything based around Tinder. Also, this may be cheesy, but I learned that I could come up with an original idea for something that I find interesting, and then code it and build it myself. That was pretty nice.&lt;/p&gt;
+
+&lt;h4&gt;What’s the most intimate decision you’ve let a computer decide?&lt;/h4&gt;
+
+&lt;p&gt;This, my friend, is a secret between me and my computer.&lt;/p&gt;
+</content>
+<summary>Nicole’s True Love bot has everything you could want in a project: romance, robots, suspense, the slightest feeling of helplessness, a single disembodied hand – everything! As Nicole says in her description of the robot, “This project explores the idea that the computer knows us better than we know ourselves, and therefore it has better authority on who we should date than we do. In a direct way, the True Love Tinder Robot makes the user confront what it feels like to let computers make intimate decisions for us.” I think it looks like a really successful project in that regard.</summary>
+</entry>
+<entry>
+<title>PJ Vogt - Reply All</title>
+<link href="http://ihadtendollars.com/interviews/pj-vogt.html" rel="alternate" type="text/html" title="PJ Vogt - Reply All" />
+<published>2015-05-14T00:00:00-07:00</published>
+<updated>2015-05-14T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/pj-vogt</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/pj-vogt.html">&lt;p&gt;“Okay, this is a cursed interview.” That’s the first thing I heard when I turned on the tape of interview with PJ Vogt, who co-hosts a podcast about the internet called &lt;a href=&quot;https://twitter.com/agoldmund&quot;&gt;Reply All&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/agoldmund&quot;&gt;Alex Goldman&lt;/a&gt;. He’s not wrong. Between last minute scheduling conflicts, me &lt;em&gt;losing&lt;/em&gt; close to an hour’s worth of our conversation to a bad microphone, and more dropped calls than seems plausible given all the ads about network coverage I’ve seen recently, I count myself really lucky to have what you’re reading right now.&lt;/p&gt;
+
+&lt;p&gt;Reply All is basically my ideal podcast. It’s the podcast I would make if I had the skill to recognize the bones of a story well enough to pare down hours of tape into fifteen or twenty minutes of narrative, the attention to detail required to make it sound professional, and the empathy it takes to get someone to open up about their most personal moments.&lt;/p&gt;
+
+&lt;p&gt;The show has always managed to find interesting topics and report on them incredibly well. I was particularly impressed by this early episode on &lt;a href=&quot;http://gimletmedia.com/episode/9-yik-yak/&quot;&gt;Yik Yak, racism, and Colgate University&lt;/a&gt;. Even when I think I already know the story, like when &lt;a href=&quot;https://twitter.com/chiaraatik&quot;&gt;Chiara Atik&lt;/a&gt; followed along with &lt;a href=&quot;http://gimletmedia.com/episode/4-follow-the-money/&quot;&gt;someone’s breakup via Venmo&lt;/a&gt; the show manages to add a lot to my sense of the people involved.&lt;/p&gt;
+
+&lt;p&gt;Imagine you’ve just read about a young PJ interning at NPR and deciding to stay there instead of returning to school. Imagine he’s talked about looking for stories where the subject shows personal growth. Imagine he’s said nice things about working with Alex. Now read the rest of the interview, please.&lt;/p&gt;
+
+&lt;h4&gt;Why do you think people share the things they do with you? On some episodes you’ve even kind of told them that if you were in their position you don’t think you would go on the show.&lt;/h4&gt;
+
+&lt;p&gt;Well, Alex has said that.&lt;/p&gt;
+
+&lt;p&gt;I don’t know. When someone’s doing it, a lot of times it’ll feel very lucky and it feels like a fragile thing.&lt;/p&gt;
+
+&lt;p&gt;Alex and I both worked in public radio, and public radio is a weird thing. But you think of it as a normal thing. It’s like, “Why would you tell a bunch of strangers something?” “Oh, it’s for NPR.” And somehow that makes sense. But, like, “Why would you tell a bunch of strangers something?” “Oh, it’s for an internet culture podcast…” I don’t know why people do it.&lt;/p&gt;
+
+&lt;p&gt;I think it’s one way to construct meaning out of life. Something awful, or astounding, or embarrassing happens, and the act of telling it and being listened to and having somebody try to understand it [creates meaning].&lt;/p&gt;
+
+&lt;p&gt;I think a lot of people who like listening to things like that, who like listening to stories and interviews, they’re kind of waiting for the day where someone’s going to sit down with them and just talk to them and just [say], “Let me know what happened to you.” I think maybe that’s part of it.&lt;/p&gt;
+
+&lt;p&gt;I think that’s some of the instinct that makes me want to do this kind of thing.&lt;/p&gt;
+
+&lt;h4&gt;Part of it seems like maybe they want to build their own understanding of it, but do you think that there’s also this hunger for you to build a narrative around it? To see how somebody else takes their story and finds something meaningful in it?&lt;/h4&gt;
+
+&lt;p&gt;Yeah, and I think that that can be frustrating for people. I always worry when we profile somebody how they’re going to feel about how we see their life. But, beyond the vulnerability of that, I think there is something nice about just, like, “If somebody else were paying very careful attention to the things that I’m going through, and trying very hard to understand me, what would they come away with?”&lt;/p&gt;
+
+&lt;p&gt;I think that can be valuable for people. I mean, sometimes it’s weird. Sometimes you’ll do an interview with somebody and you’ll talk to them for two or three or four hours. And you’re talking about big stuff. You’re talking about something that happened to them that was a big enough deal that it’s a story.&lt;/p&gt;
+
+&lt;p&gt;It’s a really quick and intimate thing. And one of the strange things is that then you’re done. You spend a bunch more time alone with their voice, thinking about them and writing about them. And then the episode goes up and you shoot them an email like, “Hey, just so you know, it’s up.” And, usually, they say that they liked it. And that’s it.&lt;/p&gt;
+
+&lt;p&gt;It’s very strange. It feels like there should be another thing that happens.&lt;/p&gt;
+
+&lt;h4&gt;So, most of the time when they say they liked it, do they expand on that? Is it usually a pretty perfunctory e-mail back? Or is it like, “I think I think you really got this right,” or, “I hadn’t seen it that way but now I think that makes sense”?&lt;/h4&gt;
+
+&lt;p&gt;Usually, it’s a little bit longer.&lt;/p&gt;
+
+&lt;p&gt;Sometimes you don’t hear anything. I haven’t had the experience yet of somebody being like, “You really got this wrong,” or, “You really mischaracterized me.” Yeah, it’s usually like a medium-length email.&lt;/p&gt;
+
+&lt;p&gt;It’s nice. It’s also weird because a lot of times it’s like they’ve said everything they can. Because, the way we interview, we spend a long time with people. You get to a point where they have nothing more to say about the thing. You really just, you know, relentlessly made them talk about it. And then you’ve put every good idea you have about it into the piece, hopefully.&lt;/p&gt;
+
+&lt;p&gt;When we were at &lt;a href=&quot;http://www.onthemedia.org/blogs/on-the-media/&quot;&gt;TLDR&lt;/a&gt; I did a profile of this songwriter who was amazing, and he does a newsletter called &lt;a href=&quot;http://www.moternmedia.com/home.html&quot;&gt;The Long Walks Newsletter.&lt;/a&gt; It’s almost like a zine, and it’s just walks he’s gone on.&lt;/p&gt;
+
+&lt;p&gt;It’s really nice. It’s kind of what you wish you got with other people, which is continuing glimpses into how they are afterwards. We actually probably could check back in on people sometimes. It’s one of the things a podcast can do that a radio show doesn’t do because it can’t, and you kind of don’t realize it’s an option because you’re still used to being a radio show.&lt;/p&gt;
+
+&lt;h4&gt;Why is it something a podcast can do but a radio show can’t do?&lt;/h4&gt;
+
+&lt;p&gt;I think with a podcast it’s easier to refer back to something you did before. You can do it sometimes [on a radio show]. Serial could make episodes that were built on the assumption that people would start from the beginning. But it’s harder for This American Life to be like, “This week on This American Life we’re going to do chapter ten in a story that we started two months ago, and if you’d like to start from the beginning you have to go back in time.”&lt;/p&gt;
+
+&lt;h4&gt;That makes sense.&lt;/h4&gt;
+
+&lt;h4&gt;When you’re constructing a story, after after the interview – and you’ve talked about not being able to get what you need sometimes for a story – as you edit it together, how much of the meaning do you feel like you and Alex are kind of like imbuing it with?&lt;/h4&gt;
+
+&lt;p&gt;That’s a tricky question. I mean, I think what we try to do is we take the interview we have. We talk about what we think it means, but we make sure that we’re talking to the people in the story about what we think it means, also.&lt;/p&gt;
+
+&lt;p&gt;I think the worst case scenario would be [that] you tell somebody’s story and you have some fancy, highfalutin idea about what it all meant and they would think it was total bullshit. Like, it’s &lt;em&gt;okay&lt;/em&gt; if they think it’s total bullshit, but you need to give them the chance to tell you that they think it’s total bullshit. And you want to give them that chance in tape.&lt;/p&gt;
+
+&lt;p&gt;I feel like it’s important to get as close to the truth as you can. I think if you have the experience of somebody doing a story about you then you look at media differently afterwards, because you just sort of see how they get it wrong. Even if [they] don’t get the facts wrong, just like how they kind of miss it. Ideally, the people that we talk to would feel that as little as possible.&lt;/p&gt;
+
+&lt;h4&gt;Yeah, I was thinking about cases where you have to interpret motivation for things, and people are really bad about understanding their own motivations for stuff.&lt;/h4&gt;
+
+&lt;p&gt;Yeah, in that case you just say, “Can I test out my theory on why you do what you do?” I mean, we did in &lt;a href=&quot;http://gimletmedia.com/episode/16-why-is-mason-reese-crying/&quot;&gt;this episode that came out last night.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/j_goldstein&quot;&gt;Jonathan Goldstein&lt;/a&gt; reported this story for us about a former child star named Mason Reese who was uploading all these old videos of himself on TV onto YouTube.&lt;/p&gt;
+
+&lt;p&gt;But one of the videos was of him breaking down crying on a talk show when he was seven. Jonathan really wanted to know why that had happened, and he had all these theories about why. He tried them out on him, and Mason was just like, “Nope. Nope. Nope,” which is kind of the good thing about radio. The person’s perspective is, by default, kind of going to be included more because everything has to happen in tape.&lt;/p&gt;
+
+&lt;p&gt;So, it was sort of nice. [Jonathan]’s trying to guess his motivations. And it felt like he stayed with him until he got a reasonable theory about what they might have been.&lt;/p&gt;
+
+&lt;h4&gt;And, also, sometimes I guess just hearing a person say “No” and their hesitation as they mull it over can help a lot too for the listener making up their own mind.&lt;/h4&gt;
+
+&lt;p&gt;Yeah, and what’s nice about radio is there’s room for that ambiguity. Like, if that happened in print you’d say, “They said, ‘No,’ but then there was a considered pause.” You’re kind of forcing your perspective a little bit harder. I think our perspective is pretty strongly in our pieces, but there’s at least a little bit of room to say, “Here’s what I saw, and here’s what I thought about it; but [you], the listener, can make up your own mind about what [you’re] hearing.”&lt;/p&gt;
+
+&lt;p&gt;I like pieces like that. I’m trying to learn how to let the tape talk more and me talk a little bit less.&lt;/p&gt;
+
+&lt;h4&gt;You just mentioned that you guys have a strong perspective. Sometimes the episodes seem to end with a lesson or a moral that kind of wraps it up. Is that something you think about and try to do, or is it that sometimes they just seem obvious?&lt;/h4&gt;
+
+&lt;h4&gt;I remember the episode with the guy who does &lt;a href=&quot;http://gimletmedia.com/episode/14-the-art-of-making-and-fixing-mistakes/&quot;&gt;all the Wikipedia edits&lt;/a&gt;, and you guys kind of come in and say, like, “It’s easy to make this assumption about this guy, or have this image of him, but keep this in mind.” I forget exactly how it ended, but it seemed like that was one where you guys tried to put a lesson at the end of it.&lt;/h4&gt;
+
+&lt;p&gt;I think where it comes out of is, usually, the thing that makes me want to do a story is that we’ve got a question about it. It’s interesting that this person is doing this thing, but what makes us want to do a story is knowing why they do it. That big piece of writing, or sometimes it’s a big piece of tape, but the thing at the end where it’s like, “and this is what it all meant,” I think that’s us trying to work it out.&lt;/p&gt;
+
+&lt;p&gt;For me, a lot of that was I wanted to know why he did it. I wanted to know what he felt about it. But also, I’m not a person whose instincts run towards correction. Like, I’m not a grammar person. I’m not a precise person. I like trying to understand the perspective of the people that we’re profiling. And so, for me, I think some of the writing was me trying to put myself in his shoes from my shoes to be like, “There’s a part of me that can not stand this kind of behavior, but if you talk to him long enough it’s very understandable. And I can kind of see how somebody like him would see somebody like me.” So, sometimes that writing is like, “We went into this with a question, and here’s what we think the answer is at this point.”&lt;/p&gt;
+
+&lt;h4&gt;Do you think that the show has helped you make sense of the internet and how people interact and stuff?&lt;/h4&gt;
+
+&lt;h4&gt;It seems like that’s kind of the biggest overarching question: “How does technology affect the way that we interact with each other and find meaning and friendship?” You know, there are all these petty things, but also all this room room for all these small, great moments. Do you think that you have a better handle on that now from doing the show?&lt;/h4&gt;
+
+&lt;p&gt;I feel like doing the show forces us to learn a lot, and [learn] quickly, about technology. Both in the mechanical sense – “There’s a new thing, what does it do?” – and also the larger questions about how we feel about all the various ways the internet is making us feel as a culture.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I’ll look back at our episodes and I’ll see that the topics we were picking, or the stories we were choosing, or the way we were covering the stories, really reflected stuff we were working on as humans.&lt;/p&gt;
+
+&lt;p&gt;It’s funny because it’s a show about people, but it’s not a confessional show by any stretch. But you’ll see that you sure wanted to ask people about falling in love at that point. You really wanted to ask people about taking a risk, or having anxiety about work.&lt;/p&gt;
+
+&lt;p&gt;You’d think doing a show about one thing would feel limiting, and maybe one day it will, but it’s strange how much of non-internet life actually ends up getting filtered into talking about the internet.&lt;/p&gt;
+
+&lt;h4&gt;Yeah, it seems like since we do everything on it now it’s like a lens for all action, kind of. Like, I lost a friend recently, and I was listening to the episode where the guy was looking for information about &lt;a href=&quot;http://gimletmedia.com/episode/11-did-errol-morris-brother-invent-email/&quot;&gt;his brother inventing email.&lt;/a&gt; That was super relevant to me just because of the idea of all this mystery around other people and how much of somebody’s life goes on outside of your perception. They could be a completely different person, or have sides of themselves that you never really imagined, or problems much deeper than you knew.&lt;/h4&gt;
+
+&lt;h4&gt;I think it’s impossible for that not to come out in a technology show. As long as there are people around, human problems find their way in.&lt;/h4&gt;
+
+&lt;p&gt;Yeah, some technology reporting, I think more like the mainstream than in the nerdier stuff that we tend to consume, will be like, “Is Twitter making us lonely?” “Is ‘Some Service’ making us hornier?” Obviously, we are who we are, and when someone dies we miss them and wonder about them. And it just sort of gives us these different places to act out the human things we were going to do anyway, but maybe those things are like a little bit changed, or a little bit heightened because of the tools we’ve been given. I think that stays interesting.&lt;/p&gt;
+
+&lt;p&gt;A lot of what people do on the internet, because a lot of it’s private, they think it’s weirder than it is. One of the nice things about doing this sort of reporting is you’re like, “No, no. Pretty much everyone’s doing a version of this.” It’s nice to be able to talk about it.&lt;/p&gt;
+
+&lt;h4&gt;Have you ever been the subject of a show like yours?&lt;/h4&gt;
+
+&lt;p&gt;I’ve been interviewed, but I’ve never had somebody spend a bunch of time with me and then write down how my life looked to them.  I don’t know if I’d be great at it. I think it would be really hard for me to relax and not try to kind of manage it.&lt;/p&gt;
+
+&lt;h4&gt;Like not try to edit it yourself for them?&lt;/h4&gt;
+
+&lt;p&gt;Exactly. Like, you have this story you kind of want them to walk away with. Also, I talk too much. I would end up saying something that I wouldn’t want in there. Ooof, it would be an uncomfortable thing.&lt;/p&gt;
+
+&lt;p&gt;Alex would be a lot better at it. He’s just, I think, a more functional person in that kind of environment.&lt;/p&gt;
+
+&lt;h4&gt;If you had to pick what you thought someone would come to you with like, “I think this is like a representative moment, rich for interpretation about you,” what do you think it would be?&lt;/h4&gt;
+
+&lt;p&gt;So, last night we were crashing on the episode and we were in a studio that John Delore, [Gimlet’s] technical director, and &lt;a href=&quot;https://twitter.com/mlieber&quot;&gt;Matt Lieber&lt;/a&gt;, [Gimlet’s] co-founder, built. It’s just, like, a white box in a warehouse. It’s almost like a shipping container. It’s nicer than a shipping container, but it &lt;em&gt;is&lt;/em&gt; a lot like a shipping container. There were five or six of us at one point, and a dog, crammed into this box just listening very closely to the episode.&lt;/p&gt;
+
+&lt;p&gt;By Wednesday night the kinds of edits you’re making are like, “I think this silence is a millisecond too long, and I think that clip needs to come up a half second faster, and I think we should change this word to that word.” I sort of felt like if you wanted to understand our show, that was the room to understand it in. The suggestions people were making, and the way that they were with each other – I think if you were trying to write this place, and if you were trying to write our show, the way to understand it would be in that room.&lt;/p&gt;
+
+&lt;p&gt;But somebody could write that I was, like, a shitty tyrant or a whiny baby. I don’t know what somebody would go into that room and come out with, but I would be terrified whatever it was.&lt;/p&gt;
+
+&lt;p&gt;Like, I don’t think, “shitty tyrant,” but maybe, “whiny baby.”&lt;/p&gt;
+
+&lt;h4&gt;They come out and they’re just like, “Why won’t he meet Alex’s baby?!”&lt;/h4&gt;
+
+&lt;p&gt;Hahahah, that baby lives in New Jersey!&lt;/p&gt;
+
+</content>
+<summary>“Okay, this is a cursed interview.” That’s the first thing I heard when I turned on the tape of interview with PJ Vogt, who co-hosts a podcast about the internet called Reply All with Alex Goldman. He’s not wrong. Between last minute scheduling conflicts, me losing close to an hour’s worth of our conversation to a bad microphone, and more dropped calls than seems plausible given all the ads about network coverage I’ve seen recently, I count myself really lucky to have what you’re reading right now.</summary>
+</entry>
+<entry>
+<title>Amanda Hess - Users</title>
+<link href="http://ihadtendollars.com/interviews/amanda-hess.html" rel="alternate" type="text/html" title="Amanda Hess - Users" />
+<published>2015-04-24T00:00:00-07:00</published>
+<updated>2015-04-24T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/amanda-hess</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/amanda-hess.html">&lt;p&gt;With this interview I’m taking a bit of a departure from the site’s premise since Amanda’s &lt;a href=&quot;http://www.slate.com/articles/technology/users.html&quot;&gt;new column at Slate&lt;/a&gt; is her real job. Who cares though, because Amanda is great!&lt;/p&gt;
+
+&lt;p&gt;Amanda has been covering serious issues with great care for years, and I’m always impressed by how well researched and sourced her articles are. When I heard that she had a new column centered on the internet I was really curious about how she would approach it, and knew I had to talk to her about it for the site.&lt;/p&gt;
+
+&lt;h4&gt;Okay, so I want to ask you about your new column, &lt;a href=&quot;http://www.slate.com/articles/technology/users.html&quot;&gt;Users&lt;/a&gt;. First, how does having a column work? Is this your main thing now? How much time do you devote to this, and how much time do you spend writing other things outside of the column?&lt;/h4&gt;
+
+&lt;p&gt;It’s all really new to me also. I was freelancing for a long time, and I was freelancing mostly for Slate. Then I got a full time job at Slate and I started freelancing other places less, but still doing it. Now, I have my job at Slate and I’m also contributing to the &lt;a href=&quot;http://www.nytimes.com/section/magazine?action=click&amp;amp;contentCollection=Magazine&amp;amp;region=TopBar&amp;amp;module=HomePage-Title&amp;amp;pgtype=article&quot;&gt;New York Times Magazine&lt;/a&gt; infrequently over the year. That will probably be the extent of the freelancing that I do this year.&lt;/p&gt;
+
+&lt;h4&gt;And then within Slate is everything you do going to fall under this Users category, or are you still going to be doing &lt;a href=&quot;http://www.slate.com/blogs/xx_factor.html&quot;&gt;XX Factor&lt;/a&gt; and stuff like that?&lt;/h4&gt;
+
+&lt;p&gt;At least for now, I’m trying for it all to be Users, because it’s so natural and easy for me to have a take about feminism and women. I’m trying not to do it, like at all, for a while at least. Maybe I’ll circle back to it later, but I’m trying to force myself to have ideas about the internet.&lt;/p&gt;
+
+&lt;h4&gt;That’s interesting because part of my next question was how you ended up moving to Users; but, just watching your work, I kind of assumed that that it was a progression from XX Factor being really broad to you exploring women on the internet, and women’s experiences on the internet, and starting the transition that way. Is that right?&lt;/h4&gt;
+
+&lt;p&gt;Umm, no.&lt;/p&gt;
+
+&lt;p&gt;I mean, sort of. It was a lot more specific than that. It was actually an idea that was conceived of by my editors as something that they wanted more coverage of. And it was pretty obvious that I’d gotten kind of tired of writing about women all the time. But I think you’re right. Like, if you’ve read any of the things I’ve written in this category, a lot of them could have been written for Double X because they have some gender component to them.&lt;/p&gt;
+
+&lt;p&gt;Like, the first thing I wrote was about why suicide prevention online doesn’t adequately reach young men. It’s funny because that’s very much a story about gender, but it wouldn’t really work that well in Double X because Double X is about women even though it’s usually about, sort of, gender more widely.&lt;/p&gt;
+
+&lt;p&gt;What else have I written that’s sort of gender-y? Oh, I wrote something about the &lt;a href=&quot;http://www.slate.com/articles/technology/users/2015/04/eggplant_rising_how_the_purple_fruit_surpassed_the_banana_as_the_most_phallic.html&quot;&gt;eggplant emoji&lt;/a&gt; that’s about sex on the internet, which is something that I’ve written about for a while.&lt;/p&gt;
+
+&lt;p&gt;So, I think they saw this opportunity for me to do something that I had been doing for a while, but that was a little bit of a departure from it too.&lt;/p&gt;
+
+&lt;h4&gt;That’s interesting. I guess I kind of saw the emoji one as having to do with sex, but I also thought of it as being really similar, conceptually, to the thing you wrote about how, &lt;a href=&quot;http://www.nytimes.com/2015/03/01/magazine/when-did-youre-welcome-become-a-gloat.html?smid=tw-nytmag&amp;amp;_r=0&quot;&gt;“You’re welcome,”&lt;/a&gt; became super snarky because it was kind of about the evolution of language. It’s just that one evolved before the internet, and one evolved after.&lt;/h4&gt;
+
+&lt;p&gt;Yeah, and that one ended up being about women too. [laughs] This is actually one of the reasons that I was not really interested in writing dedicatedly about feminism anymore, or women, or whatever it was that I was writing about before. I think it’s really interesting and important for people to write about that stuff off the lady pages. You know what I mean?&lt;/p&gt;
+
+&lt;h4&gt;Off the what pages?&lt;/h4&gt;
+
+&lt;p&gt;Off the “lady pages.” Not for a female-specific audience. But, also, much of the reason I’ve been writing about that is because I’m so used to seeing things in that way. So that’s where my analysis tends to go, and it’s something I’m really trying to to work on. To expand it. But a lot of times if I need to have an interesting idea about something on the internet there’s going to be some gender component to it. For now at least&lt;/p&gt;
+
+&lt;h4&gt;Given that, where do you see Users fitting in in overall tech reporting, or even just Slate’s tech or internet culture pieces? Have you kind of identified a space that you want to carve out for yourself?&lt;/h4&gt;
+
+&lt;p&gt;That’s a great question. So, I don’t… I’m trying to figure out things that I &lt;em&gt;don’t&lt;/em&gt; write about.&lt;/p&gt;
+
+&lt;h4&gt;Sometimes that’s the easiest way. You can see something and be like, “I wouldn’t cover that,” to get down to it.&lt;/h4&gt;
+
+&lt;p&gt;So, I actually didn’t come up with this name - I’m trying to remember who at Slate came up this name, “Users.” I think it might have been &lt;a href=&quot;https://twitter.com/juliaturner&quot;&gt;Julia Turner&lt;/a&gt;, our editor in chief. But, it’s actually been really useful, because I’m trying to focus on how people actually use the internet; as opposed to, like, people who are creating the spaces on the internet, or the culture of Silicon Valley or something. I don’t write about that stuff. And I don’t write about, like, new phones or anything like that. Unless a new phone is creating a crazy new way that people have relationships with each other.&lt;/p&gt;
+
+&lt;h4&gt;Are you going to cover that heartbeat thing in the Apple watch?&lt;/h4&gt;
+
+&lt;p&gt;Umm… no. Probably not.&lt;/p&gt;
+
+&lt;p&gt;So, there are a lot of places that sort of do both of those things. &lt;a href=&quot;http://www.dailydot.com/&quot;&gt;The Daily Dot&lt;/a&gt; does those things really well, and also writes about, you know, strange things that are happening on the internet. One of the challenges that I’ve personally found in writing about this stuff is, like, writing about internet controversies. Or, like, weird places on the internet that resonate beyond themselves in some way. So it’s not just like, “weird people doing weird stuff,” or weird obsessions. [Things] that say something about how the world is changing.&lt;/p&gt;
+
+&lt;h4&gt;Do you have any favorite niche spaces right now? Anything that’s really interesting to you, or that you think is home to something new, or you can’t stop looking at?&lt;/h4&gt;
+
+&lt;p&gt;That’s a good question.&lt;/p&gt;
+
+&lt;p&gt;I don’t think - yet - that anything I’ve written about has come from me being actually personally interested in anything, or being drawn to a part of the internet, with the probable exception of the story that I wrote about &lt;a href=&quot;http://www.slate.com/articles/technology/users/2015/03/zayn_malik_quits_one_direction_directioner_conspiracy_theories_bloom_online.html&quot;&gt;One Direction conspiracy theories.&lt;/a&gt; Which is, like, a personal interest of mine. It tends to come about from just talking to people. Like, I’ll find a person - and usually it’s someone who I know who is plugged into the internet in some way that I’m not.&lt;/p&gt;
+
+&lt;p&gt;Like this guy, this wonderful guy, emailed me a few months ago, right after I had started doing this [column]. He emailed me to say that he liked my work, but that something I had written about gamergate he thought I had gotten it wrong. I had, like, misinterpreted the motivations of gamergate people. Usually, I would not respond to that email. But because I was just starting this thing I was like, “I am definitely responding to this e-mail and seeing what this guy knows about gamergate that I don’t.” And and it turns out the answer is, “a lot.” But at some point I had a conversation with him that was like, “So, even though I really appreciate you laying this out for me, I’m not interested in writing about gamergate. I find it really boring. But, maybe there are some other things that you are paying attention to on the internet that would be interesting for me. So, he’s become a really good source, just, pointing out some places where he hangs out. I’m still trying to get to that point of what they mean about, you know, humanity or whatever, but he’s been a really good source.&lt;/p&gt;
+
+&lt;p&gt;And I’m also just cravenly asking anyone if they know teenagers who will email me and tell me what they do.&lt;/p&gt;
+
+&lt;h4&gt;I always thought you were pretty plugged into that teen beat.&lt;/h4&gt;
+
+&lt;p&gt;Well, I’m like twenty-nine now. You know, I keep getting older and teenagers stay the same age. People who I might have talked to who were seventeen a few years ago aren’t teenagers anymore. They can be a good bridge to younger people, but you really have to keep getting new sources if you write about teenagers.&lt;/p&gt;
+
+&lt;h4&gt;I forgot about that. So, do you think you’re going to become the type of person that spends a lot of time in these niche sites, or is it mostly, like, an academic interest to you where people will direct you to them and you’ll look at them enough to write a story but you won’t spend a whole lot of time crawling through these communities? Or trying every new app that comes out to see what’s happening on it?&lt;/h4&gt;
+
+&lt;p&gt;Right, or will I become a part of them? Will I become so interested in the community that I become part of it? I don’t think so. I have to say that I’m not a super social person, in general.&lt;/p&gt;
+
+&lt;p&gt;I have my friends who I gchat. And I have my co-workers who I Slack with. And I have my boyfriend who I text. [But,] I don’t have a big… You pointed this out. Like, I just tweet less and less. So, I don’t think that I have the same relationship with internet communities as like a lot of people that I end up writing about.&lt;/p&gt;
+
+&lt;p&gt;As for the app stuff, it’s really hard. I don’t know how, but somehow all the P.R. people instantly figured out that I was writing about the internet now; so, every new app that comes out, I get a pitch about. And it’s, like, for the first time in my life my phone is full and I have to start deleting apps. It’s hard to know what to even spend time on because there are so many of them. Like, I got this pitch from this woman the other day who – And they have their little packet how to make it not about the app, but it makes no sense. She was like, “I have this guy who wants to talk about how emojis are too limited, and they’re going to limit our, you know, emotional capabilities in conversation.” But, he really made his app where you can, like, put graffiti on photos.&lt;/p&gt;
+
+&lt;p&gt;And, it doesn’t really make sense, but, also, he designed &lt;a href=&quot;https://itunes.apple.com/us/app/koi-pond/id286420263?mt=8&quot;&gt;Koi Pond&lt;/a&gt;, which is one of my favorite apps. It’s, like, for relaxation. This is showing you how old I am; because, I don’t want the graffiti app, I want the relaxation app. There are fish swimming in a pond, and you can move little things and it makes little rippling water noises and the fish scatter. And they slowly come back. I’m sort of interested in that space, so I might end up interviewing him sometime in the future.&lt;/p&gt;
+
+&lt;h4&gt;[At this point I started talking about &lt;a href=&quot;http://motherboard.vice.com/read/this-adorable-japanese-cat-game-is-everywhere-and-we-tried-to-figure-it-out&quot;&gt;that cat app&lt;/a&gt;, and I’ve decided to spare you all from having to read about how I can’t make my cats happy.]&lt;/h4&gt;
+
+&lt;h4&gt;For that stuff, it seems like you would kind of wait until something’s mature enough, and then you’ll hear about people are using it in kind of a new way. You don’t really want to cover a brand new app, right? Like, you to see how people have kind of incorporated it into their lives.&lt;/h4&gt;
+
+&lt;p&gt;Unless, I mean, so the idea of having a column, I guess, is that it’s about you having an idea about something. So, I guess I can see… maybe inspiration will strike with something new, but it hasn’t happened yet.&lt;/p&gt;
+
+&lt;h4&gt;Oh yeah, since it’s a column, how often do you have to write it? I’ve heard some criticism of columns from a few people that the rate you have to produce it just ensures that you’re going to be at some point like, “Oh God, I just need anything!” And it sets you up for embarrassing retrospectives later.&lt;/h4&gt;
+
+&lt;p&gt;Yeah, like I’ll write something offensive? Yeah, uhhh, I don’t know. I mean, it’s interesting; because, when I was doing the Double X stuff, there were some times when I was just blogging where I was like, “Here’s a video that is gender related.” But there’s actually not a lot of news in the “woman space,” you know? So, everything that I was writing was something that had some kind of take on it. And sometimes it wasn’t even new. And sometimes, like, it was bad. And sometimes it wasn’t bad. And I think the fast pace sort of forced me to do some things I wouldn’t have done otherwise that ended up being good. And, also, the opposite happened sometimes.&lt;/p&gt;
+
+&lt;p&gt;One of the things that I’m hoping to be better at as a person - as a journalist – is things that are longer than the column length. So, like, a feature length thing, I think is more difficult for me to wrap my mind around about what ideas should be that length and have that amount of investment in them. I’m hoping to figure that out.&lt;/p&gt;
+
+&lt;h4&gt;One thing I feel kind of comes through in some of your posts, I guess in general and from Users, is that technology is kind of letting us work through things that we’ve always had to work through, but a little bit more publicly. Or, at least maybe more observably. I don’t know if it’s right to say it’s public if it’s anonymous or semi-anonymous.&lt;/h4&gt;
+
+&lt;h4&gt;How do you think that technology has helped make behaviors and urges more visible?&lt;/h4&gt;
+
+&lt;p&gt;That’s a really difficult question. I tend to agree with &lt;a href=&quot;http://www.washingtoncitypaper.com/blogs/sexist/author/ahess/&quot;&gt;Nathan Jurgensen&lt;/a&gt;. Do you know who he is? He’s a sociologist who writes about the internet, and he has promoted this idea
+called “digital dualism” which [debunks] the idea that online and offline lives are separate things.&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to believe that, as I do, and also think that there’s anything new and interesting in writing about different technologies. And some people, I think, do that really well. And I don’t think I’m really one of those people. So the things that I often end up writing about – that are about the culture of the internet – they don’t really… They don’t tend to interact much with how it’s different than it used to be. Do you know what I mean?&lt;/p&gt;
+
+&lt;p&gt;It’s more like – and this is not something I’ve actually thought about, but I’m articulating just now – it’s more like reporting on the internet like it’s a place. And it doesn’t tend to really specifically have a commentary or a critique about how it’s different from before we had the internet or how it’s different when we’re not on the internet much at all. I guess. Maybe I’m wrong. Am I wrong?&lt;/p&gt;
+
+&lt;h4&gt;I don’t think so. I mean, it’s an interesting question. It kind of comes up in the piece about &lt;a href=&quot;http://www.slate.com/articles/technology/users/2015/03/lacey_spears_might_have_had_munchausen_by_proxy_by_internet_are_internet.html&quot;&gt;diagnosing mental disorders&lt;/a&gt; and whether internet [disorders] are different or do they just allow us different manifestations of existing problems? One thing is it seems like things happen faster on the internet because we always have access to it. Is the fact that behaviors are accelerated novel or not? Maybe that’s a significant question?&lt;/h4&gt;
+
+&lt;p&gt;Yeah. I think you’re right, and I don’t know. That’s a good example of a thing that I wrote about, “whether disorders are different online.” Because that’s like a classic Amanda Hess thing where, like, I don’t say whether they are or not, and I don’t know.&lt;/p&gt;
+
+&lt;p&gt;I don’t know if they’re different.&lt;/p&gt;
+
+&lt;p&gt;I know that one guy thinks they are and one guy thinks they’re not, really. But I have no idea if we should see them as different things. But, I do agree with you that it’s a really interesting question. I’m probably not going to answer it. But hopefully I can illuminate the question in some way. That’s usually my goal.&lt;/p&gt;
+
+&lt;h4&gt;I think that makes sense. I think that’s kind of like the best anybody can do a lot of the time.&lt;/h4&gt;
+
+</content>
+<summary>With this interview I’m taking a bit of a departure from the site’s premise since Amanda’s new column at Slate is her real job. Who cares though, because Amanda is great!</summary>
+</entry>
+<entry>
+<title>Joanne McNeil - Emotional Labor Extension</title>
+<link href="http://ihadtendollars.com/interviews/joanne-mcneil.html" rel="alternate" type="text/html" title="Joanne McNeil - Emotional Labor Extension" />
+<published>2015-03-21T00:00:00-07:00</published>
+<updated>2015-03-21T00:00:00-07:00</updated>
+<id>http://ihadtendollars.com/interviews/joanne-mcneil</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/joanne-mcneil.html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/jomc&quot;&gt;Joanne McNeil&lt;/a&gt;’s Emotional Labor Extension is a bit different than the projects I normally post about here because it’s already well documented. She wrote a &lt;a href=&quot;https://medium.com/message/canned-email-eb6f4ba843d9&quot;&gt;fantastic post about it&lt;/a&gt; that resonated with me, and I think will resonate with anyone who sends email even semi-regularly. Reading about her anxiety sending personal emails and trying to compensate for the form’s limitations in expression I was reminded of the time a coworker put five exclamation points in a reply-all email to our CEO and a collegue stopped by her desk and said, “Dang, you sounded maaaad.”&lt;/p&gt;
+
+&lt;p&gt;I also know the feeling of disappointment and worry that comes from looking at a paltry line or two in gmail’s “compose” window, wondering why my letter looks so bad. I was having such a hard time with the disconnect between how terrible my emails sounded to my ears and how much I felt for their recipients that I actually started a concerted effort to improve my letter writing with my friend Ryan (of &lt;a href=&quot;http://ihadtendollars.com/interviews/ryan-wolf.html&quot;&gt;Is Ryan At The Office&lt;/a&gt; fame) where we vowed to write substantial letters to one another. I found writing decent letters in an age of ubiquitious access (including being able to check whether someone is at their office whenever I felt like it) that I proposed we both buy and read a collection of letters between Paul Auster and J.M. Coetzee so we could have something to fall back on for discussion that we weren’t talking about anywhere else. I think it helped, and I ended up really valuing those letters, but I still feel like my emails end up being staid and mechanical far too often.&lt;/p&gt;
+
+&lt;p&gt;Joanne’s Emotional Labor Extension is a great project because it takes a problem we’re so familiar with that it’s just become a part of daily life, and makes it novel again so we can look at it with fresh eyes.&lt;/p&gt;
+
+&lt;p&gt;Okay, Joanne, now.&lt;/p&gt;
+
+&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
+
+&lt;p&gt;I am a &lt;a href=&quot;http://www.joannemcneil.com/essays/&quot;&gt;writer&lt;/a&gt; and most of my essays appear on Medium’s &lt;a href=&quot;https://medium.com/message/&quot;&gt;The Message&lt;/a&gt; I just completed a residency at Eyebeam in NYC, where I worked on this project and hosted a series of events called &lt;a href=&quot;https://soundcloud.com/eyebeamnyc/sets/new-topics-in-social-computing&quot;&gt;New Topics in Social Computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;What is the Emotional Labor email extension?&lt;/h4&gt;
+
+&lt;p&gt;It’s a &lt;a href=&quot;https://chrome.google.com/webstore/detail/gmail-emotional-labor/foonnlnklmnakfifejjjfhchclfkgkgh&quot;&gt;Chrome extension that works for Gmail&lt;/a&gt;. It adds a friendly greeting, changes periods for multiple exclamation marks and swaps out words like “organization” “schedule” and “work” with things like “jk” or “much love.”&lt;/p&gt;
+
+&lt;p&gt;I began testing it on famous emails that likely were sent or received through Gmail. So the first examples were on an email from Keith Alexander to Eric Schmidt, an email from Schmidt to Steve Jobs, and the “God’sApstls” threat to Sony executives. A &lt;a href=&quot;https://www.flickr.com/photos/eyebeam/16419413486/&quot;&gt;video of these emails&lt;/a&gt; before-and-after using the Emotional Labor extension played in the Eyebeam Annual Showcase exhibition.&lt;/p&gt;
+
+&lt;h4&gt;Can you describe the logic behind how the extension punches up the emails? Does every period turn into exclamation points? How does it decide where to insert smiley faces?&lt;/h4&gt;
+
+&lt;p&gt;Every comma is replaced with a period and a smiley face follows that. That makes some sentences choppy and nonsensical. Oh well. The text that is swapped in is greeting card treacly like “dear heart” and “hearts and stars.” And yes, every period turns to three exclamation marks.&lt;/p&gt;
+
+&lt;p&gt;I made it look fake because otherwise I might start using it. It’s too tempting to have this extension that opens up demurely “I hope you are doing well. Excited to hear more about your projects! [blah blah…]”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/joanne/emotional-labor.gif&quot;&gt;&lt;img height=&quot;313&quot; width=&quot;500&quot; src=&quot;/images/posts/joanne/emotional-labor.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;You wrote that you made it this way to draw attention to the fact that you find this type of interaction exhausting. Did you find that making the extension helped? Was posting about it and getting your frustrations on the record cathartic at all?&lt;/h4&gt;
+
+&lt;p&gt;Sometimes I will search my inbox for sentences like “I’ve been thinking of you” and cringe at the number of botched attempts at persuasion, flirtation, and/or forced kindness in what is now over ten years of messages.&lt;/p&gt;
+
+&lt;p&gt;And I was thinking about this when a good friend’s wife was in the hospital and I was trying hard to send an email with positive vibes without leaning on weak tea sympathy cliches like “you’re in my thoughts.”&lt;/p&gt;
+
+&lt;p&gt;There’s no word like “tongue-tied” when it comes to email, but it is a pretty common predicament. In person, you can smile a certain way, or you can laugh or cry with someone. This project helped me communicate some of my frustration with the limits to language over the internet.&lt;/p&gt;
+
+&lt;h4&gt;What was making it like? Were you trying to do anything for the first time in order to make it, and did you learn anything that surprised you?&lt;/h4&gt;
+
+&lt;p&gt;I am not much of a coder and I thought the extension would be much harder to build than it actually was, so the biggest surprise was that I could do it. Well, with help. I mentioned my idea for the project to &lt;a href=&quot;http://lauren-mccarthy.com/&quot;&gt;Lauren McCarthy&lt;/a&gt; and she invited me to her &lt;a href=&quot;http://www.creativeapplications.net/reviews/appropriating-interaction-technologies-social-hacking-at-itp/&quot;&gt;Appropriating Interaction Technologies&lt;/a&gt; class at ITP with &lt;a href=&quot;http://kylemcdonald.net/&quot;&gt;Kyle McDonald&lt;/a&gt;. The code began as a quick case study in their class on browser extensions.&lt;/p&gt;
+
+&lt;p&gt;I have a few ideas related to the project and will keep experimenting with it. Right now, I’m learning more about Markov text generators and other ways to automate language.&lt;/p&gt;
+
+&lt;h4&gt;You mention that, “What was once the concern of professional writers is now a burden we all share, as we communicate all day long over email and texts.” But correspondence has been a part of normal life &lt;a href=&quot;http://geekologie.com/2015/02/poor-service-has-existed-forever-tablet.php&quot;&gt;for a long time.&lt;/a&gt; Do you think the simple availability of our partners, or the ease of response, has made it harder to compose a longer message? Do you think the form of a “letter” has a place in our daily lives anymore?&lt;/h4&gt;
+
+&lt;p&gt;Probably my level of comfort with someone is revealed in the informality of an email — lowercase letters, run-on sentences, weird mixed metaphors, etc. But the letter still has a place in my life. I’m lucky to have people in my life who put great care into it. I find that kind of writing much easier and that it comes more naturally than the kind of stuffy formality with professional contacts.&lt;/p&gt;
+
+&lt;h4&gt;Since you made the extension, have your letters come under greater scrutiny from your pen pals and colleagues?&lt;/h4&gt;
+
+&lt;p&gt;For a week, I was even more anxious about sounding nice than normally. But since then, I’ve dropped a lot of affectations. I am guessing people now cut me a lot more slack after creating a project/writing an essay about how much emotional work goes into trying hard to not offend people over email.&lt;/p&gt;
+</content>
+<summary>Joanne McNeil’s Emotional Labor Extension is a bit different than the projects I normally post about here because it’s already well documented. She wrote a fantastic post about it that resonated with me, and I think will resonate with anyone who sends email even semi-regularly. Reading about her anxiety sending personal emails and trying to compensate for the form’s limitations in expression I was reminded of the time a coworker put five exclamation points in a reply-all email to our CEO and a collegue stopped by her desk and said, “Dang, you sounded maaaad.”</summary>
+</entry>
+<entry>
+<title>Katie Rose Pipkin &amp;amp; Loren Schmidt - infloresence.city</title>
+<link href="http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html" rel="alternate" type="text/html" title="Katie Rose Pipkin &amp; Loren Schmidt - infloresence.city" />
+<published>2015-02-26T00:00:00-08:00</published>
+<updated>2015-02-26T00:00:00-08:00</updated>
+<id>http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/katie-rose-pipkin-and-loren-schmidt.html">&lt;h4&gt;Who are you and what do you do for a living&lt;/h4&gt;
+
+&lt;p&gt;k: my name is &lt;a href=&quot;https://twitter.com/katierosepipkin&quot;&gt;katie rose pipkin&lt;/a&gt;. i string together a system of odd jobs and incidental work, including; teaching, gallery sales, slinging esoterica, taking commissioned work, web development, public art projects, small grants, murals, and a studio sublet in exchange for my curatorial role at an austin-based arts space. i am a series of symbols that looks like a field of flowers.&lt;/p&gt;
+
+&lt;p&gt;l: i’m &lt;a href=&quot;https://twitter.com/lorenschmidt&quot;&gt;loren schmidt&lt;/a&gt;. i work on various digital art projects, including games. i do various odd jobs to help pay the bills, including contract art and programming for other folks’ projects. i also recently started a patreon, which will hopefully help me focus more on my own projects:
+&lt;a href=&quot;patreon.com/vacuumflowers&quot;&gt;patreon.com/vacuumflowers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Could you briefly describe &lt;a href=&quot;http://inflorescence.city/&quot;&gt;inflorescence.city&lt;/a&gt;? What was the catalyst for the project?&lt;/h4&gt;
+
+&lt;p&gt;k: infloresence.city is a small journal about a city generated anew every time it is visited.&lt;/p&gt;
+
+&lt;p&gt;l: we started with the idea of doing something composed of a number of fragments, and the idea of visiting a city from multiple perspectives arose from that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/inflorescence/inflorescence1.png&quot;&gt;&lt;img height=&quot;444&quot; width=&quot;500&quot; src=&quot;/images/posts/inflorescence/inflorescence1.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;How did you make it / what’s it built with?&lt;/h4&gt;
+
+&lt;p&gt;k: it is almost entirely built in javascript, with html5 canvas as platform for the illustrations. there are also a few programs in ruby (some work there done by the ever-talented &lt;a href=&quot;https://twitter.com/zonodonoceros&quot;&gt;@zonodonoceros&lt;/a&gt;), and a small twine game.&lt;/p&gt;
+
+&lt;h4&gt;What were the biggest challenges for infloresence.city and how did you get around them?&lt;/h4&gt;
+
+&lt;p&gt;l: we wanted to make sure the project was accessible. it can be a bit disorienting to come across a wall of generated text and not know what’s going on. i think the way this piece is broken up into diverse segments helps a lot, as does the fact that it’s so visual. it’s also important that everything in the project is coming from a very personal place: people can sense that, and it makes it easier to connect and let it in. we also knew we needed to communicate the nature of the piece to people, so we were careful to present the basics whenever talking about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/inflorescence/inflorescence2.png&quot;&gt;&lt;img height=&quot;427&quot; width=&quot;500&quot; src=&quot;/images/posts/inflorescence/inflorescence2.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;When we talked earlier, you mentioned this started as a &lt;a href=&quot;http://www.theverge.com/2014/11/25/7276157/nanogenmo-robot-author-novel&quot;&gt;nanogenmo&lt;/a&gt; project. What about it made you think it was something that should be worked on outside of that event?&lt;/h4&gt;
+
+&lt;p&gt;k: in short, we ran out of time! i don’t think it is an uncommon sentiment when working on large projects within short deadlines, but the place it was by december 1st was fairly shallow of the place we hoped to leave it.&lt;/p&gt;
+
+&lt;p&gt;l: that and the pile of ideas we came up with for future projects…&lt;/p&gt;
+
+&lt;p&gt;k: bless scope creep.&lt;/p&gt;
+
+&lt;h4&gt;Inflorescence.city is generated anew every time the page loads. Maybe I didn’t visit it enough times, but it seems like certain parts are always the same. Are pieces hard coded? If so, how did you decide what to compose yourself and what to have generated?&lt;/h4&gt;
+
+&lt;p&gt;k: the pieces that are hard-coded (the news, in particular) are generated from ruby programs that “i was going to get working in the browser”. at this point i think i may offer them for a download instead? or perhaps their structure will be re-used for a slightly more elegant version of the same idea. for example, the section with the war-words to flowers (the news), really should be a web portal or browser extension. it is on my vast to-do list.
+note: since i wrote this, i published that chrome extension; &lt;a href=&quot;https://chrome.google.com/webstore/detail/rose-colored-window/djlhhopgmokkhnljjlkclknddoododoc/&quot;&gt;it is available for free here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/inflorescence/inflorescence3.png&quot;&gt;&lt;img height=&quot;444&quot; width=&quot;500&quot; src=&quot;/images/posts/inflorescence/inflorescence3.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;What do you think the generated text adds to the experience for the reader? For instance, the name of the park with the gravestones, and even the city itself, vary, but a reader might only visit once and wouldn’t pick up on it. Does your ideal reader visit more than once? Is the interesting part for you the potential for what could happen?&lt;/h4&gt;
+
+&lt;p&gt;l: for me, the independence of the process is important. not just knowing that it will be different each time, but having a sense of the software as a creative force with its own notions and tendencies.&lt;/p&gt;
+
+&lt;p&gt;k: i am very interested in making individual experiences or artworks for every person who chooses to engage. this iteration of this project used random seed variables to produce that effect- going forward, i am exploring ways to generate work uniquely, but not /randomly/- tracking mouse patterns, browser version, timestamp data, the world of silent information that is unique to each of us on the internet. perhaps this particularization isn’t evident to every visitor, but I hope that it becomes important to those who engage in that way.&lt;/p&gt;
+
+&lt;p&gt;l: for future work, i’m really interested in doing things which are location and time specific!&lt;/p&gt;
+
+&lt;h4&gt;I feel like I see something about algorithms having a point of view quite a bit in my Twitter feed. I feel like that is easier to unpack when I’m thinking about algorithms used in products, but I was wondering if you could talk a bit about what it means to write an algorithm for artistic purposes.&lt;/h4&gt;
+
+&lt;p&gt;l: i think ascribing intent to algorithms is shorthand, a way for humans to be loving and respectful within a human vocabulary. pure algorithms do, on some level, exist outside of human invention. but it’s difficult to draw a line and separate the shape contributed by the computer from that contributed by the human. there is so much crosstalk between humans and computers. our monitors are shaped to fit human eyes, our cultures are reflected in programming languages.&lt;/p&gt;
+
+&lt;p&gt;k: writing an algorithm to produce artworks is sort of like making ten thousand individual pieces at once. the practice of defining rulesets to make the kind of work that you wish to see is similar, but not identical to, making the artwork alone would have been. it is sort of a reversed-process; it takes a broad-scope view of the /what/ those defining characteristics are, how they fit together, what makes them compelling- as opposed to the process of finding an individual feature that moves you, and later seeing that it fits in with all of these others.&lt;/p&gt;
+
+&lt;h4&gt;There are quite a few striking visualizations that get generated and I’m curious what it means in the afterword when you write that these are instances where the “text takes visual form”.&lt;/h4&gt;
+
+&lt;p&gt;l: the illustrator we used for this project is an effort at translating text into a meaningful visual form. the drawings are made by doing one to one translations of parts of the text. the letter q might mean “turn left, then go forward”&lt;/p&gt;
+</content>
+<summary>Who are you and what do you do for a living</summary>
+</entry>
+<entry>
+<title>Jessica Lord - Sheetsee</title>
+<link href="http://ihadtendollars.com/interviews/jessica-lord.html" rel="alternate" type="text/html" title="Jessica Lord - Sheetsee" />
+<published>2014-12-04T00:00:00-08:00</published>
+<updated>2014-12-04T00:00:00-08:00</updated>
+<id>http://ihadtendollars.com/interviews/jessica-lord</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/jessica-lord.html">&lt;p&gt;I met Jessica at &lt;a href=&quot;http://tacoconf.com/&quot;&gt;Taco Conf&lt;/a&gt; when she was at Code for America, and I remember being really inspired by her work as well as the passion she had for it. One of the things I like about Jessica’s work is that you get the sense that she really cares about helping people solve problems, and goes about it in a way that gets them started on a track where they can keep improving their solutions. As you’ll see, Sheetsee lowers the barrier for visualizing data using tools people are already familiar with. Her project &lt;a href=&quot;https://github.com/jlord/git-it&quot;&gt;Git-it&lt;/a&gt; is an application that runs in your terminal to help you learn how to use git and github.&lt;/p&gt;
+
+&lt;p&gt;I think a good way to put it is that Jessica makes software that feels welcoming. I look at it and feel comfortable starting something new.&lt;/p&gt;
+
+&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
+
+&lt;p&gt;I’m &lt;a href=&quot;http://twitter.com/jlord&quot;&gt;Jessica Lord&lt;/a&gt; and I’m a front-end developer and designer at &lt;a href=&quot;http://github.com/jlord&quot;&gt;GitHub.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Can you describe &lt;a href=&quot;http://jlord.github.io/sheetsee.js/&quot;&gt;Sheetsee&lt;/a&gt; really quick?&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jlord.github.io/sheetsee.js/&quot;&gt;Sheetsee.js&lt;/a&gt; is a client-side library designed to be connected to a Google Spreadsheet (using &lt;a href=&quot;https://github.com/jsoma/tabletop&quot;&gt;Tabletop.js&lt;/a&gt;) and turning that data into maps, charts and tables—and hopefully then lowering the barrier to entry for having a simple website with visualizations and a simple database.&lt;/p&gt;
+
+&lt;h4&gt;Where did you get the idea for Sheetsee?&lt;/h4&gt;
+
+&lt;p&gt;The idea for Sheetsee came &lt;a href=&quot;https://www.youtube.com/watch?v=Q76bKK229aM&quot;&gt;during my fellowship year at Code for America&lt;/a&gt;. I was working with the area I grew up in actually, Macon, Georgia, and the budget office wanted to share how they were spending some money the city would be getting through a bond referendum.&lt;/p&gt;
+
+&lt;p&gt;I’d just come from 3 years in working for the City of Boston and had taken from that a desire to incorporate some of the useful web services we take for granted, like Google apps, into city government. I also believed that departments should be able to manage and update content on their websites themselves and that we could reduce the bottleneck of tasks a city IT department is asked to handle.&lt;/p&gt;
+
+&lt;p&gt;So with that I wanted to use a Google spreadsheet as a database. It was free, didn’t need installing and it wasn’t a new interface to learn, it was a spreadsheet and people were familiar with that. I wanted to make something that was easy to set up with minimal HTML and JS knowledge and even easier to maintain by just editing cells on a spreadsheet.&lt;/p&gt;
+
+&lt;h4&gt;What are some of your favorite uses for Sheetsee? Who has done cool things with it or used to particularly good effect?&lt;/h4&gt;
+
+&lt;p&gt;Yeah! Some libraries have used it, people have used it to crowdsource information through spreadsheets. Most of the time I don’t know when people are using Sheetsee unless they tell me. Every now and then I meet someone randomly and they say they’ve used it or even been paid to use it and that’s neat!&lt;/p&gt;
+
+&lt;p&gt;People have been forking some of the Sheetsee-based projects I have on GitHub and reworking them for what they want. That’s another neat thing about Sheetsee and the fact that GitHub will host website for every repository, you can fork an existing Sheetsee-based project (or any for that matter!), copy the header cells on its spreadsheet, paste them into a new spreadsheet and then edit the spreadsheet url on your fork of the project (which you can do online with GitHub, without Git or a text editor installed). Then you’ll have a website live and hosted connected to data that’s yours. I really think the fork and GitHub Pages tools combined are really powerful and put together a page, &lt;a href=&quot;http://jlord.us/fork-n-go/&quot;&gt;Fork-n-go&lt;/a&gt;, to list some examples.&lt;/p&gt;
+
+&lt;h4&gt;Is Sheetsee done? Is there anything you would like to add to it or clean up?&lt;/h4&gt;
+
+&lt;p&gt;No way! There are lots of things I’d love to see refined or added. I try to work on it as much as I can, but I am but one person (so, pull requests welcome!). I’d like to make the sorting not just work for the alphabet, I’d like to add marker clustering to maps, it needs tests! I’d love to see more fork-n-go projects built with Sheetsee, and it needs tests! And whatever else is open in the Issues for the repository!&lt;/p&gt;
+</content>
+<summary>I met Jessica at Taco Conf when she was at Code for America, and I remember being really inspired by her work as well as the passion she had for it. One of the things I like about Jessica’s work is that you get the sense that she really cares about helping people solve problems, and goes about it in a way that gets them started on a track where they can keep improving their solutions. As you’ll see, Sheetsee lowers the barrier for visualizing data using tools people are already familiar with. Her project Git-it is an application that runs in your terminal to help you learn how to use git and github.</summary>
+</entry>
+<entry>
+<title>Amber Gordon - Femsplain</title>
+<link href="http://ihadtendollars.com/interviews/amber-gordon.html" rel="alternate" type="text/html" title="Amber Gordon - Femsplain" />
+<published>2014-11-13T00:00:00-08:00</published>
+<updated>2014-11-13T00:00:00-08:00</updated>
+<id>http://ihadtendollars.com/interviews/amber-gordon</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/amber-gordon.html">&lt;p&gt;I dislike the term “internet savvy” because it doesn’t really tell me anything – There are just so many parts of the internet and so many types of behaviors that take place on it – but if there’s anyone it’s safe to say is internet savvy, I think it would probably be Amber.&lt;/p&gt;
+
+&lt;p&gt;I emailed Amber these questions before the site even launched because I knew she would bring her own perspective to what a platform for women should be and knock it out of the park. I wasn’t exactly sure what to expect, but it has been great watching &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; unfold over the couple of weeks. For one thing, Femsplain fits Tumblr like a glove. I really like how they reblog their writers and publish pull quotes (the type of thing typically shared on Tumblr anyway) as their own separate posts. Sometimes the line between the &lt;a href=&quot;http://femsplain.tumblr.com/&quot;&gt;Femsplain Tumblr&lt;/a&gt; and main site kind of get blurred for me a little bit, but that’s interesting too. And the topic of “firsts” is broad enough that there is a breadth of different subjects and voices represented. In less than a month a place holder landing page has turned into what feels like a vibrant community space.&lt;/p&gt;
+
+&lt;p&gt;Okay, Amber now&lt;/p&gt;
+
+&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
+
+&lt;p&gt;I’m &lt;a href=&quot;http://twitter.com/missambear&quot;&gt;Amber Gordon&lt;/a&gt;, 24 years old. Lover of coffee, content, and Internet culture. I live in a sublet apartment in Chelsea, NYC. My hobbies include discovering weird online communities, playing online games when I have time, and learning as much as I can about whatever excites me. For a living I’m a Creative Strategist at &lt;a href=&quot;http://tumblr.com&quot;&gt;Tumblr&lt;/a&gt;. It’s really a fancy title, but what it means is I ideate creative content solutions and consult top 100 brands on how best to use the Tumblr platform.&lt;/p&gt;
+
+&lt;h4&gt;What is &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt;?&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; is a publishing platform for anyone who identifies as a woman to contribute any type of content fitting the assigned month’s theme. We also encourage anyone to read and support the voices that have contributed.&lt;/p&gt;
+
+&lt;h4&gt;Did you look to other publications or writers for inspiration? I initially thought of Lady Bits when I heard about Femsplain, but it’s not really centralized; and the monthly theme and open call made me think about 24 Hour Mag, but you’ll be releasing content regularly instead of in issues.&lt;/h4&gt;
+
+&lt;p&gt;I certainly listed out publications and writers I admired, I also listed publications I didn’t want to imitate for x and y reasons. Three of those [prior] publications were &lt;a href=&quot;http://www.rookiemag.com/&quot;&gt;Rookie Mag&lt;/a&gt;, &lt;a href=&quot;http://the-toast.net/&quot;&gt;The Toast&lt;/a&gt;, and &lt;a href=&quot;http://thehairpin.com/&quot;&gt;The Hairpin&lt;/a&gt;. More importantly, two writers who’ve inspire me and I greatly admire are &lt;a href=&quot;https://twitter.com/jazzedloon&quot;&gt;Jazmine Hughes&lt;/a&gt; (Contributing Editor at The Hairpin) and &lt;a href=&quot;https://twitter.com/jessicakroy&quot;&gt;Jessica Roy&lt;/a&gt; (Senior Writer at New York Mag). Both are incredibly smart, funny, and just really good women, whom without knowing I’m doubtful I’d have the courage to launch &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;How did you settle on the idea of themed months?&lt;/h4&gt;
+
+&lt;p&gt;The themed months idea came from being stumped on, funny enough, which emoji categories we wanted to have. The emojis made it through to the launch but we decided against the traditional categories so that our contributors wouldn’t feel obligated to pick a specific one to write about. We’ve also made it so that the themes are broad enough that way anyone can create something with the theme loosely in their mind.&lt;/p&gt;
+
+&lt;h4&gt;It seems like you’ve put a lot of effort into emphasizing that Femsplain is a place for any woman to be heard. The submission guidelines are quite open, even allowing for screenshots of text threads. I was wondering if you’ve struggled at all between maintaining quality and making sure people who might not normally have a chance to be heard, or aren’t as experienced writing, still get included.&lt;/h4&gt;
+
+&lt;p&gt;So far the quality of the pieces we’ve received are incredible. I honestly didn’t know what to expect from the open submissions because honestly I didn’t know if anyone would contribute. At this date we’ve filled our content calendar for the month of November, 3 pieces per day, and they’re all insanely good. They feel so authentic and meaningful, every single one of them. You can feel how real emotions went into every piece, even the ones meant to be comical.&lt;/p&gt;
+
+&lt;p&gt;Of course we’ve gotten a fair amount of inquiries on sharing Tinder stories and to “maintain a quality” to the site we’ve just asked those women to still contribute but consider a different story. We don’t want to turn anyone who wants to share something away, and they understand.&lt;/p&gt;
+
+&lt;h4&gt;What do you think the biggest opportunity for Femsplain is? Like, what is the impact you’d most like to have?&lt;/h4&gt;
+
+&lt;p&gt;My vision for &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; has become harder and harder to talk about as each day passes. Every day something amazing happens that I would have never dreamed would and it’s so overwhelming. Everyone is so willing to offer their help, women and men. A great example of that is the day Femsplain launched, I was having site load issues because of the volume of people visiting the site. Someone on Twitter, who’m I hadn’t known till he tweeted at me asking if I needed help showed me how to fix the issues I was having over GChat. The other day one woman donated an unnecessarily large amount of money towards the launch party we’re having on the 21st. I have an entire volunteer staff of 17 women, editors, contributors, and one fantastic person who comes over my house every Sunday for the past few weeks to help me with anything I’m behind on.&lt;/p&gt;
+
+&lt;p&gt;I went off on a huge tangent, but really this is what my hopes are. We all come together to build a positive, supportive community that feels real. Like you mentioned, there really is a lack of visibility into what women go through everyday. If we can talk about our problems, triumphs, fears, and passions in a safe space and create thoughtful and educated conversations from them that’s a start.&lt;/p&gt;
+
+&lt;p&gt;Eventually I’d love to turn &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; into something bigger, but right now I’m focused on building and spreading awareness.&lt;/p&gt;
+
+&lt;h4&gt;Me again. Thanks Amber! Here are a few of my favorite pieces on Femsplain right now if you’re interested, dear spirited reader.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://femsplain.com/everyone-on-tinder-is-my-boyfriend/&quot;&gt;Everyone On Tinder Is My Boyfriend&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://femsplain.com/stop-giving-marketing-agencies-credit-that-the-fangirls-deserve/&quot;&gt;Stop Giving Marketing Agencies Credit That The Fangirls Deserve&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://femsplain.com/the-lost-art-of-making-out/&quot;&gt;The Lost Art Of Making Out&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+<summary>I dislike the term “internet savvy” because it doesn’t really tell me anything – There are just so many parts of the internet and so many types of behaviors that take place on it – but if there’s anyone it’s safe to say is internet savvy, I think it would probably be Amber.</summary>
+</entry>
+</feed>
