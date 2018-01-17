@@ -3,9 +3,73 @@
 <generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 <link href="http://ihadtendollars.com/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://ihadtendollars.com/" rel="alternate" type="text/html" />
-<updated>2017-09-30T13:03:04-07:00</updated>
+<updated>2018-01-16T19:23:09-08:00</updated>
 <id>http://ihadtendollars.com/</id>
 <title>I Had Ten Dollars</title>
+<entry>
+<title>Donald Hanson - Permanent Redirect</title>
+<link href="http://ihadtendollars.com/interviews/donald-hanson.html" rel="alternate" type="text/html" title="Donald Hanson - Permanent Redirect" />
+<published>2018-01-10T00:00:00-08:00</published>
+<updated>2018-01-10T00:00:00-08:00</updated>
+<id>http://ihadtendollars.com/interviews/donald-hanson</id>
+<content type="html" xml:base="http://ihadtendollars.com/interviews/donald-hanson.html">&lt;p&gt;About a week ago my girlfriend watched me click on a link over and over again for several minutes. I thought I saw her re-evaluating some life decisions when I said “I’m getting closer” despite the fact that nothing on the page seemed to change. Once I finally showed her what I’d been working towards it was unmistakable. And yet, I was truly pleased. Seeing the trail of digital breadcrumbs leading me to Donald Hanson’s &lt;a href=&quot;http://permanent-redirect.xyz&quot;&gt;elusive art page&lt;/a&gt; was low key exciting, and I thought the concept was really fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/permanent-redirect/permanent-redirect.png&quot;&gt;&lt;img src=&quot;/images/posts/permanent-redirect/permanent-redirect.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
+
+&lt;p&gt;I’m a new media artist and freelance web developer in Oakland California. I spend about half my time working on client projects and the rest working on personal projects. This year I’m doing 52 weeks of media art projects, and Permanent Redirect was the first one.&lt;/p&gt;
+
+&lt;h4&gt;What is &lt;a href=&quot;http://permanent-redirect.xyz&quot;&gt;Permanent Redirect&lt;/a&gt;?&lt;/h4&gt;
+
+&lt;p&gt;It’s a net art piece that moves to a new URL every time someone views it. But it also leaves a link to its new location, so you can follow the links to eventually arrive at the art piece. It has resulted in a very long chain of nearly identical pages. It was intended to make the artwork harder and harder to access.&lt;/p&gt;
+
+&lt;h4&gt;How’d you get the idea?&lt;/h4&gt;
+
+&lt;p&gt;I’ve been thinking a lot lately about how the traditional art market is different from how digital artwork is valued. There’s a whole generation of digital artists who’s work gets endlessly replicated, driving the value down. There’s no sense of urgency in seeing a digital artwork when it’s free and available to everyone all the time. I wanted to create an experiment that introduced some kind of scarcity into a digital artwork.&lt;/p&gt;
+
+&lt;h4&gt;What’s it built with?&lt;/h4&gt;
+
+&lt;p&gt;Nothing special. Just PHP and a MySQL database for the hit counts on each page. I initially made the pages contain their own hit counts, and had each page modify itself when it was viewed. That didn’t work out so well when multiple people were viewing pages at the same time. And yes, each redirect page is a unique file on my server.&lt;/p&gt;
+
+&lt;h4&gt;Is there anything you’d like to improve or change?&lt;/h4&gt;
+
+&lt;p&gt;I would like to find a way to prevent bots from pushing the art along. I’ve been blocking IPs when I see their number of requests skyrocket, but ideally this would be automated. Additionally, the final number on the art page became really inaccurate and inflated once bots started hitting the art. I would have wanted the number to reflect unique visitors to the page, rather than just the number of hits to the page.&lt;/p&gt;
+
+&lt;h4&gt;What was the hardest part of the project?&lt;/h4&gt;
+
+&lt;p&gt;Keeping the thing online when people were clicking as fast as they could. This was still in the beginning when I was using self-modifying pages, so they kept getting truncated and endless loops would emerge.&lt;/p&gt;
+
+&lt;p&gt;Also deciding what I wanted to be at the end. The experiment is really about the way the piece moves, and less about what is at the end.&lt;/p&gt;
+
+&lt;h4&gt;What was the “easiest” part?&lt;/h4&gt;
+
+&lt;p&gt;The promotion. I only had to make one tweet and it took off. I still don’t know who from my tiny follower base initially retweeted it, but I should find them and thank them.&lt;/p&gt;
+
+&lt;h4&gt;When I was clicking I started to wonder if the whole thing was an elaborate joke with nothing actually being moved. One of the things that kept me clicking was that I was able to see when it was last accessed, so I could start to see myself getting closer. It felt like a linear path.&lt;/h4&gt;
+
+&lt;h4&gt;It occurred to me that you could kind of skip the line if you had a link from someone who had seen it recently. I was thinking that you could have kind of social aspect with someone handing out good link position, and sharing them around Twitter or a forum. And no matter what, that link would become less valuable over time. It’s kind of the opposite of how finding something typically works. People usually get more recognition for handing out earlier artifacts like demos, first editions etc.&lt;/h4&gt;
+
+&lt;h4&gt;Finding Permanent Redirect early would mean you had an easier time, but people could choose to actually make it easier for new people if they wanted and those links would become staler and staler, and the newest person’s link would always be the most useful. Was that something you thought about at all?&lt;/h4&gt;
+
+&lt;p&gt;I didn’t expect people to pay attention to this project at all, let alone share links to good shortcuts to the art. I initially had the counters max out at 9999 because I thought there was no way it would go over that.&lt;/p&gt;
+
+&lt;p&gt;It turned out to have all sorts of social implications that I didn’t think about. For instance this point it’s extremely difficult to reach the art just by manually clicking through the redirects. The people who were able to use automation to get to the art and push it along have become essentially the only people who are able to see it at this point.&lt;/p&gt;
+
+&lt;h4&gt;How many people have seen the art at this point?&lt;/h4&gt;
+
+&lt;p&gt;It’s impossible to know how many “people” have seen it, but the counter on the art is over 135,000 now. Mostly due to bots.&lt;/p&gt;
+
+&lt;h4&gt;What have the reactions been like?&lt;/h4&gt;
+
+&lt;p&gt;In the beginning people were really excited to reach the art after a few clicks. I saw one person hashtag #isawtheart and I thought that was great. Once it got to over a thousand clicks, people were still doing it manually and coming back disappointed at the end. I never said the “art” would be worth that much clicking, but it has been very interesting to see the range of responses and how it changed over time.&lt;/p&gt;
+
+&lt;h4&gt;Has anything about the response to the project surprised you?&lt;/h4&gt;
+
+&lt;p&gt;All of the response! It’s normal to create stuff and have very few people notice. This was a crazy way to start off my 52 weeks of media art, and I can only hope I haven’t peaked on the first week. Keep an eye on my twitter &lt;a href=&quot;http://twitter.com/donald_hans0n&quot;&gt;@donald_hans0n&lt;/a&gt; and website &lt;a href=&quot;https://donaldhanson.net&quot;&gt;https://donaldhanson.net&lt;/a&gt; for updates an all my new projects.&lt;/p&gt;
+</content>
+<summary>About a week ago my girlfriend watched me click on a link over and over again for several minutes. I thought I saw her re-evaluating some life decisions when I said “I’m getting closer” despite the fact that nothing on the page seemed to change. Once I finally showed her what I’d been working towards it was unmistakable. And yet, I was truly pleased. Seeing the trail of digital breadcrumbs leading me to Donald Hanson’s elusive art page was low key exciting, and I thought the concept was really fun.</summary>
+</entry>
 <entry>
 <title>Andrew Wong - Astronaut.io</title>
 <link href="http://ihadtendollars.com/interviews/andrew-wong.html" rel="alternate" type="text/html" title="Andrew Wong - Astronaut.io" />
@@ -767,57 +831,5 @@ note: since i wrote this, i published that chrome extension; &lt;a href=&quot;ht
 &lt;p&gt;No way! There are lots of things I’d love to see refined or added. I try to work on it as much as I can, but I am but one person (so, pull requests welcome!). I’d like to make the sorting not just work for the alphabet, I’d like to add marker clustering to maps, it needs tests! I’d love to see more fork-n-go projects built with Sheetsee, and it needs tests! And whatever else is open in the Issues for the repository!&lt;/p&gt;
 </content>
 <summary>I met Jessica at Taco Conf when she was at Code for America, and I remember being really inspired by her work as well as the passion she had for it. One of the things I like about Jessica’s work is that you get the sense that she really cares about helping people solve problems, and goes about it in a way that gets them started on a track where they can keep improving their solutions. As you’ll see, Sheetsee lowers the barrier for visualizing data using tools people are already familiar with. Her project Git-it is an application that runs in your terminal to help you learn how to use git and github.</summary>
-</entry>
-<entry>
-<title>Amber Gordon - Femsplain</title>
-<link href="http://ihadtendollars.com/interviews/amber-gordon.html" rel="alternate" type="text/html" title="Amber Gordon - Femsplain" />
-<published>2014-11-13T00:00:00-08:00</published>
-<updated>2014-11-13T00:00:00-08:00</updated>
-<id>http://ihadtendollars.com/interviews/amber-gordon</id>
-<content type="html" xml:base="http://ihadtendollars.com/interviews/amber-gordon.html">&lt;p&gt;I dislike the term “internet savvy” because it doesn’t really tell me anything – There are just so many parts of the internet and so many types of behaviors that take place on it – but if there’s anyone it’s safe to say is internet savvy, I think it would probably be Amber.&lt;/p&gt;
-
-&lt;p&gt;I emailed Amber these questions before the site even launched because I knew she would bring her own perspective to what a platform for women should be and knock it out of the park. I wasn’t exactly sure what to expect, but it has been great watching &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; unfold over the couple of weeks. For one thing, Femsplain fits Tumblr like a glove. I really like how they reblog their writers and publish pull quotes (the type of thing typically shared on Tumblr anyway) as their own separate posts. Sometimes the line between the &lt;a href=&quot;http://femsplain.tumblr.com/&quot;&gt;Femsplain Tumblr&lt;/a&gt; and main site kind of get blurred for me a little bit, but that’s interesting too. And the topic of “firsts” is broad enough that there is a breadth of different subjects and voices represented. In less than a month a place holder landing page has turned into what feels like a vibrant community space.&lt;/p&gt;
-
-&lt;p&gt;Okay, Amber now&lt;/p&gt;
-
-&lt;h4&gt;Who are you and what do you do for a living?&lt;/h4&gt;
-
-&lt;p&gt;I’m &lt;a href=&quot;http://twitter.com/missambear&quot;&gt;Amber Gordon&lt;/a&gt;, 24 years old. Lover of coffee, content, and Internet culture. I live in a sublet apartment in Chelsea, NYC. My hobbies include discovering weird online communities, playing online games when I have time, and learning as much as I can about whatever excites me. For a living I’m a Creative Strategist at &lt;a href=&quot;http://tumblr.com&quot;&gt;Tumblr&lt;/a&gt;. It’s really a fancy title, but what it means is I ideate creative content solutions and consult top 100 brands on how best to use the Tumblr platform.&lt;/p&gt;
-
-&lt;h4&gt;What is &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt;?&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; is a publishing platform for anyone who identifies as a woman to contribute any type of content fitting the assigned month’s theme. We also encourage anyone to read and support the voices that have contributed.&lt;/p&gt;
-
-&lt;h4&gt;Did you look to other publications or writers for inspiration? I initially thought of Lady Bits when I heard about Femsplain, but it’s not really centralized; and the monthly theme and open call made me think about 24 Hour Mag, but you’ll be releasing content regularly instead of in issues.&lt;/h4&gt;
-
-&lt;p&gt;I certainly listed out publications and writers I admired, I also listed publications I didn’t want to imitate for x and y reasons. Three of those [prior] publications were &lt;a href=&quot;http://www.rookiemag.com/&quot;&gt;Rookie Mag&lt;/a&gt;, &lt;a href=&quot;http://the-toast.net/&quot;&gt;The Toast&lt;/a&gt;, and &lt;a href=&quot;http://thehairpin.com/&quot;&gt;The Hairpin&lt;/a&gt;. More importantly, two writers who’ve inspire me and I greatly admire are &lt;a href=&quot;https://twitter.com/jazzedloon&quot;&gt;Jazmine Hughes&lt;/a&gt; (Contributing Editor at The Hairpin) and &lt;a href=&quot;https://twitter.com/jessicakroy&quot;&gt;Jessica Roy&lt;/a&gt; (Senior Writer at New York Mag). Both are incredibly smart, funny, and just really good women, whom without knowing I’m doubtful I’d have the courage to launch &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;How did you settle on the idea of themed months?&lt;/h4&gt;
-
-&lt;p&gt;The themed months idea came from being stumped on, funny enough, which emoji categories we wanted to have. The emojis made it through to the launch but we decided against the traditional categories so that our contributors wouldn’t feel obligated to pick a specific one to write about. We’ve also made it so that the themes are broad enough that way anyone can create something with the theme loosely in their mind.&lt;/p&gt;
-
-&lt;h4&gt;It seems like you’ve put a lot of effort into emphasizing that Femsplain is a place for any woman to be heard. The submission guidelines are quite open, even allowing for screenshots of text threads. I was wondering if you’ve struggled at all between maintaining quality and making sure people who might not normally have a chance to be heard, or aren’t as experienced writing, still get included.&lt;/h4&gt;
-
-&lt;p&gt;So far the quality of the pieces we’ve received are incredible. I honestly didn’t know what to expect from the open submissions because honestly I didn’t know if anyone would contribute. At this date we’ve filled our content calendar for the month of November, 3 pieces per day, and they’re all insanely good. They feel so authentic and meaningful, every single one of them. You can feel how real emotions went into every piece, even the ones meant to be comical.&lt;/p&gt;
-
-&lt;p&gt;Of course we’ve gotten a fair amount of inquiries on sharing Tinder stories and to “maintain a quality” to the site we’ve just asked those women to still contribute but consider a different story. We don’t want to turn anyone who wants to share something away, and they understand.&lt;/p&gt;
-
-&lt;h4&gt;What do you think the biggest opportunity for Femsplain is? Like, what is the impact you’d most like to have?&lt;/h4&gt;
-
-&lt;p&gt;My vision for &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; has become harder and harder to talk about as each day passes. Every day something amazing happens that I would have never dreamed would and it’s so overwhelming. Everyone is so willing to offer their help, women and men. A great example of that is the day Femsplain launched, I was having site load issues because of the volume of people visiting the site. Someone on Twitter, who’m I hadn’t known till he tweeted at me asking if I needed help showed me how to fix the issues I was having over GChat. The other day one woman donated an unnecessarily large amount of money towards the launch party we’re having on the 21st. I have an entire volunteer staff of 17 women, editors, contributors, and one fantastic person who comes over my house every Sunday for the past few weeks to help me with anything I’m behind on.&lt;/p&gt;
-
-&lt;p&gt;I went off on a huge tangent, but really this is what my hopes are. We all come together to build a positive, supportive community that feels real. Like you mentioned, there really is a lack of visibility into what women go through everyday. If we can talk about our problems, triumphs, fears, and passions in a safe space and create thoughtful and educated conversations from them that’s a start.&lt;/p&gt;
-
-&lt;p&gt;Eventually I’d love to turn &lt;a href=&quot;http://femsplain.com&quot;&gt;Femsplain&lt;/a&gt; into something bigger, but right now I’m focused on building and spreading awareness.&lt;/p&gt;
-
-&lt;h4&gt;Me again. Thanks Amber! Here are a few of my favorite pieces on Femsplain right now if you’re interested, dear spirited reader.&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://femsplain.com/everyone-on-tinder-is-my-boyfriend/&quot;&gt;Everyone On Tinder Is My Boyfriend&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://femsplain.com/stop-giving-marketing-agencies-credit-that-the-fangirls-deserve/&quot;&gt;Stop Giving Marketing Agencies Credit That The Fangirls Deserve&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://femsplain.com/the-lost-art-of-making-out/&quot;&gt;The Lost Art Of Making Out&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<summary>I dislike the term “internet savvy” because it doesn’t really tell me anything – There are just so many parts of the internet and so many types of behaviors that take place on it – but if there’s anyone it’s safe to say is internet savvy, I think it would probably be Amber.</summary>
 </entry>
 </feed>

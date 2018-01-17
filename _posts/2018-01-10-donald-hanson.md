@@ -5,7 +5,7 @@ title: Donald Hanson - Permanent Redirect
 summary:
 categories: [art, scarcity, the search]
 ---
-About a week ago my girlfriend watched me click on a link over and over again for several minutes. I thought I saw her re-evaluating some life decisions when I said "I'm getting closer" despite the fact that nothing on the page seemed to change. Once I finally showed her what I'd been working towards it was unmistakable. And yet, I was truly pleased. Seeing the trail of digital breadcrumbs leading me to Donald Hanson's elusive art page was low key exciting, and I thought the concept was really fun.
+About a week ago my girlfriend watched me click on a link over and over again for several minutes. I thought I saw her re-evaluating some life decisions when I said "I'm getting closer" despite the fact that nothing on the page seemed to change. Once I finally showed her what I'd been working towards it was unmistakable. And yet, I was truly pleased. Seeing the trail of digital breadcrumbs leading me to Donald Hanson's [elusive art page](http://permanent-redirect.xyz) was low key exciting, and I thought the concept was really fun.
 
 <a href="/images/posts/permanent-redirect/permanent-redirect.png"><img src="/images/posts/permanent-redirect/permanent-redirect.png"></a>
 
@@ -13,7 +13,7 @@ About a week ago my girlfriend watched me click on a link over and over again fo
 
 I'm a new media artist and freelance web developer in Oakland California. I spend about half my time working on client projects and the rest working on personal projects. This year I'm doing 52 weeks of media art projects, and Permanent Redirect was the first one.
 
-#### What is Permanent Redirect?
+#### What is [Permanent Redirect](http://permanent-redirect.xyz)?
 
 It's a net art piece that moves to a new URL every time someone views it. But it also leaves a link to its new location, so you can follow the links to eventually arrive at the art piece. It has resulted in a very long chain of nearly identical pages. It was intended to make the artwork harder and harder to access.
 
