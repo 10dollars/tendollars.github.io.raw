@@ -3,9 +3,9 @@ layout: interview
 slug: donald.hanson
 title: Donald Hanson - Permanent Redirect
 summary:
-categories: [art, scarcity, the search]
+categories: [art, scarcity, the search, cool urls changing]
 ---
-About a week ago my girlfriend watched me click on a link over and over again for several minutes. I thought I saw her re-evaluating some life decisions when I said "I'm getting closer" despite the fact that nothing on the page seemed to change. Once I finally showed her what I'd been working towards it was unmistakable. And yet, I was truly pleased. Seeing the trail of digital breadcrumbs leading me to Donald Hanson's [elusive art page](http://permanent-redirect.xyz) was low key exciting, and I thought the concept was really fun.
+About a week ago my girlfriend watched me click on a link over and over again for several minutes. I thought I saw her re-evaluating some life decisions when I said, "I'm getting closer," despite the fact that nothing on the page seemed to change. Once I finally showed her what I'd been working towards it was unmistakable. But I was truly pleased. Seeing the trail of digital breadcrumbs leading me to Donald Hanson's [elusive art page](http://permanent-redirect.xyz) was low key exciting, and I thought the concept was really fun.
 
 <a href="/images/posts/permanent-redirect/permanent-redirect.png"><img src="/images/posts/permanent-redirect/permanent-redirect.png"></a>
 
@@ -44,9 +44,9 @@ The promotion. I only had to make one tweet and it took off. I still don't know 
 
 #### When I was clicking I started to wonder if the whole thing was an elaborate joke with nothing actually being moved. One of the things that kept me clicking was that I was able to see when it was last accessed, so I could start to see myself getting closer. It felt like a linear path.
 
-#### It occurred to me that you could kind of skip the line if you had a link from someone who had seen it recently. I was thinking that you could have kind of social aspect with someone handing out good link position, and sharing them around Twitter or a forum. And no matter what, that link would become less valuable over time. It's kind of the opposite of how finding something typically works. People usually get more recognition for handing out earlier artifacts like demos, first editions etc.
+#### It occurred to me that you could kind of skip the line if you had a link from someone who had seen it recently. I was thinking that you could have kind of social aspect with someone handing out good link position, and sharing them around Twitter or a forum. And no matter what, that link would become less valuable over time.
 
-#### Finding Permanent Redirect early would mean you had an easier time, but people could choose to actually make it easier for new people if they wanted and those links would become staler and staler, and the newest person's link would always be the most useful. Was that something you thought about at all?
+#### It's kind of the opposite of how finding something typically works. People usually get more recognition for handing out earlier artifacts like demos, first editions etc, but with Permanent Redirect the newest person's link would always be most useful. Was that something you thought about at all?
 
 I didn't expect people to pay attention to this project at all, let alone share links to good shortcuts to the art. I initially had the counters max out at 9999 because I thought there was no way it would go over that.
 
@@ -63,3 +63,6 @@ In the beginning people were really excited to reach the art after a few clicks.
 #### Has anything about the response to the project surprised you?
 
 All of the response! It's normal to create stuff and have very few people notice. This was a crazy way to start off my 52 weeks of media art, and I can only hope I haven't peaked on the first week. Keep an eye on my twitter [@donald_hans0n](http://twitter.com/donald_hans0n) and website [https://donaldhanson.net](https://donaldhanson.net) for updates an all my new projects.
+
+#### Notes
+The tag is a reference to this article by Tim Berners-Lee - [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
